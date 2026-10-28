@@ -16,7 +16,10 @@ designed so Bennett/Lieberman break few promises and Arab parties can show large
 ## Your stage-A job
 Research ONLINE (WebSearch/WebFetch, Hebrew + Arabic + English sources: party sites, platforms/מצע/البرنامج,
 Knesset, Ynet, Haaretz, Maariv, N12, Kan, ToI, JPost, Arab48, Panet, Bokra, Kul al-Arab, Al-Ittihad, etc.).
-Give special weight to the last ~4 months (July–Oct 2026, the campaign) and election-night / post-election statements.
+Give special weight to the last ~4 months (July–Oct 2026, the campaign) and election-night / post-election statements,
+AND equally to lifelong / pivotal ideological statements: founding charters and platforms, the leader's defining speeches,
+books and votes over their whole career (e.g. key Knesset votes, past coalition agreements, historic positions). Add a
+section '1b. Ideological foundations' covering these, and flag where recent statements diverge from long-held positions.
 
 Write your dossier to the file path you were given, structured as:
 1. Identity: leader, list, 2026 seats, base, ideology in 3 lines.
