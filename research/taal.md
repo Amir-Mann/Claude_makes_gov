@@ -1,213 +1,332 @@
-# Ta'al (תע"ל / الحركة العربية للتغيير): stage-A dossier
+# Ta'al (תע"ל / الحركة العربية للتغيير): stage-A dossier, run 2
 
-Prepared 2026-10-28 by the TA'AL agent. **Q** marks a verbatim quote and **P** marks a paraphrase. Each claim gives its source URL and date.
+This dossier was prepared on 28 Oct 2026 by the simulated Ta'al team. It is a simulation exercise and speaks for no real party.
+
+Notation:
+- **Q** marks a verbatim quote found at the cited URL.
+- **P** marks a paraphrase, either by me or by the outlet.
+- "(outlet's wording)" means the words are the outlet's, not Tibi's.
+
+Method:
+- I searched in Hebrew, Arabic and English.
+- The shared web-search budget ran out partway through. I could still fetch individual pages, but some leads could not be pursued; section 8 lists them.
 
 ---
 
-## 1. Identity
+## 0. Verification log of the run-1 file
 
-- **Leader:** Dr. Ahmad Tibi (أحمد الطيبي / אחמד טיבי). He is a gynaecologist from Tayibe, an MK since 1999, a long-serving Deputy Speaker, and was Arafat's political adviser from 1993 to 1999. [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi)
-- **List:** Ta'al runs inside the revived **Joint List (القائمة المشتركة / הרשימה המשותפת)** with Hadash and Balad.
-  - Slot order agreed 19 Aug 2026: 1. Yousef Jabareen (Hadash, *list chairman*); 2. **Tibi**; 3. Sami Abou Shahadeh (Balad, who later withdrew); 9th slot is Ta'al's.
-  - In return Ta'al got a rotation on the 6th and 9th slots and a **deputy Knesset Speaker post**. [ToI 19 Aug 2026](https://www.timesofisrael.com/arab-majority-hadash-taal-and-balad-parties-agree-on-joint-run-after-striking-deal/); [JPost 2 Oct 2026](https://jpost.com/israel-election-2026/article-910422)
-  - Tibi is expected to chair the List's **Knesset faction**. [ynetnews](https://www.ynetnews.com/article/ry0vpny6gx)
-  - Note: Tibi is *not* the formal list head. Jabareen is. Tibi is the List's best-known voice and its parliamentary tactician.
-- **2026 result:** about 12 seats for the Joint List (preliminary; ynet had 13 at 70% counted). Ta'al's own share is probably about 2–3 MKs, which is unverified.
-- **Disqualification fight:** Likud asked the Central Elections Committee (CEC) to disqualify the List, and the CEC voted 18–5 to do so. The Supreme Court unanimously overturned the ban on 2 Oct 2026. [JPost 29 Sep 2026](https://www.jpost.com/israel-election-2026/article-910109); [ToI 2 Oct 2026](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/)
-- **Base:** Arab (Palestinian) citizens of Israel, centred on the Triangle, Galilee towns and Negev Bedouin. The base is secular-nationalist and pragmatic, and leans middle class and professional.
-- **Ideology in three lines:**
-  1. A secular Arab-national movement that is non-Zionist or anti-Zionist. It wants Israel to become a "state of all its citizens" with full civic and *national/collective* equality for the Palestinian Arab minority.
-  2. Two states on the 4 June 1967 lines with East Jerusalem as the capital, an end to the occupation, and a just solution for refugees.
-  3. The most pragmatic of the Joint List's three components. It is ready to "influence from outside" (supporting a government without joining it) in return for concrete gains for Arab society.
+| # | Run-1 claim | Status | Source | Note |
+|---|---|---|---|---|
+| 1 | Joint List (JL) about 12 seats; ynet had 13 at 70% | **CORRECTED** | [ynetnews 28 Oct](https://www.ynetnews.com/article/hjnatbkaml); [Wikipedia, 14:32, 89.8%](https://en.wikipedia.org/wiki/2026_Israeli_legislative_election) | Sources disagree. ynet at 85.6% of votes: JL 13, Ra'am 6. Wikipedia at 89.8% reported: JL 12 (9.18%), Ra'am 7 (6.01%). All sources agree on 19 Arab seats. Double envelopes are counted 29–30 Oct; official results come 4 Nov. |
+| 2 | Ta'al ran inside the revived JL with Hadash and Balad; deal of 19 Aug 2026 | **CONFIRMED** | [ToI 19 Aug](https://www.timesofisrael.com/arab-majority-hadash-taal-and-balad-parties-agree-on-joint-run-after-striking-deal/); [JPost 906019](https://jpost.com/israel-election-2026/article-906019) | |
+| 3 | Slots: 1 Jabareen, 2 Tibi, 3 Abou Shahadeh; Ta'al gets slot 9 | **CONFIRMED, with addition** | [JPost 9 Aug](https://jpost.com/israel-election-2026/article-905009); [JPost 906019](https://jpost.com/israel-election-2026/article-906019) | Tibi first **rejected** the slate (9 Aug) and then withdrew his objection (18 Aug). JPost says Ta'al's second candidate was expected to be **Osama Saadi**, but its printed list puts a Hadash name at no. 9. |
+| 4 | Rotation of slots 6 and 9, plus a deputy-Speaker post for Ta'al | **CONFIRMED (attributed)** | [ToI 19 Aug](https://www.timesofisrael.com/arab-majority-hadash-taal-and-balad-parties-agree-on-joint-run-after-striking-deal/) | The source is a Hadash spokesman. |
+| 5 | Tibi to chair the JL Knesset faction | **CONFIRMED** | [ynetnews](https://www.ynetnews.com/article/ry0vpny6gx); [IMLebanon 28 Oct](https://www.imlebanon.org/2026/10/28/taybi7654/) ("رئيس كتلة القائمة المشتركة") | JPost 906019 also lists as expected: deputy Speaker and a "prominent committee such as Finance". |
+| 6 | Abou Shahadeh withdrew | **CONFIRMED** | [JPost 2 Oct](https://jpost.com/israel-election-2026/article-910422); [ToI 2 Oct](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/) | He withdrew irrevocably on 2 Oct after the court signalled it would disqualify him over his 8 Oct 2023 article, which he says he regrets. |
+| 7 | CEC voted 18–5 to disqualify the JL; Supreme Court unanimously overturned it on 2 Oct | **CONFIRMED** | [JPost 29 Sep](https://www.jpost.com/israel-election-2026/article-910109); [ToI 2 Oct](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/) | Ra'am was also banned and reinstated. Cassif was reinstated 7–2. Wikipedia's "23 Sep, same day" conflicts with this; I treat ToI/JPost as authoritative. |
+| 8 | Arafat adviser 1993–99; Wye 1998; MK since 1999 on the Balad list, then split | **CONFIRMED** | [en.wiki Tibi](https://en.wikipedia.org/wiki/Ahmad_Tibi) | |
+| 9 | Ta'al founded 1996 as "Arab Union" | **CONFIRMED (weak)** | [en.wiki Ta'al](https://en.wikipedia.org/wiki/Ta%27al) | Marked "citation needed". he.wiki says 1995. |
+| 10 | Disqualifications of 2003 (Tibi) and 2009 (Ra'am–Ta'al) overturned | **CONFIRMED** | [en.wiki Tibi](https://en.wikipedia.org/wiki/Ahmad_Tibi); [en.wiki Ta'al](https://en.wikipedia.org/wiki/Ta%27al) | |
+| 11 | Deputy Speaker 2006–19 and 2019–22; inquiry committee on Arab public employment 2008–12 | **CONFIRMED** | [en.wiki Tibi](https://en.wikipedia.org/wiki/Ahmad_Tibi) | |
+| 12 | 2010 Holocaust speech; Lapid: elders said it was perhaps "the best speech ever given in the Israeli Parliament" | **CONFIRMED** | [en.wiki Tibi](https://en.wikipedia.org/wiki/Ahmad_Tibi) | |
+| 13 | 2012: shahids are "symbols of the homeland" | **CONFIRMED** | [en.wiki Tibi](https://en.wikipedia.org/wiki/Ahmad_Tibi); [he.wiki](https://he.wikipedia.org/wiki/אחמד_טיבי) | he.wiki adds a "severe reprimand" from the Ethics Committee (Mar 2012) over a "Martyrs' Day" speech in Ramallah. |
+| 14 | 2014: told Hamas's magazine that Hamas is "not a terror organization" | **CONFIRMED as reported (right-wing source)** | [INN 27 Jun 2014](https://www.israelnationalnews.com/news/182241) | INN names the magazine *Palestine*; "Filastin" is not in the source. he.wiki adds the same view in 2009 and calls Hamas a "legitimate faction" in 2019 (P; I could not trace it to a primary source). |
+| 15 | 2017 quote: "one democratic state with equal rights to all, or an apartheid state" | **CONFIRMED** | [ynetnews 5199128](https://www.ynetnews.com/article/5199128) | Undated on the page. |
+| 16 | 2018 Nation-State Law: "the end of democracy and the official beginning of fascism and apartheid" (tweet); PLO adopted 19 July as "apartheid day" | **UNVERIFIED** | Forward returned 403. [Al Jazeera 31 Jul 2018](https://www.aljazeera.com/amp/news/2018/7/31/apartheid-formalised-palestinians-to-fight-jewish-state-law) | What *is* confirmed is a different quote: **Q** "It's an attempt at destroying the entire rhetoric of historic Palestine … it stands against an entire people." Tibi also announced a "national day of anti-apartheid". |
+| 17 | "Bibi or Tibi" campaign, 2019 | **CONFIRMED** | [en.wiki Tibi](https://en.wikipedia.org/wiki/Ahmad_Tibi) | |
+| 18 | Sep 2019: "The Joint list can't be part of a governing coalition because that would make us responsible…" | **CONFIRMED** | [Al-Monitor Sep 2019](https://al-monitor.com/originals/2019/09/israel-elections-arab-joint-list-ahmad-tibi-gantz-government.html) | Also [+972, 22 Jan 2019](https://www.972mag.com/ahmed-tibi-has-a-plan-to-unseat-netanyahu-but-it-means-leaving-his-palestinian-partners/): he rules out joining because of collective responsibility. |
+| 19 | 6 Jul 2021: JL voted with the right to defeat the Citizenship Law, 59–59 | **CONFIRMED** | [ToI 6 Jul 2021](https://www.timesofisrael.com/coalition-casts-netanyahu-bloc-as-joint-lists-useful-idiot-after-knesset-loss/) | Ministers mocked "Bibi and Tibi". |
+| 20 | Lapid–Tibi talks on NIS 200m for roads (2021) | **UNVERIFIED** | bhol returned 403 | |
+| 21 | Feb 2024 JPost quotes ("opposed the killing of Israeli civilians"; "Not every person who opposes the war supports Hamas"; "ending the occupation and forming a Palestinian state"; "collateral damage… inhumane") | **CONFIRMED** | [JPost 11 Feb 2024](https://www.jpost.com/israel-hamas-war/article-786419) | The idea of Hamas and Islamic Jihad joining the PLO umbrella is JPost's paraphrase. |
+| 22 | Jun 2024 Al-Monitor quotes ("against targeting civilians"; "hundreds of Arab citizens were hunted down"; "15,000 Palestinian children") | **CONFIRMED** | [Al-Monitor 28 Jun 2024](https://www.al-monitor.com/originals/2024/06/israels-top-arab-mp-says-his-people-hunted-over-gaza-support) | |
+| 23 | JPost 22 Oct 2026 two-stage plan and its quotes | **CONFIRMED** | [JPost 22 Oct](https://www.jpost.com/israel-election-2026/article-912624) | The press conference was "Sunday" (18 Oct). Run 1 missed the most important quotes: "Anyone who wants a safety net from us must first guarantee a safety net for you…" and "we will not agree with its basic political guidelines." |
+| 24 | Demands list (crime, demolitions, Kaminitz repeal, Triangle, master plans, 8,000 teachers / 4,000 doctors, Finance Committee seat, a law against indicted PMs; Ohana) | **CONFIRMED (P)** | [JPost 22 Oct](https://www.jpost.com/israel-election-2026/article-912624) | The source also says he would not stay silent on what he called "genocide and expulsion". Run 1 omitted this. |
+| 25 | INN 19 Sep quotes on Ohana and "I did not say that I want to be prime minister" | **CONFIRMED** | [INN 19 Sep 2026](https://www.israelnationalnews.com/news/433393) | |
+| 26 | Jabareen 12 Oct: "We're not giving anyone a blank check" plus conditions | **PARTLY CONFIRMED** | [JNS 12 Oct](https://www.jns.org/news/israel-news/arab-joint-list-says-will-offer-outside-support-for-coalition-without-netanyahu) | Confirmed: crime; no war budgets; no budgets for settlements; a "genuine political horizon". The Negev, employment and "national and civil rights" items were in the truncated part: **UNVERIFIED**. |
+| 27 | JL slogan "There is another option" | **UNVERIFIED** | [JPost 14 Sep](https://jpost.com/israel-election-2026/article-908588) | Only "Arabs and Jews together" and "the equality we offer" are confirmed. |
+| 28 | 28 Oct: Tibi "unlikely to become a formal coalition partner"; "we created a blocking bloc" | **CORRECTED** | [All Israel News / Kan 28 Oct](https://allisraelnews.com/brief/ahmad-tibi-confirms-joint-list-in-talks-with-change-bloc-i-hope-they-have-enough-courage) | The exact wording is **Q** "We prevented Netanyahu from forming a government by creating a blocking bloc". The headline quote is "I hope they have enough courage". "Unlikely formal partner" is a paraphrase. |
+| 29 | Haaretz 28 Oct "brave enough" | **CONFIRMED (headline only)** | [Haaretz 28 Oct](https://www.haaretz.com/israel-news/elections/2026-10-28/ty-article/.premium/joint-list-chairman-we-are-ready-to-oust-netanyahu/000001a1-81ff-db17-a3ff-d7ff01250000) | In Haaretz's paraphrase (Army Radio), the Eisenkot bloc could "govern with the Arab parties" if it ends the boycott. That goes further than "outside support". |
+| 30 | Der Standard quote: "There will be time after the election. Why give Netanyahu ammunition?" | **UNVERIFIED** | [Der Standard](https://www.derstandard.at/story/3000000343358/israels-arab-parties-could-be-the-kingmakers-in-its-election) | The quote was not on the fetched page. |
+| 31 | i24 report: the JL demands that Eisenkot not hand the mandate to Bennett | **UNVERIFIED** | i24 page empty | |
+| 32 | Feb 2026 Arabic quote "ليس كمواطنين، بل كأعداء" | **CONFIRMED** | [Al-Monitor AR Feb 2026](https://www.al-monitor.com/ar/originals/2026/02/ahmd-altyby-ythm-hkwmt-ntnyahw-ballambalat-tjah-hyat-alrb-alasrayylyyn-wasfaan) | |
+| 33 | "No verified explicit Hamas = terror statement after Oct 2023" | **CONFIRMED (no such statement found)** | — | he.wiki (P): after 7 Oct he "condemned Hamas's killing of women, children and the elderly", called for a hostage deal and an end to the war. |
+| 34 | Haredim, Oct 7 commission, Shin Bet in policing | **UNVERIFIED / inferred** | — | No sources found. |
+| 35 | L'Orient article on record crime | **UNVERIFIED (not re-fetched)** | — | The Al-Monitor AR Feb 2026 article reports 46 killed by early Feb 2026. |
+| 36 | (Omission in run 1) Ra'am was part of a four-party revival on 22 Jan 2026 and later left | **NEW** | [New Arab 28 Jan](https://www.newarab.com/analysis/can-revived-palestinian-joint-list-reshape-israeli-politics); [Al-Quds al-Arabi 12 Jul](https://www.alquds.co.uk/%d8%b3%d8%ac%d8%a7%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%ad%d9%88/); [Al Jazeera Studies](https://studies.aljazeera.net/ar/article/6638) | The split came over Abbas's wish to join a coalition. |
+| 37 | (Omission in run 1) Odeh is gone; Jabareen became Hadash chair in May 2026 | **NEW** | [Odeh en.wiki](https://en.wikipedia.org/wiki/Ayman_Odeh) | |
 
-## 1b. Ideological foundations (whole-career)
+---
 
-| Date | Pivotal act / statement | Source |
+## 1. Identity and latest result
+
+**Leader.** Dr. Ahmad Tibi (أحمد الطيبي / אחמד טיבי).
+- Born 1958 in Tayibe; gynaecologist.
+- Adviser to Arafat 1993–99.
+- MK since 1999 and long-time deputy Speaker.
+- Source: [en.wiki](https://en.wikipedia.org/wiki/Ahmad_Tibi).
+
+**List.** Joint List (Hadash + Ta'al + Balad); Tibi is **no. 2**.
+- List head: Yousef Jabareen (Hadash), who became Hadash chair in May 2026 after Odeh retired.
+- Tibi is **chairman of the JL Knesset faction** ([ynetnews](https://www.ynetnews.com/article/ry0vpny6gx)).
+- Ta'al's second slot was earmarked for Osama Saadi (P, [JPost](https://jpost.com/israel-election-2026/article-906019)). Whether he is elected depends on the final order and seat count, which I could not verify.
+- Realistically, Ta'al has **2 MKs** (Tibi plus one), out of 12–13.
+
+**Result** (28 Oct, preliminary):
+
+| Snapshot | JL | Ra'am | Netanyahu bloc | Eisenkot bloc | Arab parties |
+|---|---|---|---|---|---|
+| ynet, 85.6% of votes | 13 | 6 | 53 | 48 | 19 |
+| Wikipedia, 89.8% reported, 14:32 | **12** (9.18%) | 7 | 53 | 48 | 19 |
+
+- Sources: [ynet](https://www.ynetnews.com/article/hjnatbkaml); [Wikipedia](https://en.wikipedia.org/wiki/2026_Israeli_legislative_election).
+- Bloc arithmetic: Likud 26, Yashar 21, Together 12, Democrats 8, Yisrael Beiteinu 7, UTJ 7, Otzma 7, Shas 7, RZP 6.
+- **Arithmetic that matters to us:** Eisenkot bloc 48 + Ra'am 6–7 = 54–55, against Netanyahu's 53.
+  - **No change government survives without at least the JL abstaining.**
+  - That is Tibi's leverage, and he has said so: "القائمة العربية المشتركة هي التي ستحسم" ([MTV Lebanon 28 Oct](https://www.mtv.com.lb/news/1752962)).
+- Ra'am: Abbas had said Ra'am needs 7 seats to be the arbiter ([i24 FR](https://www.i24news.tv/fr/actu/israel/politique/artc-mansour-abbas-ra-am-doit-obtenir-7-sieges-pour-permettre-un-changement-de-gouvernement)). It got 6–7.
+- The JL had a surplus-vote agreement with Ra'am ([Wikipedia](https://en.wikipedia.org/wiki/2026_Israeli_legislative_election)).
+
+**2026 path to the list:**
+
+| Date | Event | Source |
 |---|---|---|
-| 1993–1999 | Political adviser to Yasser Arafat; part of the Palestinian team at Wye River (1998). This rooted Tibi's identity as a Palestinian national figure *and* an Israeli parliamentarian. | [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi) |
-| 1996–1999 | Founded Ta'al (first ran as "Arab Union" in 1996). Entered the Knesset in 1999 on the Balad list, then split off. The party calls itself Arab-nationalist, secular, "anti-Zionist", and wants Arab citizens recognised as a **national minority**. | [Wikipedia Ta'al](https://en.wikipedia.org/wiki/Ta%27al) |
-| 2003, 2009 | The CEC disqualified Tibi (2003) and the Ra'am–Ta'al list (2009). The Supreme Court overturned both. Repeated disqualification attempts are a formative grievance. | [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi); [Adalah](https://www.adalah.org/en/content/view/6290) |
-| 2006–2019, 2019–2022 | Deputy Knesset Speaker. Tibi values parliamentary procedure and institutional posts, which is why he insists on the Speaker and committee seats. | [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi) |
-| 2008–2012 | Chaired the parliamentary inquiry committee on Arab employment in the public sector, which he had initiated. Employment and representation are his signature issue. | [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi) |
-| Jan 2010 | **Holocaust Remembrance Day speech in the Knesset.** Lapid (then a journalist) said elders called it possibly "the best speech ever given in the Israeli Parliament". This shows Tibi can use universalist, humanist language toward Jewish suffering. | [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi) |
-| 2012 | Called *shahids* (martyrs) "symbols of the homeland" at a rally and was criticised for it. Shows his refusal to delegitimise Palestinian national narratives. | [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi) |
-| June–July 2014 | Told Hamas's *Filastin* magazine that Hamas is "not a terror organization" (P; the source is right-wing). | [INN](https://www.israelnationalnews.com/news/182241) |
-| 2017 | **Q** "those who eliminated the two-state vision must decide: either one democratic state with equal rights to all, or an apartheid state." Two states remains his first choice, with an equal-rights single state as the fallback. | [ynetnews](https://www.ynetnews.com/article/5199128); [Al-Monitor 2017](https://al-monitor.com/originals/2017/03/palestine-israel-two-state-solution-independent-state.html) |
-| 18–19 Jul 2018 | **Nation-State Law.** Tibi shouted in the plenum that it was an apartheid / racist law and was removed (P/Q via reports). He later called it **Q** "the end of democracy and the official beginning of fascism and apartheid" (tweet). He proposed an annual day against "Israeli apartheid", and the PLO adopted 19 July. | [JPost](https://www.jpost.com/jerusalem-report/negotiating-identity-507894); [Forward](https://forward.com/fast-forward/408625/apartheid-day-will-mark-passage-of-the-nation-state-law/); [Al Jazeera](https://www.aljazeera.com/amp/news/2018/7/31/apartheid-formalised-palestinians-to-fight-jewish-state-law) |
-| Apr 2019 | Target of Netanyahu's "ביבי או טיבי" campaign. | [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi) |
-| Sep 2019 | **Q** "The Joint list can't be part of a governing coalition because that would make us responsible for the decisions taken by the government". The Joint List still recommended Gantz to the President (2019, 2020). | [Al-Monitor 2019](https://al-monitor.com/originals/2019/09/israel-elections-arab-joint-list-ahmad-tibi-gantz-government.html) |
-| June 2021 – July 2021 | During the Bennett–Lapid government the Joint List stayed in opposition. On 6 Jul 2021 it voted with the right to defeat the extension of the Citizenship (Family Unification) Law (59–59). Tibi's faction was singled out by Yamina. Meanwhile Lapid reportedly held quiet talks with Tibi on about NIS 200m for roads in Arab towns in return for cooperation on votes, which shows Tibi's "outside-support for deliverables" model. | [Al Jazeera](https://www.aljazeera.com/amp/news/2021/7/6/israeli-government-fails-to-extend-controversial-citizenship-law); [ToI](https://www.timesofisrael.com/coalition-casts-netanyahu-bloc-as-joint-lists-useful-idiot-after-knesset-loss/); [bhol](https://www.bhol.co.il/news/1389589) |
-| Feb 2024 | Post-Oct 7 JPost interview: **Q** "The Arab public opposed the killing of Israeli civilians" ("and said so"). **Q** "Not every person who opposes the war supports Hamas. This is nonsense." **Q** "There is only one thing it has not tried – ending the occupation and forming a Palestinian state." He supports two states. **P**: he favours Hamas and Islamic Jihad joining the PLO umbrella and Palestinian elections. | [JPost 11 Feb 2024](https://www.jpost.com/israel-hamas-war/article-786419) |
-| Jun 2024 | **Q** "We said here and everywhere that we are against targeting civilians". **Q** "After October 7, hundreds of Arab citizens were hunted down, chased by the Israeli police". | [Al-Monitor 28 Jun 2024](https://www.al-monitor.com/originals/2024/06/israels-top-arab-mp-says-his-people-hunted-over-gaza-support) |
+| 22 Jan | Four-party reunification understanding, Ra'am included | [New Arab](https://www.newarab.com/analysis/can-revived-palestinian-joint-list-reshape-israeli-politics) |
+| Spring–summer | Ra'am leaves. Abbas: the four-party list "قد انتهت" | [Al-Quds 12 Jul](https://www.alquds.co.uk/%d8%b3%d8%ac%d8%a7%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%ad%d9%88/) |
+| 9 Aug | Tibi rejects the slate offering Ta'al slots 2 and 9 | [JPost](https://jpost.com/israel-election-2026/article-905009) |
+| 18–19 Aug | Tibi agrees, in exchange for the 6/9 rotation and a deputy Speaker post | [ToI](https://www.timesofisrael.com/arab-majority-hadash-taal-and-balad-parties-agree-on-joint-run-after-striking-deal/) |
+| Sep–2 Oct | CEC disqualifies 18–5; the Supreme Court overturns; Abou Shahadeh withdraws | [JPost](https://www.jpost.com/israel-election-2026/article-910109); [ToI](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/) |
+| 27 Oct (election day) | Netanyahu campaigns *against Tibi personally* (bus photo; "a government of Lieberman, Eisenkot and the Arab parties") | [Shorouk 27 Oct](https://www.shorouknews.com/news/view.aspx?cdate=27102026&id=29284543-ea18-4281-9a38-3dbeb3bb8564); [Masrawy](https://www.masrawy.com/news/news_publicaffairs/details/2026/10/27/3069591/) |
 
-**Divergence flags: recent statements vs. long-held positions**
+**Name.** Self-designation: الحركة العربية للتغيير ("Arab Movement for Change/Renewal").
 
-1. **Coalition role.** Long-held: never join a coalition (2019 quote). In 2026: Tibi still offers only *outside* support. On 28 Oct he also challenged the opposition to be "brave enough" to break the boycott, which hints at openness to a more formal arrangement. That is a **softening in tone, not in doctrine**. No 2026 statement says Ta'al would take ministries.
-2. **Hamas.** In 2014 he said "not a terror organization". From 2023 to 2024 he condemned *killing/targeting civilians* but did not, as far as I can verify, explicitly label Hamas "terrorist". This is the biggest gap against the draft statement's requirement.
-3. **Two states.** The commitment is consistent. Since 2017 he has added a one-state/"apartheid" alternative as a rhetorical warning.
-4. **Pragmatism on deliverables.** Consistent since 2021: concrete budgets in return for votes.
+## 2. Ideological foundations (lifelong)
 
-## 2. Platform / core promises (2026 campaign)
+**Arab-national, secular, non- or anti-Zionist.** Tibi opposes the Jewish-state definition as racist and wants "a state of all its citizens".
+- He favours removing the Law of Return, flag and anthem as Jewish symbols.
+- He opposes Arab service in the IDF.
+- He supports the right of return in principle, but says few refugees would actually move.
+- Sources: [en.wiki](https://en.wikipedia.org/wiki/Ahmad_Tibi); [he.wiki](https://he.wikipedia.org/wiki/אחמד_טיבי) (on conscription, "even within a state of all its citizens").
 
-- **Two-stage plan** (press conference about 18–20 Oct 2026, JPost 22 Oct 2026):
-  - **Q** "The first step is to bring down this government"
-  - **Q** "We will not allow Netanyahu to be caretaker prime minister."
-  - **Q** "We know that the next government will not be a peace government"
-  - **Q** "we are choosing between the bad and the worse."
-  - Stage two is a parliamentary safety net from *outside* for a "less bad" government, in return for meeting Arab demands. [JPost](https://www.jpost.com/israel-election-2026/article-912624)
-- **Concrete demands** (P, JPost 22 Oct 2026):
-  - A comprehensive plan against crime and violence in Arab society.
-  - A halt to home demolitions, especially in the Negev.
-  - **Repeal of the Kaminitz Law.**
-  - Action on eviction and demolition orders in the Triangle (Tayibe, Tira, Qalansawe).
-  - Approval of master plans (תוכניות מתאר / مخططات هيكلية) for Arab localities.
-  - Jobs for Arab professionals: about 8,000 unemployed teachers, and about 4,000 doctors who are unemployed or cannot get residencies.
-  - A **seat on the Knesset Finance Committee** before a coalition forms.
-  - A law barring an indicted person from forming a government.
-- **Removing Speaker Amir Ohana** "in the first days of the next Knesset". Tibi accused him of turning the Knesset into a "Kahanist and racist arena" (Q, JPost 22 Oct). On *Meet the Press*: **Q** "We will support the candidate against him… It is total control of the Knesset." [INN 19 Sep 2026](https://www.israelnationalnews.com/news/433393)
-- **Q** "I did not say that I want to be prime minister; the Joint List does not demand that." (19 Sep 2026, same source)
-- **List chairman Jabareen's conditions** (12 Oct 2026), which bind Ta'al within the List:
-  - **Q** "We're not giving anyone a blank check".
-  - Crime.
-  - No support for war budgets or for budgets for Jewish communities in the West Bank (JNS uses "Judea and Samaria").
-  - A "genuine political horizon".
-  - Halting demolitions and legal status for unrecognised Negev villages.
-  - Employment, housing and education.
-  - Arab citizens' "national and civil rights".
-  [JNS 12 Oct 2026](https://www.jns.org/news/israel-news/arab-joint-list-says-will-offer-outside-support-for-coalition-without-netanyahu); [Wikipedia campaign](https://en.wikipedia.org/wiki/2026_Israeli_legislative_election_campaign)
-- **Joint List slogan:** "There is another option". Its vision is "Arabs and Jews together" and "the equality we offer" (Q, List statement, 14 Sep 2026). [JPost](https://jpost.com/israel-election-2026/article-908588)
+**Two states on the 1967 lines, with East Jerusalem as capital, and an end to occupation.**
+- Fallback warning: **Q** "those who eliminated the two-state vision must decide… either one democratic state with equal rights to all, or an apartheid state" ([ynetnews](https://www.ynetnews.com/article/5199128)).
+- Settlements: a "גידול סרטני שיש להסיר" ("a cancerous growth to be removed", May 2009, per [he.wiki](https://he.wikipedia.org/wiki/אחמד_טיבי)).
 
-## 3. Red lines and campaign promises on coalition partners
+**PLO / PA ties.**
+- He met Arafat in Tunis in 1984, while such meetings were illegal, and advised him from 1993 to 1999 ([en.wiki](https://en.wikipedia.org/wiki/Ahmad_Tibi)).
+- He is regarded as the Arab MK closest to Fatah/PA circles. I found no 2026-specific item on this, so it is unverified for 2026.
 
-- **Netanyahu:** absolute opposition. Bringing him down is the stated goal, and he must not stay on as caretaker. (JPost 22 Oct)
-- **Ben-Gvir / Smotrich:** opposition is a core motive. Tibi argues Netanyahu wants to keep them in office as caretaker ministers. (JPost 22 Oct)
-- **Joining the coalition:** "unlikely to become a formal coalition partner" (P, Tibi, 28 Oct 2026). [All Israel News](https://allisraelnews.com/brief/ahmad-tibi-confirms-joint-list-in-talks-with-change-bloc-i-hope-they-have-enough-courage)
-- **Limits on the outside support:** the List is *not* obliged to:
-  - vote for settlements;
-  - accept the Nation-State Law;
-  - stay silent on the Citizenship Law, visits to al-Aqsa, or cuts to Arab local authorities.
-  It is not bound to back every policy. (P, JPost 22 Oct)
-- **Before the vote:** **Q** "There will be time after the election. Why give Netanyahu ammunition?" (no talks with Eisenkot at that stage). [Der Standard/Economist](https://www.derstandard.at/story/3000000343358/israels-arab-parties-could-be-the-kingmakers-in-its-election)
-- **Reported List demand (unverified, i24 Hebrew):** Eisenkot must not hand the mandate to Bennett. [i24](https://www.i24news.tv/he/news/israel-elections-2026/artc-972566db)
-- **Haredim:** no stated red line. Ta'al has historically cooperated tactically with Haredi parties against the right and has no ideological veto.
-- **Lieberman, Bennett and Eisenkot** have refused to rely on Arab parties. Tibi says this is what makes outside support the realistic route. (JPost 22 Oct)
+**Doctrine of the "blocking bloc" and outside support (consistent for 30 years).**
+- 2019: he left the JL to build "a political bloc to thwart a right-wing government". He ruled out joining a coalition because of collective responsibility, and demanded a 10-year NIS 64bn plan ([+972, 22 Jan 2019](https://www.972mag.com/ahmed-tibi-has-a-plan-to-unseat-netanyahu-but-it-means-leaving-his-palestinian-partners/)).
+- Sep 2019: **Q** "The Joint list can't be part of a governing coalition because that would make us responsible for the decisions taken by the government" ([Al-Monitor](https://al-monitor.com/originals/2019/09/israel-elections-arab-joint-list-ahmad-tibi-gantz-government.html)).
+- 2026: **Q** "In the 1990s, there was a blocking bloc. Today, the Joint List is offering a safety net in exchange for commitments." ([JPost 22 Oct 2026](https://www.jpost.com/israel-election-2026/article-912624)).
 
-## 4. Positions on the statement topics
+**Hamas.**
 
-### (a) Jewish state / Nation-State Law
-- Long-held: Israel's Jewish self-definition is discriminatory. He wants a "state of all its citizens" and the removal of Jewish-exclusive symbols (the Law of Return, the flag and the anthem). [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi)
-- He called the Nation-State Law "apartheid" in 2018 (see 1b). In 2026 he says support "does not mean accepting the Nation-State Law" (P, JPost 22 Oct 2026).
-- **Implication:** Ta'al **cannot sign** an *affirmation* of "Israel as a Jewish state". It could at most *tolerate* a descriptive clause in a statement signed by the coalition parties alone (and not by the Joint List), especially if the same text gives "democratic" and "full equality" real weight. Wording such as "Jewish and democratic state" as a *legal fact as of now*, not endorsed by the Joint List, is the outer limit. Any version that endorses the Nation-State Law is a deal-breaker.
+| Date | Statement | Source |
+|---|---|---|
+| 2009 | Hamas not a terror organisation (P) | [he.wiki](https://he.wikipedia.org/wiki/אחמד_טיבי) |
+| 2014 | Hamas "not a terror organization" (P, INN) | [INN 2014](https://www.israelnationalnews.com/news/182241) |
+| 2019 | Hamas a "legitimate faction" (P) | he.wiki, unsourced |
+| 2007 | He called Hamas's Gaza takeover a "serious mistake" | he.wiki |
+| Post-7 Oct | Condemns the *killing of civilians*. Not found: any first-person "Hamas is a terrorist organisation" | See §5 |
 
-### (b) Terrorism, Hamas, Oct 7, Gaza, hostages
-- **Civilians:**
-  - "The Arab public opposed the killing of Israeli civilians" (Q, Feb 2024).
-  - "against targeting civilians" (Q, Jun 2024).
-  - "collateral damage" is a "terrible, inhumane phrase" (Q, Feb 2024, about Gaza).
-- **Hamas:**
-  - No verified explicit "Hamas is a terrorist organisation" statement. In 2014 he said "not a terror organization" (P via INN).
-  - **P**: he favours Hamas joining the PLO and taking part in elections (Feb 2024).
-- **Gaza:** he highlights mass child casualties ("more than 15,000 Palestinian children killed", Q, Jun 2024). The List rejects war budgets (Jabareen, Oct 2026).
-- **Hostages:** I found no specific 2026 quote. Historically Ta'al backs a ceasefire and exchange deals (P, unverified).
-- **Balad sensitivity:** Abou Shahadeh wrote an article on 8 Oct 2023 reportedly supportive of the attack. He later said he regretted it. [ToI](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/)
-- **Implication:**
-  - Ta'al can sign "condemn all harm to civilians / all terrorism against civilians, Jewish and Arab".
-  - Naming Hamas is hard but probably possible if it is paired with explicit condemnation of Jewish/settler terrorism and of harm to Gaza civilians, and phrased as *"the October 7 massacre of civilians by Hamas"*. That condemns an act, not the Palestinian national movement.
-  - It cannot sign language that brands Palestinian resistance in general as terrorism, or that justifies the Gaza war.
+**Conduct in past Knesset votes.**
+- Recommended Gantz in 2019 and 2020.
+- Stayed in opposition to Bennett–Lapid, and on 6 Jul 2021 voted with the right against the Citizenship Law ([ToI](https://www.timesofisrael.com/coalition-casts-netanyahu-bloc-as-joint-lists-useful-idiot-after-knesset-loss/)).
+- Ta'al has never sat in a coalition.
 
-### (c) Arab citizens
-- **Crime:** the top priority.
-  - 2026 may be the deadliest year on record, with killings almost daily. [L'Orient](https://today.lorientlejour.com/article/1494446/crime-in-israels-arab-communities-reflects-a-society-in-distress.html)
-  - Tibi on the police and government: Arabs are treated **Q** "ليس كمواطنين، بل كأعداء" ("not as citizens, but as enemies"). [Al-Monitor Feb 2026](https://www.al-monitor.com/ar/originals/2026/02/ahmd-altyby-ythm-hkwmt-ntnyahw-ballambalat-tjah-hyat-alrb-alasrayylyyn-wasfaan)
-  - Ta'al demands a comprehensive plan against crime and violence.
-- **Budgets:** a five-year plan of the Decision 550/922 type, restored and expanded. Reversing cuts to Arab local authorities is a declared line (JPost 22 Oct).
-- **Planning and housing:** master plans, an end to demolitions, **repeal of the Kaminitz Law**, and a halt to Triangle evictions (JPost 22 Oct).
-- **Negev:** recognition of the unrecognised villages and a halt to demolitions (Jabareen, 12 Oct).
-- **Representation and employment:**
-  - Public-sector hiring has been his signature issue since his 2008–2012 inquiry committee.
-  - Jobs for 8,000 teachers and residencies for about 4,000 doctors.
-  - Arab representation in Knesset committees (Finance) and the presidium (the deputy Speaker post).
+**Rivalries.**
+- **Odeh/Hadash.** In 2019 Tibi publicly called Odeh's credit-claiming for Resolution 922 "wrong and deceitful", demanded primaries, and split ([+972](https://www.972mag.com/ahmed-tibi-has-a-plan-to-unseat-netanyahu-but-it-means-leaving-his-palestinian-partners/)). In 2026 Odeh is out, and Tibi's leverage within the list grew: he forced a better deal in August.
+- **Abbas/Ra'am.** Ta'al rejects Abbas's model of joining a coalition. Abbas recounts that Tibi told him privately he could not bear "حجم التهجم والتخوين" (the scale of attacks and accusations of treason) that Abbas faces ([Al-Quds 12 Jul 2026](https://www.alquds.co.uk/%d8%b3%d8%ac%d8%a7%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%ad%d9%88/), Abbas's account).
+  - Reading: Tibi's objection is partly about *cost to reputation*, not only principle.
 
-### (d) West Bank
-- Ta'al supports ending the occupation (الاحتلال / הכיבוש) and two states on the 1967 lines with East Jerusalem as the capital. [Wikipedia](https://en.wikipedia.org/wiki/Ahmad_Tibi); JPost Feb 2024.
-- It will not vote for settlements (JPost 22 Oct) and opposes budgets for settlements (Jabareen, 12 Oct).
-- It opposes annexation, and opposes settler violence strongly and consistently. No specific 2026 quote was located.
-- **Implication:**
-  - The draft's clauses on Jewish/settler terrorism and on evacuating illegal outposts are *real gains* for Ta'al.
-  - "Territories under military control" is acceptable but weaker than "occupation". It is tolerable if the text does not use "Judea and Samaria" as the sole term.
+## 3. 2026 platform, red lines, promises about partners
 
-### (e) Other items
-- **Oct 7 state commission of inquiry:** Ta'al supports one, as part of the anti-Netanyahu camp (P, inferred, not verified).
-- **Judiciary:** opposes the judicial overhaul. The Supreme Court saved the List from disqualification in 2003, 2009 and 2026.
-- **Haredi draft:** not a Ta'al priority. It opposes military service for Arabs in general, and would likely abstain or follow the List.
-- **Economy:** socially progressive, focused on Arab local authorities and employment.
-- **Religion and state:** secular, but no activism on this.
-- **Al-Aqsa:** opposes any change to the status quo and reserves the right to protest (JPost 22 Oct).
-- **Citizenship Law:** opposes it (2021 vote; JPost 22 Oct).
+**Two-stage plan** (press conference 18 Oct; [JPost 22 Oct](https://www.jpost.com/israel-election-2026/article-912624)):
+- **Q** "The first step is to bring down this government"
+- **Q** "clear the way for an alternative, less bad government that will have to listen to our demands"
+- **Q** "We know that the next government will not be a peace government"
+- **Q** "we will not agree with its basic political guidelines."
+- **Q** "But we are choosing between the bad and the worse."
+- **Q** "We will not allow Netanyahu to be caretaker prime minister."
+- **Q** "Anyone who wants a safety net from us must first guarantee a safety net for you, for our society,"
+- **Q** "This time, we will not wait for a new government to be formed before we begin making changes,"
+- **Q** "we will remove Knesset Speaker Amir Ohana, who has turned the Knesset into a Kahanist and racist arena"
 
-## 5. Terminology sensitivities
+**Demands** (P, same source):
+- a comprehensive crime plan;
+- a halt to demolitions, especially in the Negev;
+- **repeal** of the Kaminitz Law;
+- eviction orders in Tayibe, Tira and Qalansawe;
+- master plans;
+- about 8,000 unemployed teachers and about 4,000 doctors without jobs or residencies;
+- a **JL seat on the Finance Committee before a coalition forms**;
+- a law barring an indicted person from forming a government.
 
-| Must use / prefers | Cannot sign / avoid |
+**Not bound by** (P, same source):
+- The JL will not vote for settlements and will not accept the Nation-State Law.
+- It will not stay silent on "genocide and expulsion", al-Aqsa visits, the Citizenship Law or cuts to Arab local authorities.
+- It will keep advocating a political horizon for the Palestinian people.
+
+**Other statements:**
+- 19 Sep: **Q** "I did not say that I want to be prime minister; the Joint List does not demand that" ([INN](https://www.israelnationalnews.com/news/433393)).
+- List head Jabareen, 12 Oct: **Q** "We're not giving anyone a blank check". Conditions: crime; no war budgets; no budgets for settlements; a "genuine political horizon" ([JNS](https://www.jns.org/news/israel-news/arab-joint-list-says-will-offer-outside-support-for-coalition-without-netanyahu)).
+- Jan 2026 (to *The New Arab*): **Q** "The upcoming elections are not just about numbers", a "political and moral issue" ([New Arab](https://www.newarab.com/analysis/can-revived-palestinian-joint-list-reshape-israeli-politics)).
+
+**Partners:**
+
+| Partner | Position |
 |---|---|
-| الاحتلال / כיבוש ("occupation"); "השטחים הכבושים" | "יהודה ושומרון" as the sole descriptor. "Territories under military control" is acceptable as a compromise. |
-| الشعب الفلسطيني / העם הפלסטיני ("the Palestinian people"). Ta'al calls Arab citizens "الفلسطينيون في إسرائيل / عرب الداخل". | "Israeli Arabs / המגזר הערבי / מיעוטים" as the only label. Prefers "האזרחים הערבים" or "הציבור הערבי" at minimum. |
-| المساواة الكاملة, مدنية وقومية / שוויון מלא, אזרחי ולאומי ("full equality, civic and national") | Any **endorsement** of "מדינה יהודית" or חוק הלאום. A descriptive "Jewish and democratic" voiced by the coalition, not by the Joint List, is the outer limit. |
-| "الإرهاب اليهودي / טרור יהודי", "عنف المستوطنين / אלימות מתנחלים" | "טרור" applied to Palestinian armed struggle *as such*, or the whole national movement. Condemning attacks on civilians, including by Hamas on Oct 7, is signable. |
-| "الحل العادل / פתרון צודק", "دولة فلسطينية / מדינה פלסטינית" | Language that rules out a Palestinian state, or "managing the conflict" framed as permanent. |
-| النكبة (Nakba) is part of the narrative, but the List won't demand it in a coalition text. | Language criminalising Nakba commemoration. |
-| "أراضٍ تحت السيطرة العسكرية" is acceptable as a description. | "Disputed territories / שטחים שנויים במחלוקת". |
-| "شبكة أمان / רשת ביטחון" ("safety net"), "دعم من الخارج" ("support from outside") | "שותפות קואליציונית" implying shared responsibility for war or settlement policy. |
+| Netanyahu, Ben-Gvir, Smotrich | Total no. |
+| Eisenkot bloc | Ready to help from outside, for commitments |
+| Haredim | No stated position (unverified) |
+| Ra'am | Separate list; rival model |
+| Likud without Netanyahu | No statement found. Doctrinally unacceptable, since it is a right-wing government. |
 
-## 6. Negotiation profile
+## 4. Election-night and post-election statements (27–28 Oct 2026)
 
-**Must-haves** (visible, countable gains):
-1. Netanyahu is out, including as caretaker, and Ben-Gvir and Smotrich are out.
-2. A **national plan against crime** with budget, targets and a dedicated police/Shin Bet-type effort against crime organisations, under civilian oversight.
-3. A **freeze on home demolitions**; **repeal or amendment of the Kaminitz Law**; master plans approved; recognition of Negev villages, at least as a timetable and a moratorium.
-4. A **multi-year economic plan** (successor to 550) with *larger* budgets, and restored local-authority grants.
-5. **Recognition of Arab citizens as equal citizens** with explicit commitment to equality and representation in public service.
-6. A Finance Committee seat, a deputy Speaker post, and Ohana's removal.
+**27 Oct.** Responding to Netanyahu's turnout scare, Tibi (P) denied that Arab turnout exceeded Jewish turnout. He said Arab participation had risen but Jewish towns were still higher "by a wide margin", and urged Arabs to stay and vote ([Shorouk](https://www.shorouknews.com/news/view.aspx?cdate=27102026&id=29284543-ea18-4281-9a38-3dbeb3bb8564)).
 
-**Nice-to-haves:**
-- Freezing or amending the Nation-State Law.
-- An end to the Citizenship Law.
-- Statements on al-Aqsa.
-- A political horizon: a mention of the Palestinian people and an end to annexation.
-- Jobs for teachers and doctors.
-- A law barring indicted persons from forming a government.
+**28 Oct, Kan Radio** ([PNN](https://pnn.ps/news/729546)):
+- **Q** "يريد جمهورنا أن نتجاوز هذه المرحلة وأن نؤثر على صورة النظام السياسي بعد الانتخابات"
+- **Q** "ونحن جاهزون لمساعدة كتلة التغيير، وقادرون على تشكيل كتلة مانعة تعرقل وتحرم نتنياهو من تشكيل حكومة."
 
-**Possible concessions:**
-- Stay outside the coalition, with no ministers, so Bennett and Lieberman can say "no Arab parties in government".
-- Accept a *descriptive* "Jewish and democratic" phrase signed by the coalition parties alone, without endorsement.
-- Condemn Oct 7 attacks on civilians, *with Hamas named*, if paired with condemning settler terror and civilian harm in Gaza.
-- No demand for an end-state on Palestine within four years.
-- Support the budget and no-confidence votes in exchange for itemised deliverables.
+**28 Oct, Kan 11** ([All Israel News](https://allisraelnews.com/brief/ahmad-tibi-confirms-joint-list-in-talks-with-change-bloc-i-hope-they-have-enough-courage)):
+- **Q** "We prevented Netanyahu from forming a government by creating a blocking bloc"
+- **Q** (headline) "I hope they have enough courage"
+- P: he confirmed talks with the change bloc and said a formal partnership is unlikely. He is open to voting arrangements on crime, demolitions, infrastructure and incitement.
 
-**Deal-breakers:**
-- Any text that makes the Joint List affirm the Nation-State Law or Zionism.
-- Votes for settlement budgets or war budgets.
-- Branding Palestinian national aspirations as terror.
-- Silence on settler violence.
-- A government that includes Ben-Gvir or Smotrich, or keeps Netanyahu in power.
-- Deliverables that are merely declaratory, without budgets or timetables (a "blank check").
+**28 Oct, Army Radio via Haaretz** ([Haaretz](https://www.haaretz.com/israel-news/elections/2026-10-28/ty-article/.premium/joint-list-chairman-we-are-ready-to-oust-netanyahu/000001a1-81ff-db17-a3ff-d7ff01250000)):
+- "brave enough" (headline).
+- P: Arab turnout blocked a right-wing majority. The Eisenkot bloc could oust Netanyahu and govern with the Arab parties if it ends the boycott.
 
-**What Ta'al must show voters:**
-- Visible cuts in killings and a crime plan that is actually funded.
-- Demolitions stopped.
-- Kaminitz gone.
-- Money flowing to Arab local authorities.
-- Arab MKs in power positions (presidium, Finance Committee).
-- The far right out of government.
-- Proof that the record Arab turnout ("we created a blocking bloc", Q, Tibi, 28 Oct 2026) paid off.
+**28 Oct, evening** ([MTV Lebanon 22:32](https://www.mtv.com.lb/news/1752962)):
+- **Q** "جاهزون لمساعدة آيزنكوت إذا قرر تشكيل حكومة لإسقاط نتنياهو"
+- **Q** "وتلقينا اليوم اتصالات من معسكر آيزنكوت والقائمة العربية المشتركة هي التي ستحسم"
+- **Contacts with the Eisenkot camp have begun** (Tibi's claim).
 
-## 7. Uncertainties
+**28 Oct, Al-Hadath:** Tibi "echoed" Jabareen's readiness ([ynetnews](https://www.ynetnews.com/article/ry0vpny6gx)).
 
-- Haaretz (28 Oct 2026) is paywalled. Only the "brave enough" framing and the claim that Arab turnout blocked a right-wing majority are confirmed. [Haaretz](https://www.haaretz.com/israel-news/elections/2026-10-28/ty-article/.premium/joint-list-chairman-we-are-ready-to-oust-netanyahu/000001a1-81ff-db17-a3ff-d7ff01250000)
-- I could not find any Tibi statement after Oct 2023 explicitly calling Hamas "terrorist". The 2014 "not a terror organization" quote comes via a right-wing outlet.
-- Ta'al's exact seat count within the Joint List's 12 is unknown.
-- I did not find a formal 2026 Joint List platform document; demands are reconstructed from statements.
-- The i24 report that the List demands Eisenkot not hand the mandate to Bennett could not be verified, because the page content was unavailable.
-- The 2021 report that Lapid offered Tibi NIS 200m for roads is a press report (bhol/Kan), not confirmed.
-- The JPost article dates Tibi's two-stage plan press conference as "Sunday", published 22 Oct. Its photo caption says 20 Oct.
-- Sources conflict on whether Ofer Cassif (Hadash) was cleared to run.
-- Abou Shahadeh's withdrawal from slot 3 is reported by JPost (2 Oct 2026). The reasons were not verified.
+**28 Oct, Jabareen on X** ([PNN](https://pnn.ps/news/729546), Arabic translation of the Hebrew original):
+- **Q** "التغيير يتحقق من خلال شراكة يهودية-عربية، شراكة حقيقية ومتساوية، لا أقل من ذلك، ولا أكثر من ذلك"
+
+**Context from the other side** ([Al Jazeera 27 Oct](https://aljazeera.net/news/2026/10/27/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8)): Eisenkot and his allies talk of a "Zionist government" ("حكومة صهيونية", headline).
+- That is the humiliation Tibi's "courage" challenge targets.
+
+## 5. Positions on the framework topics
+
+### Jewish state / Nation-State Law
+- He opposes the Jewish-state definition and wants a state of all its citizens ([en.wiki](https://en.wikipedia.org/wiki/Ahmad_Tibi)).
+- 2018 on the Nation-State Law: **Q** "It's an attempt at destroying the entire rhetoric of historic Palestine … it stands against an entire people." ([Al Jazeera](https://www.aljazeera.com/amp/news/2018/7/31/apartheid-formalised-palestinians-to-fight-jewish-state-law)).
+- 2026: support does "not" mean accepting the Nation-State Law (P, JPost 22 Oct).
+- **Ta'al will never say "Jewish and democratic" in the first person.** At most it tolerates a descriptive clause it does not sign.
+
+### Terrorism, Hamas, 7 Oct, Gaza, hostages
+- **Q** "The Arab public opposed the killing of Israeli civilians" ([JPost Feb 2024](https://www.jpost.com/israel-hamas-war/article-786419)).
+- **Q** "We said here and everywhere that we are against targeting civilians" ([Al-Monitor Jun 2024](https://www.al-monitor.com/originals/2024/06/israels-top-arab-mp-says-his-people-hunted-over-gaza-support)).
+- In the Knesset, 8 Aug 2024 ([Al-Quds](https://www.alquds.co.uk/%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d9%86%d9%8a%d8%b3%d8%aa-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%84%d8%a7-%d8%aa%d8%b2%d8%a7%d9%8a%d8%af/), newspaper's rendering):
+  - **Q** "عدم إعادة المخطوفين (إبرام الصفقة) حتى الآن ليست بسبب الطيبي بل بسبب بيبي"
+  - **Q** "فقط مجموعة واحدة هنا أدانت قتل الأطفال هم أعضاء الكنيست العرب"
+- P: he condemned Hamas's killing of women, children and the elderly, and called for a hostage deal and an end to the war ([he.wiki](https://he.wikipedia.org/wiki/אחמד_טיבי)).
+- **Not found:** Tibi calling Hamas a terrorist organisation; Tibi mentioning rape on 7 Oct.
+- 2026: no war budgets (Jabareen); "genocide and expulsion" framing of Gaza (JPost 22 Oct, P).
+
+### Arab citizens
+- **Crime** is the top issue. **Q** "ليس كمواطنين، بل كأعداء" ([Al-Monitor AR, Feb 2026](https://www.al-monitor.com/ar/originals/2026/02/ahmd-altyby-ythm-hkwmt-ntnyahw-ballambalat-tjah-hyat-alrb-alasrayylyyn-wasfaan)); 46 killed by early February.
+- **Other items:** Kaminitz *repeal*; demolitions; Triangle evictions; master plans; teachers and doctors; local-authority budgets (JPost 22 Oct).
+- **Representation:**
+  - public-sector employment, his signature issue since 2008;
+  - deputy Speaker (promised to Ta'al in the list deal);
+  - Finance Committee.
+
+### West Bank
+- Occupation must end; two states; settlements illegal ("cancerous growth").
+- No votes for settlements, and no budgets for them (JPost 22 Oct; JNS 12 Oct).
+- A "political horizon for the Palestinian people" is an explicit 2026 campaign item.
+- No specific 2026 quote on outposts or settler violence was found.
+
+### Other topics
+- **7 Oct commission:** no Ta'al statement found.
+- **Haredi draft:** no statement. Ta'al opposes any service duty for Arabs, IDF or otherwise. Its opposition to civil service is inferred; I found no 2026 quote.
+- **Judiciary:** the Supreme Court saved the list in 2003, 2009 and 2026, so Ta'al opposes the overhaul (inferred).
+- **Al-Aqsa:** status quo; opposes Jewish visits (JPost 22 Oct). In Sep 2013 he denied the Temple's existence on the Mount ([he.wiki](https://he.wikipedia.org/wiki/אחמד_טיבי)).
+- **Citizenship Law:** opposes it.
+
+## 6. Terminology
+
+| Must say / prefers | Cannot sign or say in the first person |
+|---|---|
+| الاحتلال / הכיבוש; "الأراضي المحتلة عام 1967" | "יהודה ושומרון" as the sole term. "Military control" can be tolerated as a description in a text he does not sign. |
+| الشعب الفلسطيني; المواطنون العرب / الجماهير العربية / الفلسطينيون في الداخل | "המגזר", "מיעוטים" |
+| كتلة مانعة / شبكة أمان مقابل التزامات (a blocking bloc; a safety net in exchange for commitments) | "שותפות קואליציונית" / "joining the government" (collective responsibility) |
+| المساواة القومية والمدنية (national and civic equality); دولة كل مواطنيها (a state of all its citizens) | "מדינה יהודית ודמוקרטית" as an endorsement; חוק הלאום |
+| استهداف المدنيين (targeting civilians), on both sides; "حرب الإبادة" (war of genocide) is Ta'al's own frame for Gaza | "Hamas is a terrorist organisation" in his own voice; an unqualified "rape" accusation in his own voice (never found in his statements); "terror" applied to Palestinian resistance as a whole |
+| أفق سياسي (political horizon); دولة فلسطينية (Palestinian state) | "Managing the conflict"; anything ruling out a Palestinian state |
+| البؤر الاستيطانية غير القانونية (illegal outposts); إرهاب المستوطنين (settler terror) | "Unauthorized" alone, which implies the rest are lawful |
+
+## 7. Negotiating position for run 2
+
+**Strategic reality**
+- The JL's 12–13 seats are the hinge. Without at least its abstention there is no change government, and Netanyahu stays as caretaker.
+- Tibi personally promised: "We will not allow Netanyahu to be caretaker prime minister."
+- So **"no deal" hurts Ta'al too**. Our leverage is in the *price*, not in a credible walk-away to the right.
+
+**Real must-haves**
+1. **Ohana out in the first week, with JL votes counted openly.** Tibi gets the deputy Speaker post the list deal promised him. **A JL member sits on the Finance Committee** at once.
+2. **Crime plan with money and numbers.**
+   - Clause 16's NIS 1bn a year is acceptable.
+   - Ra'am must not *own* it. Clause 22 hands Ra'am the Deputy Minister and the credit, which is a direct electoral gift to our rival.
+   - Demand that the JL sit as a **full member, not an observer**, of the monitoring committee (clause 24).
+3. **Kaminitz.** The framework offers a freeze and an amendment; we must show voters **repeal**. Fallback: repeal of the administrative-enforcement chapter within 6 months, with the freeze immediate.
+4. **Triangle evictions** (Tayibe, Tira, Qalansawe) named explicitly. Tayibe is Tibi's hometown and base. The framework omits them.
+5. **Jobs:** published numbers for **teachers and residency slots**, which clause 17 only lists as "targets".
+6. **No Arab service duty.** Clause 6a ("the duty applies to all… expand by published annual targets") is unacceptable even if disclaimed. Rivals will say Tibi tolerated "sherut leumi through the back door".
+   - Demand: for Arab citizens the track is **voluntary, with no targets and no "duty" language**.
+   - Otherwise Ta'al states publicly that it will vote against the Service Law, and Annex 1 must say so.
+7. **Political horizon.** Clause 15 freezes everything; Tibi promised voters a "political horizon".
+   - Minimum: a sentence committing the government to *renew political dialogue with the PLO/PA* and to take no steps that preclude a two-state solution.
+   - Also an explicit **settlement-construction freeze** beyond outposts. Clause 13's "planning and construction will continue" in existing communities cannot be "noted" by us.
+
+**Real deal-breakers**
+- Ta'al affirming "Jewish and democratic" or the Nation-State Law.
+- Ta'al voting for war budgets or settlement budgets.
+- Ben-Gvir or Smotrich, or Likud, in the government.
+- A government that publicly calls itself "Zionist only, not relying on Arabs" while counting our abstention, plus no deliverables in writing.
+- Tibi reading in the first person:
+  - "Hamas, a terrorist organization", or
+  - the 7 Oct list "murder, rape, kidnapping" with no equivalent naming of the killing and starvation in Gaza.
+
+**On the TV statement** (`final/tv_statement.md`): **reject in its current form; accept with demands**.
+- Tibi will not stand on a stage beside Lieberman and Bennett reading the same text while Lieberman (Annex 2) says he "will not count on" our votes.
+- Conditions for Tibi to read it:
+  1. Line 8 becomes "I condemn the killing of civilians, the kidnapping and every crime against civilians on 7 October", without "the rape" as a first-person charge Tibi has never made.
+  2. Add "and the killing and starvation of tens of thousands of civilians in Gaza", in the same sentence, with equal weight.
+  3. Replace "Hamas does not rule Gaza…" with "end the war for good and rebuild Gaza", or let Arab leaders skip that bullet.
+  4. Add "and to end the occupation in the future" or "political horizon" as an Arab leader's own add-on line.
+- More realistic: **Tibi reads his own statement**, not the joint one.
+
+**Best alternative to this deal (BATNA)**
+1. A narrower text: a bare **blocking-bloc vote**. The JL votes to replace Ohana and votes against Netanyahu on investiture, abstains on an Eisenkot government, and **signs nothing** on identity, Hamas or service. Deliverables are bargained bill by bill, the 2021 model.
+2. **New elections.** Record Arab turnout and the "blocking bloc" narrative could grow further. Risk: Netanyahu stays caretaker, which breaks Tibi's own pledge.
+3. Opposition. Least attractive: it cedes the whole agenda to Ra'am.
+
+**Tradeables**
+- Ministers and coalition membership: we never wanted them.
+- Silence on the final-status *outcome* for 4 years.
+- Tolerance of clause 4 as a description in a text we don't sign.
+- Not voting against the coalition's security budgets *as a whole*. We vote no on war or settlement lines and abstain on the whole.
+- A general condemnation of all targeting of civilians, including on 7 Oct.
+
+**What rivals and voters will attack us for**
+- **Balad** (our list partner, now without Abou Shahadeh): "Tibi sold the Palestinian cause for a deputy-Speaker chair", especially if we "note" clause 12's "military control".
+- **Ra'am/Abbas:** "Tibi said joining is betrayal, yet now props up a Zionist government for nothing, while we got a deputy minister." If Ra'am gets the crime file, Abbas owns the results.
+- **Right/Likud:** "Bibi or Tibi", now with proof. Every Eisenkot partner will be branded "dependent on Tibi".
+- **Voters:** in 2021 a government came, Ra'am delivered nothing on crime, and killings rose. They will judge only numbers: homicides, demolitions, budgets.
+
+## 8. Uncertainties
+- Final seats are not known: JL 12 or 13, Ra'am 6 or 7. Official results come on 4 Nov.
+- Who Ta'al's second MK is, and whether that MK is elected.
+- No 2026 statement found on Haredim, the draft, the 7 Oct commission, Likud-without-Netanyahu, or PA contacts.
+- No post–7 Oct primary source found for Tibi naming Hamas as terrorist. The he.wiki paraphrase ("condemned Hamas's killing…") has no traced original.
+- The Nation-State Law "fascism and apartheid" tweet, the Lapid NIS 200m report, the Der Standard quote and the i24 "mandate not to Bennett" report remain unverified.
+- The web-search budget was exhausted mid-research, so several Hebrew and Arabic primary-source checks (Arab48, Panet, Kul al-Arab) were not completed.

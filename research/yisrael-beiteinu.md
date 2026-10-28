@@ -1,178 +1,256 @@
-# Yisrael Beiteinu (ישראל ביתנו / «Наш дом Израиль») — Stage-A dossier
+# Yisrael Beiteinu (ישראל ביתנו / «Наш дом Израиль») — Stage-A dossier, run 2 (adversarial)
 
-Prepared 2026-10-28 by the Yisrael Beiteinu role agent. Quotes are marked **[Q]** (verbatim as reported) or **[P]** (paraphrase / reporter's summary). Where an article was paywalled or only a summary could be read, this is noted. Translations are mine.
+Prepared 28 Oct 2026 by the simulated Yisrael Beiteinu (YB) negotiating team. This is a simulation and does not speak for the real party.
+- **[Q]** marks a quote whose original-language wording was read at the cited URL.
+- **[P]** marks a paraphrase or a reporter's summary.
+- **[EN-Q]** marks a quote available only in English translation.
+
+All translations are ours.
+
+**Research limits.** The shared web-search quota for this turn ran out partway through. After that, verification used direct fetches of known URLs only. Items that could not be checked are marked UNVERIFIED, not dropped.
 
 ---
 
-## 1. Identity
+## 0. Verification log of the run-1 file
 
-- **Leader:** Avigdor Liberman (אביגדור ליברמן). Top of the 2026 list: 1 Liberman, 2 Rafi Ben Shtrit, 3 Talia Lankri, 4 Oded Forer, 5 Yulia Malinovsky, 6 Sharon Sharabi, 7 Hamad Amar (Druze), 8 Yevgeny Suba, 9 Eliora Kolichman, 10 Dan Illouz (list presented at Expo Tel Aviv, ~6 Sep 2026). https://www.ynet.co.il/news/elections2026/article/bki6ywjdge ; https://www.newsru.co.il/israel/6sep2026/liberman_00_777.html
-- **2026 seats:** ~7 (preliminary count). Liberman hopes double envelopes (soldiers etc.) will raise his number and lower the Arab and Haredi parties' share [P]. https://www.jpost.com/israel-election-2026/article-913065 ; https://www.ynet.co.il/news/elections2026/article/byrovcrhzx
-- **Base:** Russian-speaking immigrants (the core since 1999), secular right-wing voters, the Druze (Hamad Amar), and security hawks. A reported leak of several thousand voters to Ofer Winter's Amcha Yisrael came after right-wing warnings about an Arab-backed government. https://en.wikipedia.org/wiki/2026_Israeli_legislative_election_campaign
-- **Ideology in 3 lines:** Liberman calls the party a "Zionist, liberal right" grounded in Herzl and Jabotinsky [P, Sep 2026]. It is hawkish on security (eliminate Hamas and Hezbollah, death penalty for terrorists) and aggressively secular: draft for all, civil marriage, transport on Shabbat, and no coalition money for the Haredim. It is anti-Netanyahu since 2019 and statist ("ממלכתי"). Its line on Arab citizens is "equal rights for equal duties / loyalty".
+| # | Run-1 claim | Status | Source | Note |
+|---|---|---|---|---|
+| 1 | Top-10 list presented ~6 Sep 2026: Liberman, Ben Shitrit, Lankri, Forer, Malinovsky, Sharabi, Hamad Amar, "Yevgeny Suba", "Eliora Kolichman", Dan Illouz | CORRECTED (spelling) | https://www.ynet.co.il/news/elections2026/article/bki6ywjdge | Order confirmed. Ynet spells #8 "יבגני סובה" (Sova) and #9 "אלוירה קוליחמן". The date is inferred from image paths (Sun 6 Sep). |
+| 2 | ~7 seats in the preliminary count | CONFIRMED | https://www.walla.co.il/news/israel/383959177 ; https://www.jpost.com/israel-election-2026/article-913065 | 7 seats at 88% counted (21:06, 28 Oct), before 430–480k double envelopes. |
+| 3 | Liberman hopes double envelopes will cut the Arab and Haredi share | CONFIRMED [P] | https://www.ynet.co.il/news/elections2026/article/byrovcrhzx | He put double envelopes at about 15 seats. |
+| 4 | Base leaking to Ofer Winter's party after warnings about an Arab-backed government | UNVERIFIED | https://en.wikipedia.org/wiki/2026_Israeli_legislative_election_campaign | The cited page does not contain this. |
+| 5 | Founded in 1999 by Liberman, Nudelman and Stern; left Sharon in 2002 (Hebron) and 2004 (disengagement) | CONFIRMED | https://en.wikipedia.org/wiki/Yisrael_Beiteinu | |
+| 6 | 2004 "Liberman Plan": transfer the Triangle to the PA and tie citizenship to loyalty; Sharon fired him | CONFIRMED, with nuance | https://en.wikipedia.org/wiki/Avigdor_Lieberman | Sharon condemned the plan on 30 May 2004 ("We regard Israeli Arabs as part of the State of Israel"). The **dismissal on 4 Jun 2004 was over disengagement**, not over the plan. |
+| 7 | 2006: MKs who met Hamas should be tried and executed like Nazi collaborators | CONFIRMED [Q] | https://www.ynet.co.il/articles/0,7340,L-3247020,00.html | 4 May 2006: "גורל משתפי הפעולה בכנסת צריך להיות זהה לגורל משתפי הפעולה של הנאצים". |
+| 8 | 2008: "a new administration will be established and then we will take care of you" | CONFIRMED [EN-Q only] | https://en.wikipedia.org/wiki/Avigdor_Lieberman | Said in the Knesset after the Mercaz HaRav attack, March 2008. Hebrew original not found. |
+| 9 | 2009 slogan "No citizenship without loyalty" | CONFIRMED | https://en.wikipedia.org/wiki/Yisrael_Beiteinu ; https://he.wikipedia.org/wiki/ישראל_ביתנו | The Hebrew wiki gives "בלי נאמנות, אין אזרחות". Run 1's word order ("אין אזרחות בלי נאמנות") could not be matched to an original. |
+| 10 | 2009: backed a "viable Palestinian state" and would leave Nokdim | CONFIRMED [P] | https://en.wikipedia.org/wiki/Avigdor_Lieberman | The Hebrew wiki says YB dropped two-state support after 7 Oct 2023. |
+| 11 | 2015 Herzliya "axe" quote, Umm al-Fahm, Nakba flags, "את אזרחית…" | CONFIRMED [Q], with context | https://www.mako.co.il/news-military/politics-q1_2015/Article-84b1c43a9a9fb41004.htm | Full wording (8 Mar 2015): "מי שנגדנו, אין מה לעשות - צריך להרים גרזן ולהוריד לו את הראש". Also: "אין שום סיבה שאום אל-פחם תהיה חלק ממדינת ישראל" and "אזרחים… שמרימים דגל שחור ביום הנכבה - מבחינתי שיילכו מכאן". |
+| 12 | 2018: called Odeh "גיס חמישי" | CONFIRMED (term reported, full sentence not quoted) | https://www.mako.co.il/news-military/politics-q2_2018/Article-8f3acadfa828361004.htm | Faction meeting, 21 May 2018. **Older and fuller instance:** 5 May 2008, "חברי הכנסת הערבים הם תבוסתנים, מהווים גיס חמישי ומייצגים את ארגוני הטרור" (https://www.walla.co.il/news/israel/1276350). |
+| 13 | 2017: Joint List "war criminals" | UNVERIFIED | — | Not re-fetched. |
+| 14 | 2018: 5 YB MKs voted for the Nation-State Law; Liberman "gave freedom of vote" | PARTLY CONFIRMED | https://www.maariv.co.il/news/politics/article-918402 | His own words (17 May 2022): "היינו חלק מהקואליציה ואמרנו שדעתנו לא נוחה. למרות המשמעת הקואליציונית נתתי חופש הצבעה." The count of 5 MKs is UNVERIFIED. Reports say most YB MKs backed the law. Hamad Amar later petitioned the High Court against it. |
+| 15 | 2019: refused Netanyahu over the Haredi draft | CONFIRMED | https://en.wikipedia.org/wiki/Yisrael_Beiteinu | |
+| 16 | The death penalty for terrorists is a long-standing plank; YB voted for the 30 Mar 2026 law (62–48) | CONFIRMED | https://www.jpost.com/israel-news/politics-and-diplomacy/article-891688 ; https://en.wikipedia.org/wiki/Death_Penalty_for_Terrorists_Law | Liberman voted in favor; his position had been unclear until the day. The bill was initiated by Otzma Yehudit. |
+| 17 | 2021–22: Finance Minister in the Bennett–Lapid government with Ra'am, funding Decision 550 (~NIS 30bn; 5.2bn Bedouin; 3bn Druze/Circassian) | CONFIRMED, source corrected | https://he.wikipedia.org/wiki/ישראל_ביתנו ; https://www.calcalist.co.il/local_news/article/hyxcslgpn | Decision 550 dates from 24 Oct 2021. The Calcalist piece (2023) is about **Smotrich freezing** about NIS 2bn of it and does not mention Liberman. Liberman's personal role is inferred from his office, not from a quote. |
+| 18 | May 2022: he called to amend the Nation-State Law and make the Declaration of Independence a Basic Law; Lapid "agreed with every word" | CONFIRMED [P] | https://www.maariv.co.il/news/politics/Article-917874 | 15 May 2022. The page describes his initiative but does not quote him. |
+| 19 | Mansour Abbas says Liberman opposed disqualification before and negotiated with him personally | **CORRECTED** | https://13tv.co.il/item/news/politics/politics/w32sr-905366361/ | Abbas said **"אבו יאיר", i.e. Netanyahu**, "ניהל איתי באופן אישי משא ומתן בבלפור". This is not about Liberman. |
+| 20 | Liberman voted to disqualify Ra'am and the Joint List (Sep 2026); quote "…אין לה מקום בכנסת בישראל. לכן נצביע…" | CONFIRMED [Q] (party statement, 23 Sep 2026) | https://www.kikar.co.il/political-news/liberman-supports-raam-disqualification-after-eise ; https://www.ynet.co.il/news/elections2026/article/rjh8kyb5gx | Issued **the day after he met Eisenkot**. The Supreme Court unanimously reinstated both lists on 2 Oct (https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties). |
+| 21 | Election night: he dodged sitting with Abbas | CONFIRMED [P] | https://www.ynet.co.il/news/elections2026/article/byrovcrhzx ; https://www.ynetnews.com/article/s1600hrr2ml | Ynet headline: "ולא התחייב שלא להישען על קולות ערבים". |
+| 22 | Election-night quotes "האיש הזה חייב לרדת מהבמה", "תרימו את נס המרד בתוך הליכוד", "ראש ארגון פשע" | PARTLY CORRECTED | https://www.ynet.co.il/news/elections2026/article/byrovcrhzx | Actual wording: "האיש הזה חייב לרדת מהבמה ומי שנאמן לדרך של הרצל, טרומפלדור וז'בוטינסקי חייב להעיף אותו"; "התנהג היום כמו ראש ארגון פשע שחצה את כל הקווים האדומים". "תרימו את נס המרד" was **not found** and is treated as a paraphrase. |
+| 23 | JFeed: "refused to rule out" a government with Ra'am | UNVERIFIED (not fetched) | — | Ynetnews says he "declined to say whether he would cooperate with Ra'am". |
+| 24 | Haaretz: Liberman is "ready to accept outside Ra'am support but not the Joint List" | **CORRECTED** | https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f56-d848-afe1-7f5fe7a50000 | This was an **anonymous young YB activist** ("המשותפת זה חמאס"). Another activist said Liberman "בשום מצב לא יקים ממשלה עם המפלגות הערביות". It is not Liberman's position. |
+| 25 | Maariv op-ed, 27 Oct 2026: Zionist government, draft law, 100%/0%, no shekel, two terms, constitution, coalition funds | CONFIRMED [Q] | https://www.maariv.co.il/news/opinions/article-1381719 | Exact wording: "ממשלה ציונית, ממלכתית וליברלית, **שתורכב ממפלגות ציוניות בלבד**". The op-ed does not mention Arabs or Ra'am. |
+| 26 | Launch, 6 Sep (Russian): "Никакого сотрудничества с Нетаниягу не будет"; "Мы отвергаем какие-либо квоты и какие-либо освобождения"; slogan | CONFIRMED [Q] | https://www.newsru.co.il/israel/6sep2026/liberman_00_777.html | The commission of inquiry as his first decision is [P]. |
+| 27 | Hebrew launch: "שום קריצה…"; "federation of minorities" | CONFIRMED [Q] | https://www.ynet.co.il/news/elections2026/article/bki6ywjdge | Full: "מדינת ישראל לא יכולה להפוך לפדרציה של מיעוטים דתיים ואתניים שבה כל קבוצה דואגת אך ורק לעצמה". Also: "כל מי שמדבר על פטור ל-30% או ל-4,500 מבני הישיבות, טועה ומטעה". |
+| 28 | Ten religion-and-state principles (30 Jul 2026), with quoted headings | PARTLY CONFIRMED | https://www.maariv.co.il/news/politics/article-1350433 | The date and the topics are confirmed. The ten headings are **not** printed verbatim on the page, so the quote marks are withdrawn. |
+| 29 | Security plan, 5 Oct 2026: complete elimination of Hamas; Gaza to "a serious party…"; dismantle the PA; cancel Oslo | CONFIRMED (mix of [EN-Q] and [P]) | https://www.jpost.com/israel-news/politics-and-diplomacy/article-910701 | "Elimination of Hamas's military and civilian wings" is a paraphrase. Quoted [EN-Q]: "If we do not take the initiative ourselves, we will end up with a Palestinian state under Hamas control." |
+| 30 | Crime quote, 18 Feb 2026 | CONFIRMED [Q] | https://www.srugim.co.il/news/1297305 | Also: "רק ישראל ביתנו תוכל להילחם בטרור הפלילי ולמגר את הפשע המאורגן". |
+| 31 | Defendant law; replace Speaker Ohana; "Likud without Netanyahu could be a significant partner" | CONFIRMED [EN-Q] and Hebrew [Q] | https://www.ynetnews.com/article/h1jtvqw3fl ; https://www.ynet.co.il/news/article/sk3gzeaogg | Hebrew: "הליכוד בלי נתניהו יכול להיות שותף משמעותי"; "עם נתניהו - שיתהפך העולם לא נשב בשום מצב". Said around 17–19 Oct. |
+| 32 | 15 Oct (IDI conference, X): Zionist parties only; no Ra'am, Joint List, Shas or UTJ; no minority government "even transitional" | CONFIRMED [Q] | https://www.israelnationalnews.com/news/434665 ; https://www.ynet.co.il/news/elections2026/article/sjm11eeasfl ; https://www.timesofisrael.com/liberman-is-risking-another-election-to-secure-his-right-wing-political-future/ | Hebrew: "לא נתמוך בשום ממשלת מיעוט, גם לא בממשלת מיעוט לתקופת מעבר". |
+| 33 | i24 Russian interview, 28 Aug: "не может быть никакого партнера — ни Мансура Аббаса" | CONFIRMED [Q]; year still inferred | https://cursorinfo.co.il/israel-news/liberman-sdelal-zayavlenie-kotoroe-mozhet-reshit-vybory/ | Full: "не может быть никакого партнера — ни Мансура Аббаса, ни в правительстве меньшинства". He would offer the Democrats tourism or science, not defense or justice. |
+| 34 | 11 Oct, Haifa: "מספיק לנו ש"ס ליהודים"; draft as a "precondition" | CONFIRMED [Q] | https://www.maariv.co.il/news/elections-2026/article-1375993 | Also: "ההכרעה… היא בין גיוס להשתמטות". The universal-service detail is [P]. "Integral part" does not appear in Maariv. |
+| 35 | 11 Oct, Haifa: "Arab Israelis must be an integral part of society", Lebanon analogy | CONFIRMED (headline and [P] only) | https://www.haaretz.com/israel-news/elections/2026-10-11/ty-article/.premium/pm-rival-lieberman-urges-arab-israeli-integration-shuns-arab-party-in-coalition/000001a1-2a6b-da9e-a1f9-7febc2ab0000 | Headline: "calls to 'fully integrate' Arab Israelis, yet again rejects Arab party in coalition". Paywalled. |
+| 36 | Settler violence, 11 Sep: "פורעים", "קומץ", support for administrative detention ("חד וחלק כן") | CONFIRMED [Q] | https://www.ynet.co.il/news/elections2026/article/yokra14895450 | He says cancelling the detention orders "הייתה פוליטית נטו". The words "Jewish terror" there are Ynet's framing, not his. |
+| 37 | X post on settler violence ("doing nothing"; "last bastions of support") | CONFIRMED [EN-Q] | https://www.jpost.com/israel-election-2026/article-912582 | Dated 22 Oct 2026, not "~Oct". Also: "the damage is first and foremost to the State of Israel and the settlement enterprise". |
+| 38 | "Father of the conception" | CONFIRMED [Q] | https://www.ynet.co.il/news/elections2026/article/yokra14895450 | |
+| 39 | Netanyahu "nurtured Hamas" via Qatari money; sacrificed the hostages | PARTLY CORRECTED | https://www.ynetnews.com/article/nw2tuczmn | Confirmed [EN-Q]: "Netanyahu chose to sacrifice all hostages on the altar of preserving the coalition"; "Netanyahu doesn't want to defeat Hamas". "Qatari money" and "nurtured" are **not** in that article, and its date is unclear. |
+| 40 | Jordan plan (23 Sep): Jordan to administer Areas A and B; Area C contiguity; PA is "a terrorist organization" | CONFIRMED [EN-Q] | https://www.timesofisrael.com/liberman-proposes-jordan-control-parts-of-west-bank-drawing-right-wing-rebuke/ | He spoke of an "Israeli-Jordanian confederation". Deri called it "Disengagement II"; Netanyahu said "Retract your statement immediately!" |
+| 41 | US could recognize a Palestinian state and impose sanctions; Netanyahu "the only one who declared" for a Palestinian state | PARTLY CONFIRMED | https://www.jpost.com/israel-news/politics-and-diplomacy/article-911595 ; ToI 23 Sep (above) | The US claim is [P] (13 Oct, "within two years"). The Netanyahu/Bar-Ilan point comes from ToI, 23 Sep, not from the JPost piece. |
+| 42 | Hezbollah to be eliminated with Sunni, Christian and Druze actors | UNVERIFIED | — | |
+| 43 | Amona evacuation (2017) under Defense Minister Liberman | UNVERIFIED (background) | — | |
+| 44 | 2018 resignation over the Gaza ceasefire | CONFIRMED | https://en.wikipedia.org/wiki/Avigdor_Lieberman | 14 Nov 2018, "surrendering to terror". |
+| 45 | "Likud Beytenu revival" if Netanyahu goes | CORRECTED (analyst view) | https://www.timesofisrael.com/liberman-is-risking-another-election-to-secure-his-right-wing-political-future/ | This is Yerushalmi's analysis (16 Oct), not a Liberman statement. |
+| 46 | Conversion and kashrut reform | UNVERIFIED for 2026 | — | |
 
-## 1b. Ideological foundations (whole career) and where 2026 diverges
+**New items not in run 1:**
+- 19 Oct, on X: "כל השיח על ממשלת מיעוט הוא מסוכן"; "משדרים חולשה ותבוסתנות"; "לא ניתן להישען על ח"כים מרע"ם ומהרשימה המשותפת". https://www.ynet.co.il/news/article/r150pomnmx
+- Dec 2024: "מנסור עבאס איבד את השליטה במפלגתו… הוא ואיימן עודה לא יהיו שותפים בקואליציה". https://www.maariv.co.il/news/politics/article-1159766
 
-| Era | Pivotal position / act | Source |
+---
+
+## 1. Identity and latest result
+
+- **Leader:** Avigdor Liberman. List #7 is the Druze MK Hamad Amar, and #10 is Dan Illouz, who came over from Likud (https://www.ynet.co.il/news/elections2026/article/bki6ywjdge).
+- **Self-definition:** "מפלגת ימין ליברלית" (election night, 27 Oct). Its stated aim is a government "ציונית, ממלכתית וליברלית".
+
+**Result, as of 28 Oct 2026, 21:06**
+- 88% of the regular vote counted (5.05M votes).
+- **YB: 7 seats.** It peaked at 8 at 12:38 and fell back to 7 at 14:37.
+- Blocs:
+  - Netanyahu bloc: 53;
+  - Eisenkot bloc (incl. YB): 48;
+  - Arab lists: 19 (Joint List 12, Ra'am 7);
+  - Likud: 26.
+- The 430–480k double envelopes are not yet counted. Liberman expects them to favor him.
+- Exit polls put YB at 7–9. Channel 14 briefly had it near the threshold.
+- Sources: https://www.walla.co.il/news/israel/383959177 ; https://www.jpost.com/israel-election-2026/article-913065 ; https://www.israelnationalnews.com/news/435257
+
+**Arithmetic that defines our position**
+
+| Option | Seats | Our view |
 |---|---|---|
-| 1999 | Party founded by Liberman, Nudelman and Stern to represent the right wing of Russian-speaking immigrants. In 2002 it left Sharon over a Hebron handover, and in June 2004 it left over the Gaza disengagement. | https://en.wikipedia.org/wiki/Yisrael_Beiteinu |
-| 2004 | **"Liberman Plan"**: separate Jews and Arabs. Arab towns next to the PA (Triangle, Wadi Ara, Umm al-Fahm) would be transferred to a future Palestinian entity in exchange for settlement blocs. Citizenship would be tied to loyalty. Sharon fired him. | https://en.wikipedia.org/wiki/Avigdor_Lieberman |
-| 2006–2008 | Inflammatory statements about Arab MKs: he called for MKs who met Hamas to be tried and executed, comparing them to Nazi collaborators [P]. In 2008 he said "a new administration will be established and then we will take care of you" [Q, reported in English]. | https://en.wikipedia.org/wiki/Avigdor_Lieberman ; https://www.ynet.co.il/articles/0,7340,L-3247020,00.html |
-| 2009 | Campaign slogan **"אין אזרחות בלי נאמנות" (No citizenship without loyalty)**. The platform principle is military or national service for all at 18. He joined Netanyahu as Foreign Minister. He then said he backed a "viable Palestinian state" and would leave his home in Nokdim under a real two-state deal [P]. | https://en.wikipedia.org/wiki/Yisrael_Beiteinu ; https://en.wikipedia.org/wiki/Avigdor_Lieberman |
-| 2015 | Herzliya conference [Q]: "צריך להרים גרזן ולהוריד לו את הראש" ("raise an axe and cut off his head"), said of disloyal Arab citizens. Nakba-day black-flag raisers "should leave", and there is no reason for Umm al-Fahm to be in Israel [P]. In the same session he told an Arab student: "את אזרחית ואין עם זה שום בעיה" ("you are a citizen and there is no problem with that") [Q]. He expects loyalty and national service from every citizen [P]. (8 Mar 2015) | https://www.mako.co.il/news-military/politics-q1_2015/Article-84b1c43a9a9fb41004.htm |
-| 2016–2018 | Defense Minister. He resigned in Nov 2018 over a Gaza ceasefire ("soft on Hamas"). In 2018 he called Ayman Odeh **"גיס חמישי" (fifth column)** [headline quote; 21 May 2018] and the Joint List "war criminals" [headline, 2017]. | https://www.mako.co.il/news-military/politics-q2_2018/Article-8f3acadfa828361004.htm ; https://www.mako.co.il/news-military/politics-q4_2017/Article-a9dfd2989264061004.htm |
-| 2018 | **Nation-State Law**: 5 YB MKs voted for it (62–55). Liberman later claimed "our opinion was uneasy… I gave freedom of vote" [P/Q as reported]. | https://www.maariv.co.il/news/politics/article-918402 |
-| 2019 | He refused to join Netanyahu over the Haredi draft law, which triggered repeat elections. This is the defining break: secularism and the draft over bloc loyalty. | https://en.wikipedia.org/wiki/Yisrael_Beiteinu |
-| Death penalty | A long-standing platform plank ("death penalty for terrorists"). YB voted **for** the Death Penalty for Terrorists Law (passed 30 Mar 2026, 62–48) from the opposition. | https://en.wikipedia.org/wiki/Death_Penalty_for_Terrorists_Law ; https://he.wikipedia.org/wiki/חוק_עונש_מוות_למחבלים |
-| 2021–2022 | **Sat in the Bennett–Lapid government with Ra'am** as Finance Minister. The government adopted **Decision 550** (Oct 2021), a ~NIS 30bn five-year plan for Arab society (incl. ~5.2bn Negev Bedouin and ~3bn Druze/Circassian). Liberman's treasury funded it. | https://www.calcalist.co.il/local_news/article/hyxcslgpn ; https://www.timesofisrael.com/liberman-is-risking-another-election-to-secure-his-right-wing-political-future/ |
-| May 2022 | After a Druze officer (Lt. Col. Mahmoud Kheir el-Din) was revealed, Liberman called to **amend the Nation-State Law and enshrine the Declaration of Independence as a Basic Law**. Lapid replied that he "agreed with every word". | https://www.maariv.co.il/news/politics/Article-917874 |
+| Eisenkot bloc + Ra'am | 55 | A minority government, which we ruled out. |
+| + Joint List abstaining or supporting | 67 | Depends on the Joint List, which we ruled out. |
+| Yashar 21 + Together 11 + YB 7 + Likud 26 | about 65 | **Zionist majority**, but only if Likud drops Netanyahu. |
 
-**Divergence flags (recent vs. long-held):**
-1. **Arab parties.** Over his career Liberman has been openly hostile ("fifth column", loyalty tests, transfer of the Triangle). In 2021–22 he was pragmatic and sat with Ra'am, funding a NIS 30bn plan. In 2026 he returned to a hard line: he **voted to disqualify Ra'am and the Joint List** (Sep 2026) and promised a coalition of "Zionist parties only". On election night he **dodged** the question of sitting with Mansour Abbas. Mansour Abbas says Liberman had *opposed* disqualification in the two previous elections and had negotiated with him personally [P, Abbas claim]. https://13tv.co.il/item/news/politics/politics/w32sr-905366361/
-2. **Nation-State Law.** He voted for it in 2018, then wanted it amended or balanced by the Declaration of Independence in 2022. No 2026 statement found.
-3. **Palestinian state.** He took a pro-two-state, land-swap stance in 2009–2014. In 2026 he wants to **dismantle the PA, cancel Oslo, and have Jordan administer Areas A and B, with Israeli contiguity in Area C**. He warns against a Palestinian state.
-4. **Integration rhetoric.** He gave an "Arab Israelis must be an integral part of society" message at Haifa (Oct 2026), which is softer than the 2015 "axe" rhetoric. The constant underneath is **equal rights in exchange for equal duties (service)**.
+## 2. Ideological foundations (lifelong)
 
----
+- **1999:** founded as the right wing of the Russian-speaking aliyah. It left Sharon twice, over Hebron (2002) and disengagement (2004). https://en.wikipedia.org/wiki/Yisrael_Beiteinu
+- **Separation and loyalty:**
+  - 2004 "Liberman Plan": exchange Arab-populated areas (Triangle, Wadi Ara) for settlement blocs, with citizenship tied to a loyalty pledge.
+  - 2009 slogan: "בלי נאמנות, אין אזרחות".
+  - Platform principle 3: military or national service for all at 18.
+  - Principle 4: death penalty for terrorists.
+  - Sources: https://en.wikipedia.org/wiki/Avigdor_Lieberman ; https://he.wikipedia.org/wiki/ישראל_ביתנו
+- **Rhetoric on Arab MKs (verbatim):**
+  - 2006: "גורל משתפי הפעולה בכנסת צריך להיות זהה לגורל משתפי הפעולה של הנאצים". https://www.ynet.co.il/articles/0,7340,L-3247020,00.html
+  - 2008: "חברי הכנסת הערבים הם תבוסתנים, מהווים גיס חמישי ומייצגים את ארגוני הטרור". https://www.walla.co.il/news/israel/1276350
+  - 2015: "מי שנגדנו… צריך להרים גרזן ולהוריד לו את הראש". In the same session he told an Arab student: "את אזרחית ואין עם זה שום בעיה". https://www.mako.co.il/news-military/politics-q1_2015/Article-84b1c43a9a9fb41004.htm
+  - 2018: Odeh is a "גיס חמישי". https://www.mako.co.il/news-military/politics-q2_2018/Article-8f3acadfa828361004.htm
+- **The pragmatic exception, 2021–22:** Finance Minister in a government that rested on Ra'am. Decision 550 (24 Oct 2021, ~NIS 30bn) passed on his watch. Hamad Amar served as a minister in the Finance Ministry. https://he.wikipedia.org/wiki/ישראל_ביתנו
+- **Since Dec 2024:** back to exclusion ("מנסור עבאס איבד את השליטה במפלגתו").
+- **Defining break, 2019:** the Haredi draft mattered more than loyalty to the right-wing bloc. YB forced repeat elections rather than give in.
+- **Nation-State Law:** passed with YB in the coalition in 2018 ("דעתנו לא נוחה… נתתי חופש הצבעה"). In 2022 he proposed amending it and enshrining the Declaration of Independence.
 
-## 2. Platform / core promises (2026 campaign)
+## 3. 2026 platform, campaign red lines and partner promises
 
-- **Op-ed by Liberman, Maariv, 27 Oct 2026 (election day)** https://www.maariv.co.il/news/opinions/article-1381719
-  - [Q] "מייד לאחר הבחירות נקים ממשלה ציונית, ממלכתית וליברלית" ("Immediately after the elections we will form a Zionist, statist and liberal government").
-  - [Q] "נחוקק חוק גיוס שיחול על כולם"; "100% למשרתים - 0% למשתמטים"; "מי שלא מתגייס לא יקבל שקל מהמדינה" ("a draft law that applies to everyone"; "100% for those who serve, 0% for draft-dodgers"; "whoever doesn't enlist won't get a shekel from the state").
-  - [Q] "נגביל את כהונת ראש הממשלה לשתי קדנציות ונכונן חוקה לישראל" ("limit the PM to two terms and establish a constitution").
-  - [Q] "נבטל כספים קואליציוניים" ("cancel coalition funds").
-  - [P] State commission of inquiry into Oct 7; public transport on Shabbat according to each city's character; civil marriage; end religious coercion.
-- **List launch, 6 Sep 2026** (Russian) https://www.newsru.co.il/israel/6sep2026/liberman_00_777.html
-  - [Q] "Никакого сотрудничества с Нетаниягу не будет" ("There will be no cooperation with Netanyahu").
-  - [Q] "Мы отвергаем какие-либо квоты и какие-либо освобождения" ("We reject any quotas and any exemptions" for yeshiva students).
-  - [P] His first government decision would be a state commission of inquiry into Oct 7.
-  - Slogan [Q]: "Либерман сильный в безопасности и сильный в экономике" ("Liberman: strong on security, strong on the economy").
-- **Hebrew version of the launch** [Q]: "לא נקבל שום קריצה לכיוון של נתניהו והמפלגות החרדיות" ("we will accept no wink toward Netanyahu and the Haredi parties"). [P] He warned against Israel becoming a "federation of minorities" and wants a "statist and Zionist" government. https://www.ynet.co.il/news/elections2026/article/bki6ywjdge
-- **Ten religion-and-state principles, 30 Jul 2026** (Maariv scoop) [Q headings]: "גיוס לכולם", "תחבורה ציבורית בשבת", "נישואין וגירושים אזרחיים", "ביטול חוקים מדירים", "עצירת הכפייה הדתית" ("draft for all", "public transport on Shabbat", "civil marriage and divorce", "repeal of exclusionary laws", "stop religious coercion"). https://www.maariv.co.il/news/politics/article-1350433
-- **Security plan, 5 Oct 2026** [Q]: "no alternative to the complete elimination of Hamas, both its military and civilian wings, by the IDF". After Hamas, Gaza should go to "a serious party, acceptable to the Arab world and the international community". [P] Dismantle the PA, cancel Oslo, expand settlements. https://www.jpost.com/israel-news/politics-and-diplomacy/article-910701
-- **Crime in Arab society, 18 Feb 2026** [Q]: "מה שקורה עם אזרחי ישראל הערבים, זאת לא פשיעה! זאת כניעה מוחלטת של הממשלה לטרור פלילי!"; "בארגוני פשיעה חייבים לטפל ביד ברזל, באפס סובלנות…" ("What is happening to Israel's Arab citizens isn't crime, it's the government's total surrender to criminal terror"; "crime organizations must be handled with an iron fist, zero tolerance…"). https://www.srugim.co.il/news/1297305
-- **Judicial / governance:** [P] He would pass the "defendant law" (a bar on an indicted PM forming a government) through three readings and replace Knesset Speaker Ohana. https://www.ynetnews.com/article/h1jtvqw3fl
+**Draft and service** (the precondition)
+- "נחוקק חוק גיוס שיחול על כולם"; "100% למשרתים - 0% למשתמטים"; "מי שלא מתגייס לא יקבל שקל מהמדינה" (27 Oct).
+- "Мы отвергаем какие-либо квоты и какие-либо освобождения" (6 Sep).
+- "זה תנאי מוקדם להקמת הממשלה. זה הסעיף שלא יהיו עליו שום פשרות" (11 Oct).
+- His bill: "גיוס לכולם בשני מסלולים ‑ צבאי ואזרחי" (11 Sep, https://www.ynet.co.il/news/elections2026/article/yokra14895450).
 
-## 3. Red lines and campaign promises on coalition partners
+**Governance**
+- State commission of inquiry into 7 Oct.
+- Two-term limit for the PM, and a constitution.
+- Cancel coalition funds.
+- Defendant law.
+- Replace Speaker Ohana.
+- Abolish "superfluous ministries" such as Heritage and Settlement (https://en.wikipedia.org/wiki/2026_Israeli_legislative_election_campaign).
 
-- **Netanyahu:** [Q, 15 Oct 2026, IDI conference] "We will not sit with Netanyahu under any circumstances." [Q, ~17 Oct] "With Netanyahu, even if the world turns upside down, we will not sit with him under any circumstances"; "Likud without Netanyahu could be a significant partner." https://www.israelnationalnews.com/news/434665 ; https://www.ynetnews.com/article/h1jtvqw3fl
-- **Arab parties and Haredim** [Q, X post, 15 Oct 2026]: "We will form a coalition made up only of Zionist parties… Without Ra'am, without the Joint List, without Shas and without United Torah Judaism." https://www.timesofisrael.com/liberman-is-risking-another-election-to-secure-his-right-wing-political-future/
-- **Minority government** [Q, 15 Oct 2026]: "גם לא בממשלת מיעוט לתקופת מעבר" / "We will not support any minority government, not even a minority government for a transitional period." "We need a Zionist majority government, period." This explicitly blocks Eisenkot's idea of outside support from Ra'am. https://www.haaretz.co.il/news/elections/2026-10-15/ty-article/000001a1-3f45-d1eb-abe1-7f7d0bda0000
-- **Ra'am specifically:**
-  - [Q, Russian, i24NEWS interview, ~28 Aug 2026; year inferred] "не может быть никакого партнера — ни Мансура Аббаса" ("there can be no partner, not Mansour Abbas"). [P] He will not allow a government that relies on Ra'am. https://cursorinfo.co.il/israel-news/liberman-sdelal-zayavlenie-kotoroe-mozhet-reshit-vybory/
-  - [Q, 11 Oct 2026, Haifa] "מספיק לנו ש"ס ליהודים" ("One Shas for the Jews is enough for us"), framing Ra'am as an Islamist sectoral party analogous to Shas. https://www.maariv.co.il/news/elections-2026/article-1375993
-- **Disqualification vote, 23 Sep 2026** [Q]: "כל ממשלה ציונית שתקום לאחר הבחירות חייבת להגדיר את חיסול החמאס כיעד מרכזי במדיניות הביטחון שלה. כל מפלגה שמתנגדת לכך אין לה מקום בכנסת בישראל. לכן נצביע בעד פסילת הרשימה המשותפת, רע"מ, עופר כסיף וסמי אבו שחאדה." ("Any Zionist government formed after the elections must make the elimination of Hamas a central goal of its security policy. Any party that opposes this has no place in Israel's Knesset. Therefore we will vote to disqualify the Joint List, Ra'am, Ofer Cassif and Sami Abu Shehadeh.") The Supreme Court unanimously reversed the disqualification of Ra'am and the Joint List on 2 Oct 2026. https://www.ynet.co.il/news/elections2026/article/rjh8kyb5gx ; https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties
-  - **Key insight:** his stated *criterion* is support for eliminating Hamas, not Arab identity. A statement in which Arab partners condemn Hamas and endorse ending Hamas rule meets his own test.
-- **Election night, 27 Oct 2026:**
-  - [Q] "האיש הזה חייב לרדת מהבמה"; "תרימו את נס המרד בתוך הליכוד"; "הוא מתנהל כמו ראש ארגון פשע" ("This man must leave the stage"; "Raise the banner of revolt inside Likud"; "He operates like the head of a crime organization").
-  - [P] **Evaded** the question of whether he would sit with Mansour Abbas and Ra'am, and did not commit to not relying on Arab votes. JFeed reported that he "refused to rule out" a government with Ra'am.
-  - Sources: https://www.ynet.co.il/news/elections2026/article/byrovcrhzx ; https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f56-d848-afe1-7f5fe7a50000 ; https://www.jfeed.com/news/netanyahu-bloc-leads-early-count-election
-- **Preferred path:** [P] Likud MKs defect, or Likud dumps Netanyahu, giving a Zionist 61 or repeat elections. The ToI analysis is that he is "risking another election" for his right-wing future, and he might revive "Likud Beytenu" if Netanyahu leaves. https://www.timesofisrael.com/liberman-is-risking-another-election-to-secure-his-right-wing-political-future/
+**Religion and state:** public transport on Shabbat "לפי צביון הערים", civil marriage, and "stop religious coercion". Election day, on X: "Put a note in the box today, and you'll get public transportation on Shabbat starting tomorrow" [EN-Q] (https://www.jpost.com/israel-election-2026/article-913065).
 
-## 4. Positions on the statement topics
+**Partners**
+- **Netanyahu:** "עם נתניהו - שיתהפך העולם לא נשב בשום מצב".
+- **Likud without Netanyahu:** "יכול להיות שותף משמעותי" (https://www.ynet.co.il/news/article/sk3gzeaogg).
+- **Arab lists and Haredim:** "בלי רע"מ, בלי המשותפת, בלי ש"ס ובלי יהדות התורה" (15 Oct).
+- **Minority government:** "לא נתמוך בשום ממשלת מיעוט, גם לא בממשלת מיעוט לתקופת מעבר" (15 Oct, https://www.ynet.co.il/news/elections2026/article/sjm11eeasfl).
+- On reliance: "לא ניתן להישען על ח"כים מרע"ם ומהרשימה המשותפת" (~19 Oct, https://www.ynet.co.il/news/article/r150pomnmx).
+- Ra'am as a sectoral party: "מספיק לנו ש"ס ליהודים" (11 Oct).
 
-**(a) Jewish state / Nation-State Law.** He is fully committed to "a Jewish and democratic state" as a Zionist and statist. YB voted for the Nation-State Law in 2018, but in 2022 he proposed amending it and making the Declaration of Independence a Basic Law (sources in §1b). He also wants a constitution (2026 op-ed). Statement point 1 is easy for YB. Wording that cites the Declaration of Independence ("Jewish and democratic… complete equality of social and political rights") fits his 2022 position.
+**Legitimacy test:** "כל ממשלה ציונית… חייבת להגדיר את חיסול החמאס כיעד מרכזי… כל מפלגה שמתנגדת לכך אין לה מקום בכנסת בישראל" (23 Sep). He then voted to disqualify the Joint List, Ra'am, Cassif and Abu Shehadeh. The criterion is political (Hamas), not ethnic. That is the one opening.
 
-**(b) Terrorism, Hamas, Oct 7, Gaza, hostages.**
-- He demands "complete elimination of Hamas" [Q, 5 Oct 2026] and wants this to be the litmus test for Knesset legitimacy (23 Sep).
-- [Q, Hebrew, 11 Sep 2026] "אם יש מישהו שאפשר להגיד עליו שהוא אבי הקונספציה זה נתניהו" ("if anyone is the father of the conception, it is Netanyahu"). https://www.ynet.co.il/news/elections2026/article/yokra14895450
-- He accused Netanyahu of "nurturing Hamas" via Qatari money and of sacrificing the hostages to preserve the coalition [P/Q in English]. https://www.ynetnews.com/article/nw2tuczmn
-- He would make a state commission of inquiry into Oct 7 his first government decision [P].
-- Death penalty for terrorists: long-held, voted for in 2026.
-- On Hezbollah [P, 11 Oct 2026]: eliminate it with Sunni, Christian and Druze actors backed by Saudi Arabia and the UAE.
+**Against sectoralism:** "מדינת ישראל לא יכולה להפוך לפדרציה של מיעוטים דתיים ואתניים" (6 Sep).
 
-**(c) Arab citizens.**
-- *Integration and equality:* [Q, 11 Oct 2026, Haifa] Arab Israelis must be "an integral part of society" so Israel does not go the way of sectarian Lebanon. https://www.haaretz.com/israel-news/elections/2026-10-11/ty-article/.premium/pm-rival-lieberman-urges-arab-israeli-integration-shuns-arab-party-in-coalition/000001a1-2a6b-da9e-a1f9-7febc2ab0000 (paywalled; summary only)
-- *Universal service:* [P] At the same conference he demanded universal service for all: Jews, Muslims, Christians, Druze and Circassians, via military or civil service, with civil service under the Defense Ministry. [Q] "זה תנאי מוקדם להקמת הממשלה. זה הסעיף שלא יהיו עליו שום פשרות" ("this is a precondition for forming the government; there will be no compromises on this clause"). Note that the Maariv summary partly attributes the universal-service detail to Yair Golan; the "precondition" quote is about the draft. https://www.maariv.co.il/news/elections-2026/article-1375993
-- *Crime:* "criminal terror" framing, iron fist, dismantle crime organizations financially (Feb 2026, above). This is a real convergence point with the Arab parties.
-- *Budgets:* As Finance Minister he funded Decision 550 (NIS 30bn). He has no stated 2026 position on a successor plan (the plan ends in 2026). He would plausibly accept a successor framed as "economic integration and employment".
-- *Planning, housing, Negev, Kaminitz:* **no 2026 statements found.** Historically he backs enforcement against illegal construction and Bedouin "takeovers" of land (unverified this cycle).
-- *Representation:* He has a Druze MK at #7. He resents sectoral parties, Jewish or Arab ("one Shas for the Jews is enough").
+## 4. Election-night and post-election statements
 
-**(d) West Bank.**
-- *Terminology:* He uses "יהודה ושומרון" (Judea and Samaria) and "Areas A/B/C". He lives in the settlement of Nokdim.
-- *Plan* [Q, 23 Sep 2026, ToI]: "You have to reach an understanding with the Jordanians that they will manage Judea and Samaria… Let them take security and administrative responsibility"; Jordan should "administer Areas A and B"; Israel "must create territorial continuity between all Area C territories" and "maintain complete control over them". The PA "is a terrorist organization" and "has gone bankrupt". Smotrich and Ben Gvir attacked the plan. https://www.timesofisrael.com/liberman-proposes-jordan-control-parts-of-west-bank-drawing-right-wing-rebuke/
-- *Palestinian state:* he opposes one. He warns of "a Palestinian state under Hamas control throughout Judea and Samaria" (5 Oct). He claims the US will recognize a Palestinian state after Trump and could sanction Israel (8 and 13 Oct 2026), and that Netanyahu is "the only one who declared his willingness to establish a Palestinian state". https://www.jpost.com/israel-news/politics-and-diplomacy/article-911595
-- *Annexation:* no explicit 2026 call for formal sovereignty. His focus is Area C contiguity and control.
-- **Settler violence** (important for statement point 4):
-  - [Q, 11 Sep 2026, Ynet] "הפורעים האלה גורמים נזק עצום לישראל"; "זה קומץ פורעים שצריך לטפל בו ביד קשה" ("These rioters cause enormous damage to Israel"; "it's a handful of rioters that must be dealt with with a heavy hand").
-  - Asked "אתה תומך במעצרים מינהליים לפורעים היהודים?" (Do you support administrative detention for the Jewish rioters?), he answered "חד וחלק כן… זה לא יכול להימשך ככה" ("Absolutely yes… it can't go on like this").
-  - [P] The handful "מוציא את דיבת הארץ ופוגע במפעל ההתיישבות" ("slanders the land and harms the settlement enterprise"), while the 630k residents are law-abiding.
-  - Source: https://www.ynet.co.il/news/elections2026/article/yokra14895450
-  - [Q in English, X post, ~Oct 2026] "the defense minister and the national security minister are doing nothing to stop this madness". The violence is "wiping out Israel's last bastions of support in the United States and around the world". https://www.jpost.com/israel-election-2026/article-912582
-  - **He did not use "טרור יהודי" in anything I found.** He uses "פורעים" (rioters).
-- *Outposts:* no 2026 statement found. As Defense Minister he oversaw the court-ordered Amona evacuation in Feb 2017 (from my background knowledge; not re-verified online). He has a rule-of-law, statist profile, and supports Area C contiguity, so he would distinguish "illegal" outposts from settlement blocs.
+**27–28 Oct, YB headquarters** (https://www.ynet.co.il/news/elections2026/article/byrovcrhzx)
+- [Q] "התמודדנו בתנאים בלתי סבירים כמפלגת ימין ליברלית"
+- [Q] "[נתניהו] התנהג היום כמו ראש ארגון פשע שחצה את כל הקווים האדומים היום"
+- [Q] "האיש הזה חייב לרדת מהבמה ומי שנאמן לדרך של הרצל, טרומפלדור וז'בוטינסקי חייב להעיף אותו"
+- [Q] "נקים קואליציה ציונית ונשים סוף להסתה"
+- [Q] "נמתין לתוצאות האמת ונטכס עצה"
+- [Q] "ביום שישי נדע הרבה יותר טוב"
+- [P] He said dozens of Likud members had called him. He put the double envelopes at about 15 seats, which would hurt the Haredi and Arab parties.
+- [P] He did not commit to avoid relying on Arab votes, and **evaded** the question on Abbas and Ra'am.
 
-**(e) Other coalition items.**
-- *Oct 7 state commission:* must-have, his first decision.
-- *Haredi draft:* the **top** must-have. No quotas or exemptions (he rejected 30% or 4,500-student proposals) and economic sanctions on draft-dodgers. [Q] "חוק הגיוס הוא החוק הכי חשוב מבחינה כלכלית, ביטחונית וחברתית" ("the draft law is the most important law, economically, security-wise and socially").
-- *Judiciary:* the defendant law, a two-term PM limit and a constitution. He is anti-Netanyahu on rule of law but not a "judicial activism" fan.
-- *Economy:* cancel coalition funds, liberal economics, high-tech mobility.
-- *Religion and state:* civil marriage, Shabbat transport, kashrut and conversion reform (the conversion detail is unverified in 2026).
+**Coverage, 28 Oct**
+- Haaretz (00:04) is headlined "ליברמן קורא למרד בליכוד: אנחנו מצפים לזה". Its Ra'am-tolerance lines are from activists, not from Liberman (https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f56-d848-afe1-7f5fe7a50000).
+- Ynetnews ranks repeat elections as the most likely scenario (https://www.ynetnews.com/article/s1600hrr2ml).
+- MCD Arabic (27 Oct): "أعلن نتنياهو ونفتالي بينيت وأفيغدور ليبرمان رفض تشكيل ائتلاف يضم أحزاباً عربية".
 
-## 5. Terminology sensitivities (YB view)
+**What we did not find:** no post-28-Oct statement, no consultations with the President, and no meeting reports. Verbatim Liberman wording about Ra'am since election night is not available.
 
-| Term | YB stance |
+## 5. Positions on the framework topics
+
+**Jewish state / Nation-State Law**
+- "Jewish and democratic" is a must.
+- We are open to balancing the Nation-State Law with the Declaration of Independence and an equality clause (2022 record, Hamad Amar's bills).
+- The run-1 "describe, don't endorse" clause 4 is acceptable to us.
+
+**Terrorism, Hamas, 7 Oct, Gaza, hostages**
+- Our line is the **elimination** of Hamas, military and civilian (5 Oct, [P]).
+- Our critique of Netanyahu: "chose to sacrifice all hostages…"; "doesn't want to defeat Hamas".
+- Death penalty for terrorists: voted for, 30 Mar 2026.
+- State commission: our first decision.
+- Gaza should go to "a serious party, acceptable to the Arab world and the international community" [EN-Q].
+- "Consolidate the end of the war" with no word on elimination would be read as Netanyahu-style softness. We need "disarm and eliminate Hamas's military and governing capabilities".
+
+**Arab citizens**
+- Crime: "טרור פלילי"; "יד ברזל, אפס סובלנות, ובמערכת שתפרק אותם כלכלית ומבצעית" (18 Feb). Strong common ground.
+- Integration and "fully integrate" (11 Oct, headline). Equal rights *with* equal duties (service).
+- Budgets: Decision 550 passed on our watch, so we can defend a successor as integration and employment.
+- **No 2026 statements found** on Kaminitz, the Negev unrecognized villages, or representation. Our statist rule-of-law profile resists blanket freezes on enforcement.
+
+**West Bank**
+- Terms: "יהודה ושומרון" and "Areas A/B/C".
+- No Palestinian state. Jordan or a confederation should administer A and B. Area C stays under full Israeli control, with contiguity (23 Sep).
+- The PA is "a terrorist organization".
+- Settler rioters: "קומץ פורעים", "ביד קשה", administrative detention "חד וחלק כן" (11 Sep). The violence harms "the State of Israel and the settlement enterprise" (22 Oct).
+- **He does not say "טרור יהודי"**, and we do not use "settler terror".
+- Formal annexation: no 2026 call for it found.
+
+**7 Oct commission, Haredi draft, judiciary, religion and state:** see §3. The draft is the precondition. On the judiciary we are anti-Netanyahu: defendant law, term limits, constitution.
+
+## 6. Terminology
+
+| Must say | Cannot sign |
 |---|---|
-| "מדינה יהודית ודמוקרטית" / Jewish and democratic state | **Must appear.** References to the Declaration of Independence are welcome. |
-| "כיבוש" / occupation / الاحتلال | **Cannot sign.** Uses "יהודה ושומרון" or "Areas A/B/C". "Territories under military control/administration" (שטחים בשליטה צבאית / ממשל צבאי) is tolerable as a factual description, preferably alongside "יהודה ושומרון". |
-| "Palestinian state", "two states", "end of occupation" | Cannot sign in 2026. Silence on end goals is acceptable and matches the brief. |
-| "Palestinian people" | Uncomfortable. "Palestinians" or "the Palestinian population in Areas A and B" is fine. |
-| "Nakba" | **Cannot sign.** His 2015 remark was that Nakba-flag raisers should leave. |
-| "Terrorism" for Palestinian armed acts; "Hamas" named | **Must.** Ideally also "elimination/defeat of Hamas" or "ending Hamas rule" (חיסול/מיגור שלטון החמאס). Hezbollah and Iran are welcome. |
-| "טרור יהודי" / "Jewish terrorism" | He has not used it. He says "פורעים יהודים" and "קומץ פורעים", and supports administrative detention. Acceptable: "אלימות ופשיעה לאומנית של קומץ פורעים יהודים — טרור לכל דבר" or "terror by Jewish extremists". The Shin Bet and the IDF already classify it as terror. He can live with "terror" if it is framed as **a small minority harming the settlement enterprise and Israel's standing**, and never as "settler terror" (טרור מתנחלים), which smears 630k people. |
-| "מאחזים בלתי מורשים" / unauthorized outposts | Acceptable as rule of law ("illegal under Israeli law"), not as "all settlements are illegal". |
-| "Arab citizens equal" | Acceptable in the form "equal rights *and equal duties*" (שוויון בזכויות ובחובות). "Collective national rights", "indigenous minority" or "Palestinian citizens of Israel" are not acceptable. "החברה הערבית" / "אזרחי ישראל הערבים" are fine. |
-| "Fifth column" (גיס חמישי) | His own historic term. Obviously absent from any joint text. Arab partners will remember it. |
+| "מדינה יהודית ודמוקרטית"; "מגילת העצמאות" | "כיבוש" / الاحتلال; "Palestinian state"; "Nakba"; "right of return" |
+| "חיסול / פירוק החמאס"; "ארגון טרור" | Wording that implies the war ends while Hamas still stands |
+| "שוויון בזכויות ובחובות"; "שירות לכולם" | Any service exemption written in law for one population (it legally undermines sanctions on Haredim) |
+| "קומץ פורעים", "אלימות לאומנית" | "טרור מתנחלים". "טרור יהודי" is avoided but tolerable only next to "קומץ". |
+| "יהודה ושומרון" | "העם הפלסטיני" as a party to a "settlement" (clause 15) |
+| "ממשלה ציונית", "רוב ציוני" | Text in which the Joint List is a formal pillar (Annex 1), or a "legitimate partner" clause naming the Joint List |
 
-## 6. Negotiation profile
+## 7. Negotiating position for run 2
 
-**MUST-HAVES**
-1. A universal **draft/service law** with no quotas or exemptions, with sanctions, and without Haredi parties. This is the "precondition with no compromise".
-2. **No Netanyahu** as PM.
-3. A **state commission of inquiry into Oct 7**.
-4. Unambiguous **condemnation of terror and Hamas by name**, plus a commitment to end Hamas rule or capability. This is also his own legitimacy test for Arab parties.
-5. "Jewish and democratic state" language.
-6. **Zero "כיבוש"/"Palestinian state"/"Nakba" language.**
-7. Religion-and-state deliverables: civil marriage, Shabbat transport, cancelling coalition funds.
+**Real must-haves**
+1. A Service Law for All with no quotas and no exemptions, and with personal and economic sanctions, as a precondition. No Haredi parties.
+2. No Netanyahu as PM.
+3. A state commission into 7 Oct.
+4. Hamas named, and its elimination or disarmament as policy.
+5. A **Zionist majority** of 61 or more without counting Arab votes. This is the explicit 15 Oct promise.
+6. Shabbat transport, civil marriage, and cancelled coalition funds.
 
-**Nice-to-haves**
-- Defendant law and a PM term limit.
-- An Arab-society crime plan framed as fighting "טרור פלילי".
-- Civil/national service for Arab youth (voluntary, then expanding).
-- The Jordan or regional framing for Areas A and B.
-- Area C contiguity, or at least silence on settlement blocs.
+**Real deal-breakers**
+- A government whose investiture or budget depends on Ra'am (Chapter E), or on Joint List abstention (Annex 1). Eisenkot bloc + Ra'am = 55, which **is** the minority government we ruled out "even for a transitional period".
+- A Joint List deputy Speaker (clause 20). We voted to disqualify them five weeks ago.
+- A Ra'am deputy minister inside the policing ministry (clause 22).
+- The Arab-only shield in clause 6a ("no citizen will lose… any existing right… This protection does not apply to any other population"). It breaks "100%/0%" and hands the Haredi parties a High Court discrimination argument against draft sanctions.
 
-**Possible concessions**
-- A strong "full equality of Arab citizens" clause plus a large economic and anti-crime budget. He already funded Decision 550, so he can defend it as integration and growth.
-- Firm action against Jewish rioters and administrative detention, which he already supports.
-- Evacuation of *illegal* outposts under the law.
-- Neutral wording "territories under military control" if "יהודה ושומרון" appears alongside it.
-- On Ra'am (hardest): **no formal coalition membership and no Joint List**. Possibly tolerate **Ra'am outside votes on specific bills or budgets** if Ra'am publicly signs the anti-Hamas, Jewish-and-democratic-state text, so he can say "they met my criterion". Election night shows he is keeping this door ajar.
+**Best alternative to this deal (BATNA)**
+1. A **Likud revolt**: Likud without Netanyahu + Yashar + Together + YB, about 65. This is our stated preference, and Liberman's election-night speech was aimed at it.
+2. **Repeat elections.** Ynet calls this the most likely outcome. Our polling held at 7–8, and we enter them with clean hands.
+3. Wait for the double envelopes, which may move 1–2 seats.
+4. Opposition.
 
-**DEAL-BREAKERS**
-- Netanyahu as PM.
-- Haredi parties in the coalition, or a draft law with quotas.
-- **Joint List inside the coalition**, or a government whose survival visibly depends on the Joint List.
-- A statement implying a Palestinian state, "occupation", Nakba, or right of return.
-- Failing to name Hamas.
-- "Settler terror" language that collectively blames settlers.
-- A **minority government** (explicit 15 Oct promise). The coalition must be framed as a majority government even if Arab votes are part of the 61.
+All of these beat breaking a promise made 13 days before the vote.
 
-**What he must show his voters (Russian-speaking, secular)**
-- "We passed the draft law and civil marriage; no Haredi blackmail; Bibi is gone."
-- "The Arab partners signed on to Israel as a Jewish state and the war on Hamas; the Joint List is outside."
-- "Crime-fighting with an iron fist in Arab towns."
-- "Jewish rioters are handled because they hurt the settlement enterprise."
-- His voters punished the 2021 Ra'am experience, and some leaked to Winter's party. **Any Ra'am arrangement must be dressed as Ra'am accepting *his* terms, not the reverse.**
+**What we could trade**
+- We support Chapter D on crime: NIS 1bn and the Shin Bet against criminal organizations. This is our own "criminal terror" line.
+- We support a Decision 550 successor framed as employment and integration.
+- Civil service for Arab youth through incentives.
+- Rule-of-law evacuation of illegal outposts.
+- Administrative detention for rioters.
+- No annexation during the term, which costs us nothing.
+- "Military control" alongside "Judea and Samaria".
+- **Ad hoc, unsigned Ra'am votes** for a Zionist-majority agenda: replacing the Speaker, the commission, the draft law and the defendant law. That would be Ra'am voting for *our* bills, not us depending on Ra'am.
+- If a Zionist majority ever existed, we could accept a non-binding Ra'am vote alongside it, as long as it is not part of the 61.
 
-## 7. Uncertainties
+**What rivals and voters will attack us for**
+- Likud and Channel 14: "Liberman sat with Ra'am in 2021 and will do it again", which was predicted in Likud's statement of 15 Oct.
+- Ben Gvir, Smotrich and Deri: "Disengagement II" (the Jordan plan).
+- Our Russian-speaking and secular base: any Joint List safety net, after we called them "Hamas supporters" and voted to disqualify them.
+- Bennett: competing for the same right-wing anti-Netanyahu voter. If Bennett breaks first, we must not be second.
 
-- There is **no verbatim election-night quote on Ra'am**: only Ynet's report that he "evaded" and JFeed's report that he "refused to rule out". Haaretz's report that he is "ready to accept outside Ra'am support but not the Joint List" may be an activist's view rather than his own.
-- The full text of the Haifa speech (11 Oct) is paywalled. Attribution of the universal-service point (Liberman vs. Golan) is unclear in the Maariv summary.
-- The year of the Russian i24 interview (28 Aug) is inferred.
-- Settler violence: the X-post wording is in English translation only. He has no recorded use of "טרור יהודי".
-- No 2026 statements found on Kaminitz, Negev unrecognized villages, a Decision 550 successor, or outposts. The Amona 2017 point and his 2021 rationale for sitting with Ra'am are from background knowledge, not re-verified.
-- Mansour Abbas's claim of personal negotiations with Liberman is unverified.
-- Seat counts are preliminary, and double envelopes may shift YB by about ±1.
+## 8. Uncertainties
+
+- The final count after the double envelopes; YB could reach 8.
+- No verbatim Liberman wording on Ra'am after the election.
+- The Haaretz Haifa speech (11 Oct) is paywalled.
+- The year of the i24 interview is inferred.
+- The exact 2018 Nation-State vote of each YB MK.
+- Amona 2017, Hezbollah, conversion and kashrut items are not re-verified.
+- No Arab-press (Arab48, Panet) quotes of Liberman were retrieved before the search quota ran out. Only MCD Arabic and Arabic Wikipedia were read; Arabic Wikipedia says "طالب ليبرمان بمحاكمة كل عضو كنيست يلتقي بقادة حماس".
+- 2026 statements on the Triangle plan or the loyalty-citizenship plan: none found. Searching for them was cut off.
