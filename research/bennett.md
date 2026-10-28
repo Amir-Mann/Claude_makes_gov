@@ -1,207 +1,254 @@
-# Dossier: Bennett 2026 (בנט 2026) inside the joint list "Together" (ביחד / B'Yachad)
+# Dossier (run 2): Bennett 2026 (בנט 2026) in the joint list "Together" (ביחד)
 
-Prepared 2026-10-28 by the BENNETT agent (stage A). Yesh Atid positions are mostly left to the Yesh Atid agent; they appear here only where the joint-list terms touch them.
-Conventions: **Q** means a verbatim quote as given by the cited outlet (Hebrew kept verbatim). **P** means a paraphrase or reporter summary. Every item carries its date.
+Prepared 28 Oct 2026 by the BENNETT negotiating team (simulation; does not speak for any real party), stage A of `BRIEF_v2.md`.
+Conventions: **Q** = verbatim quote found at the cited URL (original language kept). **P** = paraphrase or reporter wording. **H** = headline only (body not retrievable).
+Limits: the shared WebSearch budget ran out mid-research. Later checks used WebFetch on known URLs only. Israel Hayom and Kan returned HTTP 403, so items from them are headline-level.
 
 ---
 
-## 1. Identity
+## 0. Verification log of the run-1 file
 
-- **Leader:** Naftali Bennett. He was Prime Minister June 2021 to June 2022 (Bennett–Lapid government, with Ra'am inside the coalition). Before that he led Jewish Home and then Yamina. Earlier he was director-general of the Yesha Council.
-- **List:** "Together" (ביחד), a joint list of Bennett 2026 and Yesh Atid, announced 26 Apr 2026 and led by Bennett. Bennett holds "רוב במקומות הריאליים" (the majority of realistic slots) ([Ynet, 26 Apr 2026](https://www.ynet.co.il/news/article/bjev03jpwl)).
-  - Reshet Bet reported that Yesh Atid gets 10 of the top 24 slots. Another report says 12 of the top 29 ([JPost, 28 Apr 2026](https://www.jpost.com/israel-news/politics-and-diplomacy/article-894432); [JNS](https://www.jns.org/news/israel-news/bennett-lapid-unite-ahead-of-2026-elections)).
-  - The combined list has 4 Yesh Atid candidates in its top 10 ([Ynet, 5 Sep 2026](https://www.ynetnews.com/article/hkfdvtkogx)).
-  - The structure reportedly preserves each party's ability to split after the election ([JNS](https://www.jns.org/news/israel-news/bennett-lapid-unite-ahead-of-2026-elections)).
-  - The full agreement text has not been published.
-- **2026 seats:** about 12 on preliminary results. On the reported slotting, Bennett's own faction is roughly 7–8 MKs and Yesh Atid roughly 4–5. That split is an estimate, not verified.
-- **Base:** soft-right and center-right voters, religious-liberal and national-religious voters disillusioned with Likud and RZP, reservists, and Yesh Atid's centrist voters.
-- **Ideology in three lines:**
-  - "אני ימין, אני ימין ליברלי, אני בראש, אני אנווט" (Q, 26 Apr 2026, [Ynet](https://www.ynet.co.il/news/article/bjev03jpwl)).
-  - Security hawk who opposes a Palestinian state. Supports Israeli sovereignty over Area C over the long term. Supports legal settlement and opposes illegal outposts.
-  - Domestically: an "alliance of those who serve" (ברית המשרתים) against draft-dodging; a constitution based on the Declaration of Independence; an Oct 7 state commission; a liberal religion–state agenda.
+| # | Run-1 claim | Status | Source | Note |
+|---|---|---|---|---|
+| 1 | Together = joint list of Bennett 2026 + Yesh Atid, announced 26 Apr 2026, Bennett leads, "רוב במקומות הריאליים" | CONFIRMED | [Ynet 26 Apr 2026](https://www.ynet.co.il/news/article/bjev03jpwl) | The article also says slots were left open for Eisenkot ("חלונות פתוחים"). He never joined. |
+| 2 | "אני ימין, אני ימין ליברלי, אני בראש, אני אנווט" | CONFIRMED (Q) | same | |
+| 3 | "נקים ממשלה עם מפלגות ורוב ציוני גדול. המפלגות הערביות לא ציוניות ולא נסתמך עליהן" | CONFIRMED (Q) | same; [Haaretz 26 Apr](https://www.haaretz.co.il/news/elections/2026-04-26/ty-article/0000019d-cac7-d95a-afbd-ebcfca080000) | |
+| 4 | Yesh Atid gets 10 of the top 24 slots (Reshet Bet) | CONFIRMED | [JPost 28 Apr 2026](https://www.jpost.com/israel-news/politics-and-diplomacy/article-894432) | |
+| 5 | "12 of top 29" alternative report | UNVERIFIED | not in the JPost piece | |
+| 6 | 4 Yesh Atid in the top 10 (Ynet, 5 Sep) | UNVERIFIED | the URL returns 404 | Superseded by row 8. |
+| 7 | The structure preserves the ability to split after the election (cited to JNS) | CORRECTED | [JPost 28 Apr](https://www.jpost.com/israel-news/politics-and-diplomacy/article-894432) | The source is Kan via JPost, not JNS. Yesh Atid would hold more than a third of the MKs, so Lapid could split right after the election. MK Beliak called it a "technical bloc". |
+| 8 | 2026 seats ≈12; Bennett faction ≈7–8, Yesh Atid ≈4–5 (estimate) | CORRECTED / NARROWED | [Walla 28 Oct](https://www.walla.co.il/news/politics/383959225); [Ynet live](https://www.ynet.co.il/news/blogs/article/bkiwzbj6mg) | 12 seats at 89.8% of votes counted, before the double envelopes. Of the top 12, **7 are Bennett's and 5 are Yesh Atid's** (Walla). 5 of 12 is more than a third, so **Lapid can legally split**. |
+| 9 | Yesha Council DG; Haaretz 28 Oct remark on left voters balking | CONFIRMED | [Haaretz 28 Oct](https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f66-d343-adef-7f7ff0790000) | |
+| 10 | 2012 Stability Initiative: sovereignty over Area C | CONFIRMED (secondary) | [Algemeiner 2014](https://www.algemeiner.com/2014/05/15/israels-bennett-floats-plan-to-exercise-israeli-sovereignty-devolve-more-autonomy-to-pa-in-post-oslo-era-video/) | Not re-fetched. |
+| 11 | "תוכנית בנט מ-2012 רואה את שטחי C כחלק עתידי ריבוני של מדינת ישראל" plus timing needs discretion | CONFIRMED (Q) | [Ynet](https://www.ynet.co.il/news/elections2026/article/yokra14910407) | The date (28 Sep) was **not confirmed**: the page shows none. Exact wording: "מובן שיש להפעיל שיקול דעת לגבי העיתוי". |
+| 12 | "In my vision, ultimately Area C will be part of the State of Israel…" | CONFIRMED (Q, English) | [ToI 23 Jun 2026](https://www.timesofisrael.com/bennett-calls-to-dismantle-illegal-settlement-outposts-draws-right-wing-leaders-ire/) | Said in a Kan interview on 22 Jun. Same day he said: "I'm a right-wing guy, I'm not changing my opinions. But I'm not a schmuck." |
+| 13 | Haaretz 30 Jun: "committed to annexing the West Bank" | UNVERIFIED | paywalled; not fetched | |
+| 14 | Rejects the term "occupation" (Amanpour, 2013) | CONFIRMED (secondary, older) | run-1 links | No 2026 retraction found. |
+| 15 | "אני מתנגד למדינה פלסטינית, נקודה" (attributed to Polimeter/IH, Oct 2026) | CORRECTED (date/source) | [Walla 28 Aug 2026](https://www.walla.co.il/news/politics/3863893) | Said 28 Aug 2026 in Rishon LeZion, in the form "ברור שלא. אני מתנגד למדינה פלסטינית, נקודה" and "בשום קונסטלציה". Also, 3 Jul: "אני נגד מדינה פלסטינית נקודה. זה קו אדום" ([Ynet](https://www.ynet.co.il/news/120andone/article/s100tqclqmg)). |
+| 16 | 2018 Nation-State Law: backed it, then sought a Druze fix | CONFIRMED (headline level) | [JPost 25 Jul 2018](https://www.jpost.com/israel-news/bennett-jewish-nation-state-law-harms-druze-563370) | Only "our Druze brothers" was verifiable verbatim. "Necessary", "just" and "specific mistake" are UNVERIFIED. |
+| 17 | 2021 Ra'am agreement: 3 villages, Kaminitz discussion, more than ₪53bn | CONFIRMED (as Ra'am's claim) | [ToI-fr 3 Jun 2021](https://fr.timesofisrael.com/laccord-qua-conclu-le-parti-islamiste-raam-pour-entrer-dans-la-coalition/) | The villages were Abda, Khashm al-Zena and Rakhma. Kaminitz amendment talks within 6 months; the freeze extended to 2024. These are Ra'am's own figures. |
+| 18 | Decision 550, ≈₪30bn | CONFIRMED (run-1 sources; consistent with row 17) | | |
+| 19 | 2026 platform: crime as a national-security threat, Shin Bet **and IDF** | CORRECTED | [be-yahad personal-security](https://be-yahad.org.il/plans/personal-security/) | Shin Bet: yes ("ונכניס את שב״כ לתמונה", "פשיעה = איום ביטחוני לאומי"). **IDF involvement is not in the plan.** |
+| 20 | "מאז 7 באוקטובר אין מנדט לממשלה שנתמכת במפלגות ערביות" (2 Feb 2026) | CONFIRMED (Q) | [Mako/N12 2 Feb](https://www.mako.co.il/news-politics/2026_q1/Article-75a42e70dcf1c91026.htm) | Same speech: "כן כואב שהכאבתי לאנשים - אבל אני עומד מאחורי ההחלטה". **He also called for a national unity government led by him and did not rule out Likud.** |
+| 21 | "אחרי ה-7 באוקטובר אין לנו מנדט במדינת ישראל להקים ממשלה שמושתתת על מפלגות ערביות" | CONFIRMED (Q) | [Kipa 2 Feb](https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1218980-0/) | |
+| 22 | JPost 4 Sep: "I stand behind that decision"; "No… October 7 changes a lot of things"; "not based on race" | CONFIRMED (Q) | [JPost 4 Sep](https://www.jpost.com/israel-election-2026/article-907517) | Also: "Unfortunately, I had promised not to form a government with Abbas, and I did". And on Netanyahu: "**I think he should go home. He should be pardoned.**" Run 1 missed this. |
+| 23 | IH 18 Oct headline "עבאס היה שותף נהדר לממשלה, לא פוסל אותו כי הוא ערבי" | CONFIRMED (H only) | [Israel Hayom](https://www.israelhayom.co.il/news/politics/article/21648600) | The body returns 403. The headline appears in search listings. |
+| 24 | Platform: state commission on day one, constitution "על בסיס עקרונות מגילת העצמאות", 8-year PM limit | CONFIRMED | [Polimeter](https://polimeter.co.il/parties/beyahad) | |
+| 25 | Servants Law: "כל הקצבאות… שמעודדות השתמטות - יבוטלו"; opposes "כל מתווה הכולל אחוזי פטור" | PARTLY CONFIRMED | [servant-law-new](https://be-yahad.org.il/plans/servant-law-new/); Polimeter | The live page says "מי שלא משרת – לא מקבל!" and "ביטול כספים קואליציוניים, ביטול קצבאות אברך". Opposition to exemption percentages is confirmed by Polimeter (P). The exact "יבוטלו" wording was not found. |
+| 26 | "או 100 אחוז ליבה, או 0 אחוז מימון" | CONFIRMED (Q) | [Polimeter, citing be-yahad education plan](https://polimeter.co.il/parties/beyahad) | |
+| 27 | natsec: yellow line; "חמאס מתעצם – אנחנו תוקפים"; Qatar "מדינת אויב" | CONFIRMED (Q) | [be-yahad natsec](https://be-yahad.org.il/plans/natsec/) | No hostages, no Palestinian Authority and no Palestinian state on that page. |
+| 28 | Negev plan: "אזור במצב חירום", "טרור לאומני", "170 אלף…", "נושיט יד", sanctions | CONFIRMED (Q) | [be-yahad negev](https://be-yahad.org.il/plans/negev/) | Exact wording of the sanctions: "סנקציות כלכליות כבדות על סרבני פינוי". |
+| 29 | "ישראל תישאר מדינה יהודית, אבל… שער אחד" | UNVERIFIED | not re-fetched | |
+| 30 | 21 Oct: "לא ייתן יד להקמת ממשלה בהימנעות המפלגות הערביות" | CONFIRMED as **reporter wording** (P) | [Ynet 21 Oct](https://www.ynet.co.il/news/elections2026/article/hkj8dy8nfe) | "Immoral and impractical" is also the reporters' (Azoulay and Hess) summary of Bennett and Liberman, not a Bennett quote. |
+| 31 | He rejected Eisenkot's abstention idea in Feb 2026 | CONFIRMED | [Mako 3 Feb](https://www.mako.co.il/news-israel-elections/2026/Article-528136008722c91027.htm) | |
+| 32 | Together voted to disqualify Abu Shehadeh: "תמיכתו בטבח 7 באוקטובר" | CONFIRMED (Q) | [Ynet](https://www.ynet.co.il/news/article/by9abbzcfg) | The reps were Yesh Atid's. Date ≈23 Sep (Polimeter). |
+| 33 | "ברור שלא. אני הולך להחליף אותו" (3 Jul) | CONFIRMED (Q) | [Ynet 3 Jul](https://www.ynet.co.il/news/120andone/article/s100tqclqmg) | |
+| 34 | "אני עם לפיד עד הסוף" | CONFIRMED (H) | same | |
+| 35 | "אעשה כל דבר שצריך כדי לנצח ולהציל את מדינת ישראל" | CONFIRMED (Q) | same | Followed by "נקודה". He called Eisenkot's ~4,500-exemption idea "שגיאה נוראה". |
+| 36 | "הדלת נעולה למי שבעד השתמטות" | UNVERIFIED | Polimeter attributes it to the Ynet interview, but the article text does not contain it | Do not use as a quote. |
+| 37 | "אתה לא משרת? לא תקבל שקל" | CONFIRMED (Q) | Ynet 3 Jul | |
+| 38 | Election night: "ברית המשרתים ניצחה היום את ברית המשתמטים"; "נעשה הכול, בלי אגו…"; "נחכה בסבלנות…" | CONFIRMED (Q) | [Ynet](https://www.ynet.co.il/news/elections2026/article/skmmqicngx); [Maariv](https://www.maariv.co.il/news/elections-2026/article-1382099) | |
+| 39 | Election night: he did not repeat the no-Arab-parties pledge | CONFIRMED | [Haaretz 28 Oct](https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f66-d343-adef-7f7ff0790000) ("לא התייחס לכך בנאום הערב") | **But run 1 over-read it.** Silence in a victory speech is not a shift. The ToI, Kikar, Al Jazeera and MCD pieces of 27–28 Oct all still list him as ruling out reliance on Arab parties. |
+| 40 | Lapid: "אולי לא תהיה קואליציה רחבה ביום הראשון, נרחיב אותה בהמשך" | CONFIRMED (Q) | Ynet, Haaretz | |
+| 41 | "We failed in our most fundamental goal, which is to protect Jews" | CONFIRMED (Q) | JPost 4 Sep | |
+| 42 | Together to Ynet: settlement "באופן חוקי", oppose evacuating legal communities, "מתנגדים למדינה פלסטינית ומסירת שטחים", "בנייה פלסטינית בלתי חוקית תפונה בכל מקום" | CONFIRMED (Q) | [Ynet](https://www.ynet.co.il/news/elections2026/article/yokra14910407) | Also: "כל מה שנמצא על קרקע חוקית - צריך להסדיר". |
+| 43 | Outposts: "Of course. What isn't legal, certainly." | CONFIRMED (Q) | ToI 23 Jun | Smotrich and Yesha Council head Yisrael Gantz attacked him. |
+| 44 | "לא נקים מדינה פלסטינית" (IH 17 Oct headline) | CONFIRMED (H) | [Israel Hayom](https://www.israelhayom.co.il/news/politics/article/21645934) | Headline: "בנט בפנייה ישירה למצביעי הימין: 'לא נקים מדינה פלסטינית'". |
+| 45 | No 2026 Bennett quote on settler violence or "Jewish terror" | CONFIRMED (still none found) | searches | The key precedent is from 2021; see §5d. |
+| 46 | "Rules out members of the outgoing government" (ToI 28 Oct) | CONFIRMED | [ToI 28 Oct](https://www.timesofisrael.com/as-change-bloc-falls-far-short-of-majority-democrats-golan-urges-coalition-with-arabs/) | **Qualified** by row 47. |
+| 47 | (Missing in run 1) Bennett said on 11 Oct he had "no problem" with Netanyahu as a minister, then retracted | NEW | [Maariv 11 Oct](https://www.maariv.co.il/news/politics/article-1376111) | Q: "כל עוד אנחנו נקבל את העקרונות היסוד, אין לי בעיה שנתניהו יהיה שר בממשלה שלנו". Retraction: "לא נשב איתו בשום קונסטלציה". |
+| 48 | Run-1 must-have "Arab participation framed as civic partnership" and assessment "far more likely to accept Ra'am in a structured civic role" | LIKELY OVER-OPTIMISTIC (analysis, not fact) | rows 20–23, 30, 39 | Every 2026 statement points the other way. The run-1 "converge" instruction drove this. |
+| 49 | Run-1 deal-breaker list did not include a government resting on Joint List abstention | CORRECTED | row 30 | He explicitly refused a government built on Arab abstention (P, 21 Oct). |
 
-## 1b. Ideological foundations (whole career) — and where 2026 diverges
+## 1. Identity and latest result
 
-| Foundation | Evidence | 2026 status |
-|---|---|---|
-| **Yesha Council / settlement movement roots.** Bennett was director-general of the Yesha Council. | Haaretz notes left-wing voters balked at "a right-wing chair who was formerly CEO of the Yesha Council" (P, 28 Oct 2026, [Haaretz](https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f66-d343-adef-7f7ff0790000)). | Continuous. |
-| **"Israel Stability Initiative" (2012):** apply sovereignty over Area C (about 60% of the West Bank), Palestinian autonomy in Areas A and B, citizenship offered to Area C Palestinians. | [Algemeiner 2014](https://www.algemeiner.com/2014/05/15/israels-bennett-floats-plan-to-exercise-israeli-sovereignty-devolve-more-autonomy-to-pa-in-post-oslo-era-video/); [Gulf News](https://gulfnews.com/amp/story/world%2Fmena%2Fisraeli-minister-proposes-annexing-65-of-west-bank-1.1337077) | **Still the declared vision.** Together told Ynet: "תוכנית בנט מ-2012 רואה את שטחי C כחלק עתידי ריבוני של מדינת ישראל" (Q, 28 Sep 2026), adding that timing requires discretion ([Ynet](https://www.ynet.co.il/news/elections2026/article/yokra14910407)). Also: "In my vision, ultimately Area C will be part of the State of Israel, Areas A and B will be part of a Palestinian autonomy" (Q in English, 23 Jun 2026, [ToI](https://www.timesofisrael.com/bennett-calls-to-dismantle-illegal-settlement-outposts-draws-right-wing-leaders-ire/)). Haaretz framed it on 30 Jun 2026 as "committed to annexing the West Bank" ([Haaretz](https://www.haaretz.com/israel-news/israel-politics/2026-06-30/ty-article-magazine/.premium/in-his-own-words-naftali-bennett-is-committed-to-annexing-the-west-bank/0000019f-1896-d222-a9ff-9e9779530000)). |
-| **Rejects the term "occupation":** "one cannot occupy one's own land." He confronted CNN's Amanpour over the term in 2013. | [ToI "What occupation?"](https://www.timesofisrael.com/what-occupation-asks-bennett-rejecting-two-state-solution/); [Algemeiner 2013](https://www.algemeiner.com/2013/11/19/israels-econ-minister-bennett-schools-cnns-amanpour-over-use-of-term-occupied-territories-video/); [JNS 2020](https://www.jns.org/bennett-announces-task-force-to-boost-israeli-settlement-enterprise/) | No 2026 retraction found. This is a lifelong terminology red line. |
-| **Opposes a Palestinian state** throughout his career. | As above. | Reaffirmed in 2026, e.g. "אני מתנגד למדינה פלסטינית, נקודה" (Q as reported by Polimeter/Israel Hayom, Oct 2026; see §4d). |
-| **Pro-settlement executive record.** As Defense Minister (Jan 2020) he set up a task force to boost settlement. | [JNS 2020](https://www.jns.org/bennett-announces-task-force-to-boost-israeli-settlement-enterprise/) | 2026 nuance: legal settlement only. He now pledges to evacuate illegal outposts and farms on private land (see §4d). Settler leaders call this a betrayal. **Divergence in tone, not in end-goal.** |
-| **Nation-State Law (2018):** backed it as Jewish Home leader. On 25–26 Jul 2018 he said it "deeply hurt" the Druze, and called the law "necessary" and "just" but containing "a specific mistake regarding our Druze brothers that needs to be remedied." | [JPost 2018](https://www.jpost.com/israel-news/bennett-jewish-nation-state-law-harms-druze-563370); [Israel Hayom 2018](https://www.israelhayom.com/2018/07/26/reversing-vocal-support-bennett-calls-for-revision-%e2%80%8eof-nation-state-law/) | No 2026 statement found. The fix he supported was for the Druze specifically, never repeal. |
-| **2021 Bennett–Lapid government with Ra'am.** He broke his 2021 campaign promise not to sit with Mansour Abbas. The coalition agreement with Ra'am reportedly included: recognizing 3 Negev Bedouin villages; extending the freeze on enforcing demolitions; discussing amendment of the Kaminitz Law (Ra'am said "freeze"); and a large Arab-society budget (reports cite more than ₪53bn in total). | [ToI-fr](https://fr.timesofisrael.com/laccord-qua-conclu-le-parti-islamiste-raam-pour-entrer-dans-la-coalition/); [INN](https://www.israelnationalnews.com/News/News.aspx/307678) | See the next row for how he talks about it now. |
-| **Government Resolution 550 (Oct 2021):** about ₪30bn five-year plan for Arab society (2022–26), passed by his government. The plan ends at the end of 2026 and a successor is being prepared. | [Bank of Israel](https://boi.org.il/en/communication-and-publications/press-releases/research-department-policy-paper-analysis-of-the-implementation-of-the-five-year-plan-for-the-economic-development-of-the-arab-population-as-part-of-government-resolution-922-budgets-achievements-and-barriers/); [IATF, May 2026](https://www.acitaskforce.org/?p=17543) | Likud attacks it as the "Bennett-Abbas" plan. He has not disowned it. |
-| **2021: Shin Bet and IDF brought into the fight against Arab crime.** Arab leaders called it a rights infringement. | [Haaretz 2021](https://www.haaretz.com/israel-news/2021-10-03/ty-article/.premium/bennett-tells-committee-he-expects-arabs-to-cooperate-fully-in-fight-against-crime/0000017f-dc7d-df9c-a17f-fe7d64f60000) | **Continuous.** The 2026 platform again declares organized crime a "national security threat" with Shin Bet and IDF involvement. |
+- **Leader:** Naftali Bennett. PM Jun 2021–Jun 2022 (with Lapid, with Ra'am inside the coalition). Formerly led Jewish Home and Yamina, served as Defense Minister, and was DG of the Yesha Council.
+- **List:** "ביחד" (Together), Bennett 2026 + Yesh Atid, signed 26 Apr 2026 ([Ynet](https://www.ynet.co.il/news/article/bjev03jpwl); [JNS](https://www.jns.org/news/israel-news/bennett-lapid-unite-ahead-of-2026-elections)). It is a technical bloc. Yesh Atid is not dissolved, and its share of seats gives Lapid a legal right to split ([JPost](https://www.jpost.com/israel-news/politics-and-diplomacy/article-894432)).
+- **Latest result (28 Oct, 89.8% of votes counted, double envelopes not yet counted):** **Together 12** ([Ynet live](https://www.ynet.co.il/news/blogs/article/bkiwzbj6mg); [Kipa, 88.6%](https://www.kipa.co.il/%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-2026/%D7%91%D7%99%D7%97%D7%93/)). Exit polls gave 11–15, and some projections give 11. About 9% of the vote ([Poliwave](https://www.poliwave.com/il/live/knesset-2026)). Ram Ben Barak (Yesh Atid), at no. 12, is "on the line".
+  - Party table (Ynet): Likud 26, Yashar 21, Together 12, Joint List 12, Democrats 8, Yisrael Beiteinu 7, Ra'am 7, UTJ 7, Shas 7, Otzma 7, RZP 6.
+  - **Blocs:** Netanyahu bloc 53; Zionist change bloc 48; Arab lists 19 ([ToI 28 Oct](https://www.timesofisrael.com/as-change-bloc-falls-far-short-of-majority-democrats-golan-urges-coalition-with-arabs/)). The final count is due to the President next week (per search summary of the [Mako live blog](https://mako.co.il/news-politics/2026_q4/liveblog-f5b5a09693081a1026.htm); not fetched directly).
+  - Within Together, the top 12 are **7 Bennett and 5 Yesh Atid** ([Walla](https://www.walla.co.il/news/politics/383959225)). Kipa order: Bennett, Lapid, Turner, Ben Ari, Avishar Ben Horin, Tibon, Hirsch Nagar, Ginzburg, Meirav Cohen, Shalo, Arman Naim, Ben Barak. The faction of each name beyond those Walla lists is unverified.
+  - Walla's headline, "מ-24 מנדטים לצל של בנט", frames the result as a Yesh Atid collapse. That gives Lapid an incentive to differentiate himself, and he has the legal means to split.
+- **The arithmetic that defines everything:**
+  - The Zionist change bloc (48) plus Ra'am (7) is 55, still short of 61.
+  - Any Eisenkot-led government that excludes Likud needs **both** Ra'am inside **and** Joint List abstention or support.
+  - Likud (26) plus the four Zionist change parties (48) is 74.
 
-**Main divergence to flag: Arab parties.**
-- His 2021 deeds include the first Arab party in a coalition, Decision 550 and the Negev villages.
-- His 2026 words: "מאז 7 באוקטובר אין מנדט לממשלה שנתמכת במפלגות ערביות" (Q, 2 Feb 2026, [Mako](https://www.mako.co.il/news-politics/2026_q1/Article-75a42e70dcf1c91026.htm)).
-- He still says of 2021: "אני עומד מאחורי ההחלטה" (Q, 2 Feb 2026), and "I stand behind that decision" (Q, 4 Sep 2026, [JPost](https://www.jpost.com/israel-election-2026/article-907517)).
-- Asked whether he would govern with Ra'am again: "No… October 7 changes a lot of things." He added: "This is not based on race" (Q, 4 Sep 2026, [JPost](https://www.jpost.com/israel-election-2026/article-907517)).
-- On 18 Oct 2026 Israel Hayom headlined: "בנט: 'עבאס היה שותף נהדר לממשלה, לא פוסל אותו כי הוא ערבי'" ([Israel Hayom](https://www.israelhayom.co.il/news/politics/article/21648600); the full text was not retrievable, HTTP 403).
-- **Net position:** the 2021 partnership was legitimate and Abbas was a good partner, but there is "no mandate" after Oct 7. The stated test is "Zionist / non-Zionist", not ethnicity. This leaves a rhetorical opening; see §6.
+## 2. Ideological foundations (lifelong)
 
-## 2. Platform / core promises (be-yahad.org.il)
+- **Land of Israel right, pragmatic in execution.**
+  - 2012 Stability Initiative: Area C to Israel, "autonomy" in A and B (Algemeiner 2014).
+  - Restated 22 Jun 2026: "In my vision, ultimately Area C will be part of the State of Israel" ([ToI](https://www.timesofisrael.com/bennett-calls-to-dismantle-illegal-settlement-outposts-draws-right-wing-leaders-ire/)).
+  - Restated by Together: "תוכנית בנט מ-2012 רואה את שטחי C כחלק עתידי ריבוני של מדינת ישראל… מובן שיש להפעיל שיקול דעת לגבי העיתוי" ([Ynet](https://www.ynet.co.il/news/elections2026/article/yokra14910407)).
+- **Status-quo governing precedent (2021).** As PM he froze both directions: "הממשלה הזו לא תספח ולא תקים מדינה פלסטינית, כולם מסכימים על זה" (Q, Aug 2021, [Ynet](https://www.ynet.co.il/news/article/hk11er4q11t)). **This is his own model for clause 13 ("no annexation this term").**
+- **No Palestinian state, ever.** "אני מתנגד למדינה פלסטינית, נקודה… בשום קונסטלציה" (Q, 28 Aug 2026, [Walla](https://www.walla.co.il/news/politics/3863893)).
+- **Settlers as "our shield".** 14 Dec 2021, rebuking minister Bar-Lev for raising settler violence with a US official (Q, [Maariv](https://www.maariv.co.il/news/politics/Article-883861)):
+  - "המתיישבים ביהודה ושומרון סובלים מאלימות ומטרור, יום יום, עשרות שנים. הם חומת המגן של כולנו"
+  - "תופעות שוליות יש בכל ציבור, צריך לטפל בהן בכל האמצעים, אבל אסור לנו להכליל ציבור שלם"
+- **The Ra'am precedent and how he tells it now.**
+  - 2021: the first Arab party in a coalition; Decision 550; 3 Negev villages; a Kaminitz freeze (ToI-fr).
+  - 2023 (date per JDN; context uncertain): "זה היה הדבר הנכון לעם ישראל", then days later "לא בשלה העת לממשלה שנשענת על רע"מ ומנסור" ([JDN](https://www.jdn.co.il/?p=1903179)).
+  - 2026: "Unfortunately, I had promised not to form a government with Abbas, and I did… I stand behind that decision". Asked whether he would do it again: "No… October 7 changes a lot of things" ([JPost 4 Sep](https://www.jpost.com/israel-election-2026/article-907517)).
+  - On 3 Jul he described 2021 as choosing "לקחת צעד מאוד קשה ולהקים את הממשלה שנסמכת על מנסור עבאס" instead of more elections ([Ynet](https://www.ynet.co.il/news/120andone/article/s100tqclqmg)).
+  - **The lesson he draws publicly:** it was legitimate and competent, it cost him the trust of the right and ended in collapse, and after 7 October it is not to be repeated.
+- **Nation-State Law:** backed it in 2018 and sought a Druze-only fix ([JPost 2018](https://www.jpost.com/israel-news/bennett-jewish-nation-state-law-harms-druze-563370)). No 2026 position found.
 
-Sources: the [platform index](https://be-yahad.org.il/plans/?bennett_plans_cat=198) and its sub-plans. The quotes below are short verbatim excerpts.
+## 3. 2026 platform, campaign red lines and promises about partners
 
-- **Governance.**
-  - "תוקם ועדת חקירה ממלכתית לאירועי ה-7 באוקטובר" (a state commission of inquiry into 7 October), promised on day one.
-  - A constitution "על בסיס עקרונות מגילת העצמאות" (based on the principles of the Declaration of Independence).
-  - "כהונת ראש הממשלה תוגבל ל-8 שנים" (an 8-year limit on the premiership).
-  - Regulating judicial review and the Basic Laws "בהסכמה רחבה" (by broad agreement).
-- **Draft / "Servants Law" (חוק המשרתים).**
-  - Priority in housing, transport and education for those who serve and work: "מי שמשרת ועובד יקבל עדיפות…"
-  - "כל הקצבאות וההטבות שמעודדות השתמטות - יבוטלו" (all stipends and benefits that encourage draft evasion will be cancelled).
-  - Opposes "כל מתווה הכולל אחוזי פטור" (any framework with exemption percentages) ([servant-law-new](https://be-yahad.org.il/plans/servant-law-new/), via [Polimeter](https://polimeter.co.il/parties/beyahad)).
-  - Core curriculum: "או 100 אחוז ליבה, או 0 אחוז מימון" (either 100% core subjects or 0% funding).
-- **National security** ([natsec](https://be-yahad.org.il/plans/natsec/)).
-  - "לא נזוז מילימטר מהקו הצהוב עד שחמאס יתפרק לגמרי מנשקו" (we will not move a millimetre from the yellow line until Hamas is fully disarmed).
-  - "חמאס מתעצם – אנחנו תוקפים; חמאס מתאמן – אנחנו תוקפים" (Hamas builds up, we strike; Hamas trains, we strike).
-  - Qatar is called a "מדינת אויב" (enemy state). Qatar and Turkey are to be kept out of Gaza, with Egypt brought in.
-  - Strengthen the Abraham Accords and normalize with Saudi Arabia and Indonesia. A "ברית של הכוחות המתונים" (alliance of moderate forces) against Iran, Qatar and Turkey.
-- **Personal security** ([personal-security](https://be-yahad.org.il/plans/personal-security/)).
-  - "נכריז עליהם [ארגוני הפשיעה] רשמית כאיום ביטחוני לאומי ולא רק פלילי" (we will formally declare the crime organizations a national security threat, not only a criminal one).
-  - Shin Bet and IDF involvement; named crime families as targets.
-- **Negev "law and order"** ([negev](https://be-yahad.org.il/plans/negev/)).
-  - "הנגב יוגדר כאזור במצב חירום" (the Negev will be defined as an emergency zone).
-  - Protection rackets and agricultural crime classified as "טרור לאומני" (nationalist terrorism).
-  - A task force under the Prime Minister's office; minimum sentences.
-  - A "נושיט יד לחברה הבדואית" (we will extend a hand to Bedouin society) track: education, employment and Hebrew study.
-  - Cites "170 אלף תושבים מתגוררים בישובים לא חוקיים בנגב" (170 thousand residents live in illegal settlements in the Negev). Proposes accelerated housing in recognized towns, curbing illegal construction, and sanctions on those who refuse relocation. Ends benefits to polygamous families.
-- **Religion and state.**
-  - "ישראל תישאר מדינה יהודית, אבל היא תפסיק לנהל את חיי האזרחים דרך שער אחד" (Israel will remain a Jewish state, but will stop running citizens' lives through a single gate).
-  - Local decisions on Shabbat transport, a civil marriage track, community-rabbi conversion, and ending the kashrut monopoly.
-- **Economy:** cut food prices 30% in 3 years; break monopolies; periphery tax cuts; double the population of the Negev and Galilee ([JPost, 12 Feb 2026](https://www.jpost.com/israel-news/politics-and-diplomacy/article-886535)).
+- **Arab parties (core pledge):**
+  - "נקים ממשלה עם מפלגות ורוב ציוני גדול. המפלגות הערביות לא ציוניות ולא נסתמך עליהן" (Q, 26 Apr).
+  - "מאז 7 באוקטובר אין מנדט לממשלה שנתמכת במפלגות ערביות" (Q, 2 Feb). The word "**נתמכת**" covers support from outside too.
+  - Ynet reporters, 21 Oct: he "לא ייתן יד להקמת ממשלה בהימנעות המפלגות הערביות" (P).
+  - Arab press, 27 Oct: "أعلن نتنياهو ونفتالي بينيت وأفيغدور ليبرمان رفض تشكيل ائتلاف يضم أحزاباً عربية" ([MCD](https://www.mc-doualiya.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261027-%D9%8A%D9%87%D8%A7%D8%AC%D9%85%D9%87%D8%A7-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%AA%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%85%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D8%AA%D8%AA%D8%AC%D9%87-%D8%A5%D9%84%D9%89-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9)).
+  - Al Jazeera (28 Oct): he "has made clear that he now only wants 'Zionist' parties in government" ([AJ](https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu)).
+- **Ra'am / Abbas:** "עבאס היה שותף נהדר… לא פוסל אותו כי הוא ערבי" (H, IH 18 Oct). The test is "Zionist", not ethnicity: "This is not based on race… But we are a Zionist country" (Q, JPost 4 Sep).
+- **Joint List / Balad:** Together voted to disqualify Abu Shehadeh "לאור תמיכתו בטבח 7 באוקטובר" (Q, [Ynet](https://www.ynet.co.il/news/article/by9abbzcfg)). Sharing any arrangement with Balad would be politically lethal for him.
+- **Netanyahu:**
+  - "ברור שלא. אני הולך להחליף אותו" (Q, 3 Jul).
+  - Slip on 11 Oct: "אין לי בעיה שנתניהו יהיה שר בממשלה שלנו". Retracted the same day: "לא נשב איתו בשום קונסטלציה" (Q, [Maariv](https://www.maariv.co.il/news/politics/article-1376111)).
+  - 4 Sep: "he should go home. He should be pardoned" (Q, JPost).
+  - **So his line is no Netanyahu, not no Likud.**
+- **Likud / unity:**
+  - On 2 Feb he called for a unity government led by him and did not rule out Likud (P, [Mako](https://www.mako.co.il/news-politics/2026_q1/Article-75a42e70dcf1c91026.htm)).
+  - At Efrat he floated a 1984-style rotation unity government ([Ynet](https://www.ynet.co.il/news/article/bkpjfbeowe)).
+  - On Ben Gvir: "אני לא מחרים אותו, אבל הוא פשוט אדם נורא נורא נורא לא רציני". On Smotrich: "הוא יודע לעבוד" (Q).
+  - Ynet analysis (≈19 Oct): "איזנקוט, בנט וליברמן היו מוכנים לבלוע את הצפרדע אם המחיר היה סילוקו של נתניהו" (P/analysis, [Ynet](https://www.ynet.co.il/news/elections2026/article/sye47s1pfl)).
+- **Eisenkot (ally and rival):**
+  - "אעשה כל דבר שצריך כדי לנצח… נקודה" (Q, 3 Jul), asked whether he would serve under Eisenkot.
+  - 25 Oct: "אין משמעות למפלגה גדולה, אלא למספר הממליצים" and "אני בוודאי מעמיד את עצמי לציבור לראשות הממשלה שוב" (Q, [Maariv](https://www.maariv.co.il/news/elections-2026/article-1381081)).
+  - ≈26 Oct: "נניח שנסכם כולנו על איזנקוט, אבל יכול להיות שנסכם כולנו ליברמן, או נסכם כולנו בנט" (Q, [Ynet](https://www.ynet.co.il/news/elections2026/article/rkmqjw63zx)). Eisenkot replied that small parties must not demand the premiership ([Ynet](https://www.ynet.co.il/news/article/ryp10r5xmg), headline).
+  - Policy clashes: Bennett called Eisenkot's draft-exemption idea "שגיאה נוראה". On E1 (Eisenkot opposed building there), Bennett said: "מי שמתנגד למדינה פלסטינית צריך לתמוך בהתיישבות ב-E1" (Q, Walla 28 Aug).
+- **Haredim:** "אתה לא משרת? לא תקבל שקל" (Q). Platform: "מי שלא משרת – לא מקבל!", "ביטול קצבאות אברך" (Q, be-yahad). No arrests.
+- **Platform:**
+  - 7 Oct state commission on day one.
+  - A constitution on the Declaration of Independence; an 8-year term limit.
+  - Natsec: "לא נזוז מילימטר מהקו הצהוב עד שחמאס יתפרק לגמרי מנשקו"; Qatar is "מדינת אויב".
+  - Crime: "פשיעה = איום ביטחוני לאומי", Shin Bet "לתמונה".
+  - Negev: "הנגב יוגדר כאזור במצב חירום", "סנקציות כלכליות כבדות על סרבני פינוי".
 
-## 3. Red lines and promises on coalition partners
+## 4. Election-night and post-election statements
 
-- **Arab parties: will not rely on them.**
-  - "נקים ממשלה עם מפלגות ורוב ציוני גדול. המפלגות הערביות לא ציוניות ולא נסתמך עליהן" (Q, 26 Apr 2026, [Ynet](https://www.ynet.co.il/news/article/bjev03jpwl); [Haaretz](https://www.haaretz.co.il/news/elections/2026-04-26/ty-article/0000019d-cac7-d95a-afbd-ebcfca080000)).
-  - "אחרי ה-7 באוקטובר אין לנו מנדט במדינת ישראל להקים ממשלה שמושתתת על מפלגות ערביות" (Q, 2 Feb 2026, [Kipa](https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1218980-0/)).
-- **No minority government resting on Arab abstention.**
-  - "גם בנט הבהיר שלא ייתן יד להקמת ממשלה בהימנעות המפלגות הערביות" (P/reporter wording, 21 Oct 2026, [Ynet](https://www.ynet.co.il/news/elections2026/article/hkj8dy8nfe)).
-  - He rejected Eisenkot's abstention idea in Feb 2026 ([Mako](https://www.mako.co.il/news-israel-elections/2026/Article-528136008722c91027.htm)).
-  - With Liberman, he called such a model "immoral and impractical" (P).
-  - **This is stricter than "not in the coalition": it also rules out outside support or abstention as the basis of a government.**
-- **Balad / Joint List:** Together's elections-committee representatives voted to disqualify Balad chair Sami Abu Shehadeh, citing "תמיכתו בטבח 7 באוקטובר" (his support for the 7 October massacre) (Q, about 19–23 Sep/Oct 2026, [Ynet](https://www.ynet.co.il/news/article/by9abbzcfg)). Any partnership with the Joint List or Balad is far harder than with Ra'am.
-- **Ra'am / Abbas:** "Abbas was a great partner, I don't disqualify him for being Arab" (headline, 18 Oct 2026, Israel Hayom). Asked whether he would govern with Ra'am again: "No" (4 Sep 2026).
-- **Netanyahu:** "ברור שלא. אני הולך להחליף אותו" (Of course not. I'm going to replace him) (Q, 3 Jul 2026, [Ynet](https://www.ynet.co.il/news/120andone/article/s100tqclqmg)). He also rules out members of the outgoing government ([ToI, 28 Oct 2026](https://www.timesofisrael.com/as-change-bloc-falls-far-short-of-majority-democrats-golan-urges-coalition-with-arabs/)).
-- **Haredim:** "הדלת נעולה למי שבעד השתמטות" (the door is locked to whoever supports draft-dodging) (reported via [Polimeter](https://polimeter.co.il/parties/beyahad); not found verbatim in the cited Ynet piece). A Haredi party would have to accept the draft and funding model.
-- **Lapid:** "אני עם לפיד עד הסוף" (I'm with Lapid to the end) (headline, 3 Jul 2026, Ynet).
-- **Eisenkot:** "אעשה כל דבר שצריך כדי לנצח ולהציל את מדינת ישראל" (I will do whatever is needed to win and save the State of Israel) (Q, 3 Jul 2026). He did not rule out serving under Eisenkot.
-- **Election night, 28 Oct 2026** ([Ynet](https://www.ynet.co.il/news/elections2026/article/skmmqicngx)):
-  - "ברית המשרתים ניצחה היום את ברית המשתמטים" (the alliance of those who serve defeated the alliance of draft-dodgers).
-  - "נעשה הכול, בלי אגו, כדי להקים ממשלת ברית משרתים ציונית" (we will do everything, without ego, to form a Zionist government of the alliance of those who serve).
-  - "נחכה בסבלנות לתוצאות האמת, כי הרבה עוד יכול להשתנות" (we will wait patiently for the real results, because a lot can still change).
-  - **He notably did not repeat the no-Arab-parties pledge** (P, [Haaretz](https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f66-d343-adef-7f7ff0790000)).
-  - Lapid: "אולי לא תהיה קואליציה רחבה ביום הראשון, נרחיב אותה בהמשך" (maybe there won't be a broad coalition on day one; we'll widen it later), read as a hint at a minority government.
+- **Bennett, night of 27–28 Oct** (Q, [Ynet](https://www.ynet.co.il/news/elections2026/article/skmmqicngx); [Maariv 00:17, 28 Oct](https://www.maariv.co.il/news/elections-2026/article-1382099)):
+  - "עם ישראל, תרימו את הראש! ברית המשרתים ניצחה היום את ברית המשתמטים"
+  - "נתניהו הפסיד וממשלת 7 באוקטובר תלך הביתה!"
+  - "קואליציית ההשתמטות קרסה מ-68 ל-50 מנדטים". This was based on exit polls; the count now has 53.
+  - "נחכה בסבלנות לתוצאות האמת, כי הרבה עוד יכול להשתנות"
+  - "אבל כבר עכשיו אנחנו, ראשי גוש התיקון, מדברים ומתואמים"
+  - "נעשה הכל, בלי אגו, כדי להקים ממשלת ברית משרתים ציונית, ממשלה של ביצועיסטים…"
+  - **No mention of Arab parties, Ra'am, a minority government or Eisenkot.**
+- **Bennett, on X, 28 Oct** (Q, Ynet live): "אחיי ואחיותיי, תרימו את הראש. יש לנו רק בית אחד, ואנחנו כאן כדי להישאר. בעזרת ה', יהיה פה טוב!" The tone is consolation, not a claim of victory.
+- **Lapid, same night** (Q): "המשימה ברורה - להקים ממשלה ציונית. אולי לא תהיה קואליציה רחבה ביום הראשון, נרחיב אותה בהמשך". "Zionist" is the shared word; "widen later" leaves the door open to a minority government. That is a gap between the partners.
+- **Post-election context (28 Oct):**
+  - Ynet live reports that **Netanyahu's team wants a partnership with Bennett and Liberman** (P). A Golan–Bennett meeting is not yet scheduled.
+  - ToI: Bennett and Liberman "have pledged not to rely on the Arab parties". The outcome "may… be decided by three men" (Eisenkot, Bennett, Liberman) ([ToI](https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/)).
+  - Golan urges a coalition with the Arab parties.
+- **No post-election Bennett statement on Arab parties, Likud-without-Netanyahu, or a recommendation to the President was found** as of the afternoon of 28 Oct.
 
-## 4. Positions on statement topics
+## 5. Positions on the framework topics
 
-**(a) Jewish state / Nation-State Law**
-- Israel "תישאר מדינה יהודית" (will remain a Jewish state) (platform). Bennett promises a constitution on the Declaration of Independence, which says "Jewish state" and "complete equality of social and political rights… irrespective of religion, race or sex".
-- He backed the 2018 law and later called for a Druze fix (see §1b). No 2026 position on amending the law was found. Yesh Atid's line elsewhere: Basic Laws change only by broad consensus ([Maariv](https://www.maariv.co.il/news/politics/Article-917874)).
-- **Can sign:** "Jewish and democratic state" and equality language drawn from the Declaration of Independence.
-- **Will resist:** repealing the Nation-State Law, or any "state of all its citizens" language.
+**(a) Jewish state / Nation-State Law.**
+- Wants "מדינה יהודית ודמוקרטית" stated affirmatively, and a constitution "על בסיס עקרונות מגילת העצמאות" (Polimeter).
+- No call to amend the Nation-State Law beyond the 2018 Druze fix.
+- Will not sign "state of all its citizens".
 
-**(b) Terrorism, Hamas, Oct 7, Gaza, hostages**
-- Hamas must be fully disarmed, holding at the "yellow line", with a strike policy on any build-up (platform). Qatar is an "enemy state".
-- On Oct 7: "We failed in our most fundamental goal, which is to protect Jews" (Q, 4 Sep 2026, [JPost](https://www.jpost.com/israel-election-2026/article-907517)).
-- The Oct 7 state commission is a day-one promise.
-- He uses "טבח 7 באוקטובר" (the 7 October massacre).
-- Condemning Hamas explicitly as a terror organization is a must for him. Ra'am's reluctance to call Hamas a terror organization is a known friction point ([JNS](https://www.jns.org/news/israel-news/raam-party-chief-refuses-to-condemn-hamas-as-terror-group)).
-- Hostages are not mentioned in the natsec plan. Their current status needs checking.
+**(b) Terror, Hamas, 7 Oct, Gaza, hostages.**
+- Hamas fully disarmed; Israel holds at the yellow line; strikes on any build-up (be-yahad natsec).
+- Uses "טבח 7 באוקטובר".
+- "We failed… to protect Jews" (JPost).
+- Opposes Qatar or Turkey in Gaza.
+- Hostages: not in the platform. Current status unverified.
 
-**(c) Arab citizens**
-- **Crime:** maximalist on enforcement. Crime is a national security threat; Shin Bet and IDF involvement; the Negev as an emergency zone; protection rackets defined as "nationalist terror". The Arab parties have historically opposed Shin Bet involvement ([ToI](https://www.timesofisrael.com/liveblog_entry/raams-abbas-says-shin-bet-not-the-solution-to-crime-on-arab-streets/)).
-- **Budgets:** his government authored Resolution 550 (about ₪30bn). A successor plan for 2027 onward is a natural ask he can defend as "my plan".
-- **Planning, housing and Negev villages:** in 2021 he agreed to recognize 3 villages and a demolition-enforcement freeze. In 2026 his rhetoric is enforcement-first: "illegal" settlements, relocation into recognized towns, accelerated housing in recognized towns.
-- **Kaminitz Law:** no 2026 position found. In 2021 he agreed to discuss amending it.
-- **Representation:** "not based on race"; he praises Abbas personally. He frames inclusion as civic and Zionist-loyal integration.
-- **Arab voters as equal citizens:** compatible with his rhetoric. No explicit 2026 quote found.
+**(c) Arab citizens.**
+- Crime is a national-security threat, with the Shin Bet (platform).
+- His own Decision 550 is defensible. A successor plan is acceptable.
+- **Negev:** his platform is enforcement-first: "170 אלף תושבים מתגוררים בישובים לא חוקיים", sanctions on "סרבני פינוי", polygamy enforcement. This **contradicts** run-1 clause 19 ("no forced relocation").
+- **Kaminitz:** in 2021 he agreed to "discuss" an amendment and extend a partial freeze, never repeal. No 2026 position.
+- **Representation:** "not based on race", but coalition partners must be "Zionist".
 
-**(d) West Bank**
-- **Settlements:** "אנו תומכים בהתיישבות יהודית בכל מקום בו זה נעשה באופן חוקי" (we support Jewish settlement wherever it is done legally) (Q, Together to Ynet, 28 Sep 2026, [Ynet](https://www.ynet.co.il/news/elections2026/article/yokra14910407)).
-- **Evacuation:** "מתנגדים לפינוי יישובים יהודיים שנבנו בהתאם לחוק בכל מצב שהוא" (we oppose evacuating legally built Jewish communities under any circumstances) (Q, same source).
-- **Outposts:**
-  - "Construction that isn't legal, or is in Area C [sic, as reported], or is on private land, is not legitimate" (Q, 23 Jun 2026, [ToI](https://www.timesofisrael.com/bennett-calls-to-dismantle-illegal-settlement-outposts-draws-right-wing-leaders-ire/)).
-  - Asked whether he would forcibly evacuate: "Of course. What isn't legal, certainly."
-  - The party says illegal construction on private land "will be evacuated, whether in Tel Aviv or in Judea and Samaria" (P), and lawful-status land "regularized".
-  - It pairs this with "בנייה פלסטינית בלתי חוקית תפונה בכל מקום" (illegal Palestinian construction will be evacuated everywhere) (Q).
-  - He drew attacks from Smotrich and Yesha Council chair Yisrael Gantz.
-- **Settler violence:** no 2026 Bennett quote found using "טרור יהודי" (Jewish terror) or "נוער הגבעות" (hilltop youth). His outpost-evacuation pledge is the closest. He is unlikely to object to "Jewish terror must be stopped" if it is framed as law enforcement and the rule of law. He would object to collective blame of "settlers" ("מתנחלים").
-- **Annexation:** the long-term vision is sovereignty over Area C, with timing "requires discretion" (P, 28 Sep 2026). He will not sign anything implying a commitment never to annex. He could accept that "no unilateral sovereignty steps during this government's term" is left unstated (silence).
-- **Palestinian state:** "מתנגדים למדינה פלסטינית ומסירת שטחים" (we oppose a Palestinian state and handing over territory) (Q, 28 Sep 2026). "לא נקים מדינה פלסטינית" (we will not establish a Palestinian state) (headline, 17 Oct 2026, [Israel Hayom](https://www.israelhayom.co.il/news/politics/article/21645934)). **Absolute deal-breaker** if the statement endorses statehood.
+**(d) West Bank.**
+- Settlement: "אנו תומכים בהתיישבות יהודית בכל מקום בו זה נעשה באופן חוקי" and "כל מה שנמצא על קרקע חוקית - צריך להסדיר" (Ynet). "אני ממשיך ליישב את יהודה ושומרון" (Q, 25 Oct, [INN](https://www.inn.co.il/news/709241)). E1 yes.
+- **Outposts:** illegal ones on private land to be evacuated by force if needed (ToI 23 Jun). Paired with "בנייה פלסטינית בלתי חוקית תפונה בכל מקום".
+- **Settler violence:** 2021 line: "תופעות שוליות… לטפל בהן בכל האמצעים, אבל אסור לנו להכליל ציבור שלם". No 2026 statement found.
+- **Annexation:** long-term Area C sovereignty; timing at discretion. He governed in 2021 under a "neither annex nor a Palestinian state" freeze.
+- **Palestinian state:** "קו אדום" (Q, 3 Jul).
 
-**(e) Other items**
-- **Oct 7 state commission:** day-one must-have.
-- **Haredi draft:** no exemption quotas; "not one shekel" for those who don't serve, but no arrests. "אתה לא משרת? לא תקבל שקל" (You don't serve? You won't get a shekel) (Q, 3 Jul 2026).
-- **Judiciary:** consensus on Basic Laws and judicial review; a constitution; term limits.
-- **Economy:** cost of living, deregulation, Servants Law benefits.
-- **Religion and state:** liberal reforms (see §2).
+**(e) Other.**
+- 7 Oct state commission: must-have.
+- Draft: no exemption quotas; benefits only for those who serve.
+- Judiciary: broad consent and a constitution.
+- Religion and state: liberal reforms (run-1 claim, not re-verified).
 
-## 5. Terminology sensitivities
+## 6. Terminology
 
-| Term | Bennett position |
+| Must say / can sign | Cannot sign |
 |---|---|
-| **כיבוש / "occupation" / الاحتلال** | **Cannot sign.** A lifelong line: "one cannot occupy one's own land" (2013–2020 sources above). A neutral substitute is acceptable: "שטחים בשליטה צבאית" (territories under military control) or "השטחים שבשליטת צה"ל" (territories under IDF control). "יהודה ושומרון" (Judea and Samaria) is preferred in Hebrew. "West Bank" in English and الضفة الغربية in Arabic are tolerable in non-Hebrew text. |
-| **"Palestinian state" / "two states" / "end goals"** | Cannot appear as a goal. Silence is fine, and the brief's "no end goals" framing suits him. |
-| **"Palestinian people"** | No direct 2026 statement found. Likely tolerable descriptively ("Palestinian residents" / "Palestinians"), but not tied to self-determination or national rights. Treat with caution. |
-| **"Jewish state" / "מדינה יהודית ודמוקרטית"** | **Must appear** (Jewish and democratic state). |
-| **"Hamas terrorism" / "טבח 7 באוקטובר"** | **Must** name Hamas as a terror organization. "Terrorism" for Palestinian armed attacks on civilians is a must. |
-| **"Jewish terrorism" / "טרור יהודי"** | Acceptable if framed as law and order and symmetric ("all terrorism"). Prefer "אלימות/פשיעה לאומנית" (nationalist violence or crime) or "טרור יהודי" aimed at a small minority. He will resist any blanket "settler violence" phrasing that stigmatizes "המתנחלים" (the settlers). |
-| **"מאחזים בלתי מורשים" (unauthorized outposts)** | Acceptable, and it matches his June 2026 stance. Insist on the qualifier "בלתי חוקיים / על קרקע פרטית" (illegal / on private land), plus regularization of lawful ones. He will want "illegal Palestinian construction" enforcement mentioned or left neutral. |
-| **"Nakba" / النكبة** | Cannot sign. |
-| **"Arab citizens of Israel" / "אזרחי ישראל הערבים"** | Fine. He would resist "Palestinian citizens of Israel" in the Hebrew or English text. |
-| **"Zionist"** | His coalition test word. A text that lets him say "a Zionist government" helps. Phrasing like "a government based on a Zionist majority, with partnership/support of …" is the likely bridge. |
+| "יהודה ושומרון" (Judea and Samaria) first; "West Bank" only as a secondary gloss in the English and Arabic texts | "כיבוש" / "occupation" / الاحتلال |
+| "מדינה יהודית ודמוקרטית" (Jewish and democratic state) | "מדינה פלסטינית" (Palestinian state), "two states", or "end of occupation" as a goal |
+| "טבח 7 באוקטובר"; "חמאס ארגון טרור" (the 7 October massacre; Hamas is a terror organization) | "Nakba"; any IDF–Hamas moral equivalence |
+| "ממשלה ציונית", "רוב ציוני" (Zionist government, Zionist majority) | Any text by which the government's survival **rests on** the Joint List or Balad |
+| "מאחזים בלתי חוקיים על קרקע פרטית" (illegal outposts on private land) | "No outpost regularized at all" (contradicts "צריך להסדיר") |
+| "אלימות / פשיעה לאומנית", "תופעות שוליות" (nationalist violence or crime; marginal phenomena); "טרור יהודי" is tolerable if aimed at a fringe | "Settler violence" as a collective label; "same tools as against Palestinian terror" as a formal equivalence |
+| "אזרחי ישראל הערבים" (Arab citizens of Israel) | "Palestinian citizens of Israel" in the Hebrew text |
+| "השטחים" or "יהודה ושומרון" (the territories; Judea and Samaria) | "שטחים בשליטה צבאית" (territories under military control) **as a definition of status**. It implies the area is not Israel's; at most it can stand as a description of the security regime |
 
-## 6. Negotiation profile (in role)
+## 7. Negotiating position for run 2
 
-**Must-haves**
-1. Bennett, or the bloc, can truthfully say the government is "ממשלה ציונית" (a Zionist government) with "רוב ציוני" (a Zionist majority) at its core. Ideally the Zionist parties hold 61 by themselves (not achievable now) or Arab participation is framed as civic partnership rather than dependence.
-2. No Palestinian state, no "occupation", no "Nakba", no "end goals".
-3. Hamas named as a terror organization. Oct 7 called a massacre. Hamas disarmament.
-4. Oct 7 state commission of inquiry.
-5. The draft: the Servants Law with no exemption quotas.
-6. Security bodies' freedom of action. Shin Bet and IDF involved against crime in Arab towns, which he will sell as the "big win" for Arab citizens too.
+**Posture toward the run-1 framework: REJECT in its current architecture. Ready to negotiate a different one.**
 
-**Nice-to-haves:** constitution and term limits; legal-settlement language; parallel enforcement against illegal Palestinian construction; Qatar excluded from Gaza.
+The run-1 text is a minority government:
+- 48 Zionist seats, with Ra'am inside under Chapter E;
+- surviving only because the Joint List, including Balad, does not vote against it (Annex 1);
+- with a TV statement read side by side with Balad.
 
-**Possible concessions (defensible by his own record)**
-- A successor to Decision 550 (his own plan) with large budgets.
-- Recognition and planning for Bedouin villages, as he did in 2021, paired with Negev enforcement.
-- Kaminitz amendment talks, as in 2021.
-- Evacuating illegal outposts on private land and stopping "Jewish terror", which he already pledged.
-- Equality language from the Declaration of Independence.
-- Ra'am as a partner on civic files.
+That is exactly what Bennett said he would not do: "אין מנדט לממשלה שנתמכת במפלגות ערביות", and "לא ייתן יד" to a government built on Arab abstention. Breaking this a second time, after 2021, would end his career on the right. The next-morning headline writes itself: "בנט שוב הפר הבטחה – והפעם עם בל"ד" (Bennett broke his promise again, and this time with Balad).
 
-**Deal-breakers**
-- Recognizing a Palestinian state or the "occupation".
-- A Balad or Joint List partnership presented as the coalition's basis.
-- Any language equating IDF actions with terrorism.
-- Undoing the Jewish character of the state.
-- Hamas not named.
+**Real must-haves**
+1. A government whose majority is Zionist. In practice that means Likud (without Netanyahu) or Likud defectors inside, **not** Arab votes or abstention as the load-bearing beam.
+2. The premiership is not conceded by default. Under his doctrine "מספר הממליצים", a rotation with him first, or with him and Eisenkot in rotation, is on the table.
+3. A Service Law that applies to everyone: no exemption quotas, "מי שלא משרת – לא מקבל". He rejects clause 6a's special protection that "does not apply to any other population". It hands the Haredim a discrimination argument and breaks his own principle.
+4. A 7 Oct state commission on day one; Hamas disarmed; the yellow-line policy.
+5. No Palestinian state, no "occupation", "Judea and Samaria" in the Hebrew text.
 
-**What he needs to show voters**
-- A Zionist government without Haredi draft-dodgers and without Netanyahu.
-- The Oct 7 commission.
-- The draft law.
-- No Palestinian state.
-- Arab partners who have explicitly condemned Hamas and signed a "Jewish and democratic state" line. This is the cover that makes the 2021 precedent ("Abbas was a great partner") defensible after Oct 7.
+**Real deal-breakers (clause-specific)**
+- **Chapter E (21–25)** as a confidence-and-supply deal: the government's survival rests on Ra'am. At most he could accept Ra'am votes on specific civic bills, never as the guarantor of investiture or budgets.
+- **Annex 1 and Chapter D's "while being implemented" link:** the Joint List's safety net is the government's lifeline. Balad above all.
+- **TV statement:** he will not read a joint text on one stage with Balad (whose chair his list voted to disqualify) and Ta'al. Nor will he read "mourn… Palestinians… including in Gaza" or "evacuate illegal outposts" in a joint Arab–Zionist frame.
+- **Clause 14:** "No unauthorized outpost will be legalized during the term" contradicts "כל מה שנמצא על קרקע חוקית – צריך להסדיר". He accepts evacuating outposts on private land. He demands regularization on state land and parallel enforcement against illegal Palestinian construction in Area C.
+- **Clause 19:** "no forced relocation" in the Negev contradicts his platform (sanctions on "סרבני פינוי", the Negev as an emergency zone).
+- **Clause 18:** cancelling all administrative fines and demolition orders goes beyond his 2021 deal, which was a freeze plus amendment talks.
+- **Clause 20:** a deputy Speaker from the Joint List. He keeps a free vote, and in practice votes against a Balad nominee.
+- **Clause 12:** "territories held under military control" as the definition of the area's status. He wants "יהודה ושומרון", with security control described only as a fact.
 
-**Assessment:**
-- Breaking the "no reliance" pledge is very costly. He openly admits he "broke a promise" in 2021 (Q, 4 Sep 2026).
-- He is far more likely to accept Ra'am in a structured civic role, if Ra'am signs on Hamas = terror and on the Jewish and democratic state, than any Joint List role.
-- He explicitly rejected even a government resting on Arab abstention (21 Oct 2026).
-- Election-night silence on the pledge (28 Oct) suggests he is keeping options open.
+**What he can accept or trade (defensible by his own record)**
+- Clause 13, no annexation or sovereignty this term. This is his 2021 formula: "לא תספח ולא תקים מדינה פלסטינית". He pairs it with "planning in existing communities continues", including E1.
+- Returning powers from political appointees to the IDF and the Civil Administration, which hurts Smotrich.
+- No coalition funds for outposts.
+- Clause 10: fighting "Jewish terror" or nationalist violence by a "small extremist minority" with "כל האמצעים", including administrative detention, **without** the "same determination and same tools" equivalence line.
+- Clause 16, the crime plan with the Shin Bet: this is his own platform.
+- Clause 17, a successor to Decision 550, which is his own plan.
+- Recognition of a first group of Negev villages, as in 2021, paired with enforcement.
+- Clauses 4, 7–9, 11 and 15a: acceptable, with demands. Clause 9 should add "Israel holds the yellow line until disarmament". Clause 15 should drop "the Palestinian people" or turn it into "the Palestinians".
 
-## 7. Uncertainties
+**Best alternative to this deal (honest ranking)**
+1. **A unity government with Likud without Netanyahu.** 26 + 48 = 74. Netanyahu's camp is already courting him (Ynet live). He has said Netanyahu "should go home. He should be pardoned", which is a ready bridge. He has proposed a 1984-style rotation. He could be PM or rotation PM. **This is his preferred outcome.**
+2. **Likud defectors plus the Zionist change bloc.** It needs about 6–13 defectors; unrealistic in the short term.
+3. **New elections.** Costly. His seat count (12) was disappointing, but 7 of them are his and he would run alone or again with Lapid.
+4. **Opposition.** Survivable; he keeps his "no Arab parties" credibility for the next round.
+5. A minority government resting on Arab abstention: **the worst for him.**
 
-- Seat split inside Together's 12 (Bennett faction versus Yesh Atid) and the post-election separation clause: not verified.
-- The full text of the Israel Hayom 17 and 18 Oct 2026 articles was blocked (HTTP 403). Quotes are from headlines and secondary summaries (Polimeter).
-- No 2026 Bennett statement found on: the Kaminitz Law, Nation-State Law amendment, "Palestinian people" wording, settler violence or "Jewish terror", or the hostages' status.
-- "הדלת נעולה למי שבעד השתמטות" (the door is locked to whoever supports draft-dodging) is attributed via Polimeter but not found in the cited article.
-- 2021 Ra'am agreement terms come from Ra'am and press reports. The official text was never published.
-- Post-election (after 28 Oct) statements on Arab parties are not yet available. Results were about 85% counted.
+**What rivals and voters will attack him for**
+- Likud, RZP and Otzma: "בנט-עבאס 2.0" (Bennett–Abbas 2.0); "ימין או פלסטין" (the right, or Palestine); "Bennett breaks his word again"; the outpost-evacuation pledge.
+- The Yesha Council (Gantz): "terror state".
+- Yesh Atid and Eisenkot's camp, if he chooses Likud: "you put your ego above replacing Netanyahu's government" and "you sat with the 7 Oct government's party".
+- Lapid's 5 MKs may split if he goes to Likud. Lapid's "נרחיב בהמשך" shows a different instinct.
+- Golan and the Arab parties: "racist exclusion of 19 seats"; his own 2021 precedent will be quoted against him.
+
+## 8. Uncertainties
+
+- The final count: double envelopes (≈430–600k) still uncounted. Together could fall to 11. Arab lists usually lose a little from soldiers' votes.
+- The faction of each Together MK beyond those Walla named. The text of the split clause.
+- The Israel Hayom 17 and 18 Oct articles (403): headlines only. Haaretz 30 Jun: paywalled.
+- No Bennett statement found from 2025–26 on settler violence or "Jewish terror", on Kaminitz, on the Nation-State Law, on the "Palestinian people", or on the hostages' current status.
+- The date of the JDN "not timely" quote: the page shows Feb 2023, which may be inconsistent with the context.
+- Eisenkot's real stance on Arab partners is contradictory in reporting. ToI and Al Jazeera say he "ruled out relying on them" behind conditions. Kikar says he aims at a government backed by them.
+- The web-search quota was exhausted. Arabic-press coverage of Bennett (Arab48, Panet, Bokra) was only partially sampled, via MCD and Al Jazeera.
