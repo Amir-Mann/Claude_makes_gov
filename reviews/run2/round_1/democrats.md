@@ -6,7 +6,7 @@ Simulated negotiating team; this does not speak for the real party. Facts are fr
 
 **Ranking: S3 > S1 > S2 >> S4.**
 - **S3 (Ra'am in the coalition)** is what Golan said in public: [Q] "ניתן לייצר שותפות עם מנסור עבאס ולהכניס אותו לקואליציה" (Walla, 6 Oct). It also makes the 28 Oct line "בשותפות עם אזרחי ישראל הערבים" (in partnership with Israel's Arab citizens) true.
-- **S1** is the 2021 model. It is acceptable.
+- **S1** (the 2021 model) is acceptable.
 - **S2** is the most fragile option, and the most humiliating one for the partners whose votes it needs. As drafted it builds Netanyahu's "Jewish votes vs. Arab votes" division into clause 2. We accept S2 only if "Zionist" describes the government parties and is never used to rank votes (clause 2 wording below).
 - **S4 is worse for us than any of the three.** A unity government with Likud means opposition for the Democrats: we ruled out sitting with any member of the outgoing government. New elections risk our 8 seats, since Eisenkot's "big party" campaign is draining us.
 - **Our leverage:** the Zionist change bloc is 48 with us and 40 without us. No change government exists without the Democrats.
@@ -68,15 +68,9 @@ Preference **T1 > T2 > T3**. We accept **T2**, provided the government leaders' 
 **He will not say:** "a Zionist majority" as a *condition* of legitimacy, or any line implying that Arab votes count less.
 
 ## Attacks and answers
-
-- **Likud and Channel 14:** "a government of Golan, Abbas and Tibi; 'babies as a hobby' Golan running the police."
-  - Answer: "The general who drove into the Gaza envelope on 7 Oct will dismantle the crime organizations Ben-Gvir let flourish. Every vote is equal."
-- **Bennett and Liberman:** "Golan is too controversial for security ministries."
-  - Answer: "Liberman himself said there is no government without us. Our 8 seats are not a junior franchise."
-- **Joint List and Balad:** "Golan voted to disqualify Abu Shehadeh and signs 'military control'."
-  - Answer: "We stood against disqualifying Ra'am and the Joint List. This text evacuates outposts and names Jewish terror. We will judge by deeds."
-- **Meretz base and Haaretz:** "No occupation, no Palestinian state, Ra'am outside."
-  - Answer: "No annexation and preserved separation for four years is the first brake in 15 years. Meretz MKs keep their own voice."
+- **Likud and Channel 14:** "Golan, Abbas and Tibi; the 'babies as a hobby' man running the police." Answer: the general who drove into the Gaza envelope on 7 Oct will dismantle the crime organizations, and every vote is equal.
+- **Bennett and Liberman:** "too controversial." Answer: Liberman himself said there is no government without us.
+- **Joint List and Meretz base:** "Abu Shehadeh vote; no occupation, no Palestinian state." Answer: we opposed disqualifying Ra'am and the Joint List. This text evacuates outposts, names Jewish terror and blocks annexation, the first brake in 15 years.
 
 ## Trades
 
