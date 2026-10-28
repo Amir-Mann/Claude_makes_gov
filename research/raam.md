@@ -1,188 +1,254 @@
-# Ra'am / United Arab List (القائمة العربية الموحدة / רע"מ – הרשימה הערבית המאוחדת): stage-A dossier
+# Ra'am / United Arab List (القائمة العربية الموحدة / רע"מ): stage-A dossier, run 2
 
-Prepared 28 Oct 2026 by the Ra'am role agent. Labels used below: **[Q]** is a verbatim quote as published (in the language of publication), **[P]** is a paraphrase by the reporting outlet or by me, and **[I]** is my inference. Each item gives its date.
+Prepared 28 Oct 2026 by the Ra'am role agent (simulation; does not speak for the real party).
+Labels: **[Q]** is a verbatim quote at the cited URL, in the language given there. **[Q-tr]** is a quote that I found only in translation, either in an English outlet or in a Hebrew translation of Arabic. **[P]** is a paraphrase by the outlet or by me. **[I]** is my inference.
+*Method note:* the session hit its web-search cap partway through. Items marked "not re-searched" were checked against already-known URLs by WebFetch only.
 
 ---
 
-## 1. Identity
+## 0. Verification log of the run-1 file
 
-- **Leader:** Mansour Abbas (منصور عباس), a dentist from Maghar and chairman since 2019. He has said the next election will be his last as an MK (retirement announcement, [JPost](https://jpost.com/israel-news/article-845046); I could not verify the exact date).
-- **2026 list:**
-  1. Mansour Abbas
-  2. **Yoav Segalovitz**, Jewish and Zionist. He is a former police major-general and former Deputy Public Security Minister who ran Bennett-Lapid's anti-crime campaign. He is a technical ally, not a party member, and keeps a free vote on religion and state, security and LGBT issues.
+| # | Run-1 claim | Status | Source | Note |
+|---|---|---|---|---|
+| 1 | Seats "about 7 (preliminary)"; Joint List 12 | **CONFIRMED** (but sources disagree) | [The Petek results, 22:37 28 Oct, 97.42% counted](https://www.thepetek.com/results); [JPost 28 Oct](https://www.jpost.com/israel-election-2026/article-913122) | Ra'am has 7 seats, 6.0%, about 305k votes. [Ynet](https://www.ynetnews.com/article/hjnatbkaml) had Ra'am at 6 and the JL at 13 at 85.6% counted. Double envelopes are counted 29 Oct; official results are due 4 Nov. |
+| 2 | Ran separately from the JL, with a surplus-vote agreement | CONFIRMED | [ToI](https://timesofisrael.com/arab-parties-hadash-taal-balad-announce-joint-electoral-slate-without-raam); [ynetnews](https://www.ynetnews.com/article/cttpu7pfv); [Walla 23 Aug](https://www.walla.co.il/news/politics/3862509) | Ra'am had signed the 22 Jan 2026 framework to revive the JL ([New Arab](https://www.newarab.com/analysis/can-revived-palestinian-joint-list-reshape-israeli-politics)), then left it. |
+| 3 | List: Abbas, Segalovitz, Taha, Alhwashla, Khatib-Yassin, Hujeirat, al-Turi | CONFIRMED | [The Petek](https://www.thepetek.com/party/raam) | At 7 seats, all seven enter the Knesset. |
+| 4 | Segalovitz is a "technical ally, not a member, with a free vote on religion/state, security, LGBT" | CONFIRMED | [ToI 31 Aug 2026](https://www.timesofisrael.com/jewish-former-mk-yoav-segalovitz-announces-unprecedented-run-with-arab-raam-party/); [Al Jazeera op-ed 5 Sep](https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count) | ToI adds that Ra'am "will not change its constitution or decision-making processes", and that per Channel 12 national service for Arabs is one of his top priorities. |
+| 5 | Retirement: next election is his last | **CORRECTED** (date found) | [JPost 6 Mar 2025](https://jpost.com/israel-news/article-845046) | [Q] "I don't think I need to continue being a Knesset member after that." A journalist says the bylaws bar him anyway. |
+| 6 | Shura separation: announced Dec 2025, finalized Jul 2026, first primary without Shura on 22 Aug (1,050 delegates, Tayibe) | CONFIRMED | [ToI 7 Dec 2025](https://www.timesofisrael.com/raam-leader-says-party-will-cut-ties-with-religious-council-become-completely-civic/); [en.wiki](https://en.wikipedia.org/wiki/United_Arab_List); [Al-Quds al-Arabi 23 Aug](https://www.alquds.co.uk/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%87%D8%A7/) | JNS quotes Kedar calling it *taqiyya* ([JNS](https://www.jns.org/raam-declares-split-from-islamic-movement-analysts-say-its-a-stunt/)). |
+| 7 | 2021 Globes: "מדינת ישראל נולדה כמדינה יהודית, וככה היא תישאר" | CONFIRMED | [Srugim 21 Dec 2021](https://www.srugim.co.il/629877); [ToI](https://www.timesofisrael.com/arabs-should-move-past-contesting-israels-jewish-identity-raam-chief-abbas-says/) | The full Hebrew also includes "השאלה עכשיו היא לא מה זהות המדינה, אלא מה מעמדו של האזרח הערבי במדינת ישראל היהודית." |
+| 8 | Kul al-Arab Nov 2021: "Israel is a Jewish state. That is its identity, its essence"; "My rights also come from being a member of the Palestinian people" | CONFIRMED in English only | [ToI](https://www.timesofisrael.com/arabs-should-move-past-contesting-israels-jewish-identity-raam-chief-abbas-says/) | Arabic original not found; treat as [Q-tr]. |
+| 9 | Abbas "accepts Israel as a Jewish and democratic state" (ACW, Petek) | **CORRECTED** | [ynet elections2026](https://www.ynet.co.il/news/elections2026/article/rjnwqfhwzg); [Sama 26 Aug 2026](https://samanews.ps/ar/post/624363/) | **Run 1 missed the most important 2026 statement.** On 26 Aug 2026 he wrote that the state's Jewishness is "a reality imposed on us", accepted only to avoid disqualification. ACW gives no direct quote. |
+| 10 | 2021 demands: LGBT free vote, Negev, scrap Nation-State Law, crime, scrap Kaminitz | CONFIRMED as reported | [ynetnews](https://www.ynetnews.com/article/Sy8JBCp4d) | From an unnamed source ("allegedly"). |
+| 11 | 2021 deal: about NIS 53bn; plan approved 28 Oct 2021 | CONFIRMED (as reported) | [en.wiki United Arab List](https://en.wikipedia.org/wiki/United_Arab_List) | — |
+| 12 | Electricity Law passed Jan 2022, Taha's bill, about 130,000 people | PARTLY CONFIRMED | [ToI 16 Nov 2021](https://www.timesofisrael.com/in-illegal-homes-without-power-arab-israelis-hope-for-change/) | The 130,000 figure (Sikkuy) is confirmed. The passage date and sponsor are UNVERIFIED in the fetched source. |
+| 13 | Apr 2022: the **Shura Council** froze coalition membership over al-Aqsa | PARTLY CONFIRMED | [ToI 29 Apr 2022](https://www.timesofisrael.com/lapid-and-mansour-abbas-agree-raam-will-end-boycott-return-to-battered-coalition/) | ToI confirms the freeze on 17 Apr over Temple Mount/al-Aqsa violence, but calls it "initiated by Abbas". The Shura's formal role was not found in the fetched pages (not re-searched). |
+| 14 | Jun 2022: Ghanaim voted against the J&S regulations; Abbas left the room | UNVERIFIED (not re-fetched) | Heritage FL (run 1) | Low importance. |
+| 15 | Smotrich froze Decision 550 funds, calling them "political agreements made with Mansour Abbas"; NIS 497m diverted | **CORRECTED** | [ToI 6 Aug 2023](https://www.timesofisrael.com/smotrich-reportedly-freezes-millions-earmarked-for-arab-towns/) | ToI reports NIS 200m frozen. Smotrich said the government is not bound by Shaked's promise to Abbas. The quoted phrase and NIS 497m were not found. |
+| 16 | Netanyahu is "the greatest danger to Arab society" | **CORRECTED** | [INN 29 Jun 2022](https://www.inn.co.il/news/569983) | This is the outlet's narration, from 2022, not an Abbas quote. In 2026 he still calls replacing "this racist government" the supreme interest (see §4). |
+| 17 | 26 Oct 2026, Bokra: «دخول الائتلاف طريقنا لتحقيق المطالب والتأثير» | CONFIRMED | [Bokra 26 Oct 2026](https://bokra.net/Article-1606581) | It also has «الموقف مهم، بس الموقف لحاله ما ببني مدرسة» and calls the talk about **التجنيد** and concessions «إشاعات وافتراءات». Run 1 missed the second point. |
+| 18 | Aug 2026 convention: «أولويتنا معالجة قضايا مجتمعنا العربي»; «الكتلة المكملة» | CONFIRMED | [Al-Quds al-Arabi 23 Aug](https://www.alquds.co.uk/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%87%D8%A7/) | These come from his interview with the paper, not the speech. The speech line is «الدولة الفلسطينية موجودة وتعترف بها معظم دول العالم». No verbatim "end the occupation" quote was found; that part is [P]. |
+| 19 | Reuters 19 Oct: "new government of change", "stop the expansion of settlements", "settler attacks", "shared security"; gap with **Eisenkot** "could be bridged" | **CORRECTED** (in part) | [JPost 19 Oct 2026](https://www.jpost.com/israel-election-2026/article-912145) | The quotes are confirmed. The "bridge" remark was about his past differences with **Bennett**, not Eisenkot. |
+| 20 | "Ra'am chose to return to government with the violence and crime portfolio" (an Abbas quote) | **CORRECTED** | [JPost 2 Sep 2026](https://www.jpost.com/israel-election-2026/article-907380) | This is analysis by Anna Barsky, with no direct Abbas quote. Ra'am wants "a focused role overseeing the fight against crime" for Segalovitz. Making him Nat. Security minister was floated and dropped. |
+| 21 | Election night: "Everyone is speaking with us, not just from the 'change bloc'"; "currently there aren't numbers for a government" | CONFIRMED | [ToI liveblog 27 Oct](https://www.timesofisrael.com/liveblog_entry/raams-abbas-says-figures-from-both-political-blocs-have-approached-him-amid-coalition-deadlock/); [Zman Yisrael](https://www.zman.co.il/live/737161/); [Sky News Arabia](https://www.skynewsarabia.com/middle-east/1901024-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%8A%D8%AA%D8%B1%D8%A3%D8%B3%D9%87%D8%A7-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA) | Hebrew: "כולם מדברים איתנו, לא רק מגוש השינוי"; "כרגע אין מספרים לממשלה". Arabic: «الجميع يتحدثون معنا، وليس فقط معسكر التغيير». |
+| 22 | "Most voters for the (Eisenkot) bloc do want to see (a) government with the Ra'am party" | CONFIRMED (English; Reuters) | [ThePrint/Reuters 28 Oct](https://theprint.in/world/for-israels-arabs-record-turnout-may-bring-political-clout/3084535/); [RTÉ](https://rte.ie/news/world/2026/1028/1597028-israel-election) | — |
+| 23 | Eisenkot, 26 Sep: Ra'am "won't be part of" his government; four principles | CONFIRMED | [ToI 26 Sep 2026](https://www.timesofisrael.com/eisenkot-raam-wont-be-in-my-government-pms-approval-of-qatari-funds-between-breach-of-trust-and-treason/) | Segalovitz replied: "Eisenkot won't have a government without Ra'am." Eisenkot repeated it to JPost in Oct: "I do not see an Arab party that accepts my principles." |
+| 24 | Bennett: "the Arab parties are not Zionist, and therefore we will not rely on them" | CONFIRMED (as quoted by ACW) | [ACW 15 Jul 2026](https://arabcenterdc.org/resource/israels-election-and-eisenkots-arab-coalition-dilemma/) | — |
+| 25 | Liberman: Ra'am "cannot be a coalition partner this time" | CONFIRMED (as characterized) | [Al Jazeera op-ed](https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count); [Walla 26 Aug](https://www.walla.co.il/news/politics/3863326) | Liberman tweeted that Abbas had "explained himself why he cannot be part of a Zionist coalition". |
+| 26 | Golan is the only one in favor | CONFIRMED | [JPost 28 Oct](https://www.jpost.com/israel-news/article-913073) | — |
+| 27 | May 2026: confident of "reach[ing] agreements" with Bennett, Eisenkot, Liberman | CONFIRMED | [ToI liveblog 11 May 2026](https://www.timesofisrael.com/liveblog_entry/mansour-abbas-says-bennett-eisenkot-and-liberman-each-fit-to-be-pm-predicts-coalition-deal/) | He also said Ra'am "cannot commit to a policy of excluding ourselves". |
+| 28 | Kan Reshet Bet 28 Jul 2026: refused to say Hamas is a terror org to be destroyed | CONFIRMED, with the Hebrew original | [Kikar 28 Jul 2026](https://www.kikar.co.il/israel-news/mansour-abbas-hamas-terror-question); [INN](https://www.israelnationalnews.com/news/430885); [JNS](https://www.jns.org/news/israel-news/raam-party-chief-refuses-to-condemn-hamas-as-terror-group) | [Q] "אני לא רוצה לתת לך תשובה חד משמעית!" … "יש לי תשובה חד-משמעית, אני לא רוצה להגיד אותה." … "כי זה פיקוח נפש מבחינתי." (Run 1 missed the safety rationale.) |
+| 29 | Oct 2023 hostage call and humanitarian aid | CONFIRMED (run-1 URL; en.wiki) | [en.wiki Mansour Abbas](https://en.wikipedia.org/wiki/Mansour_Abbas) | Also: the attack was an "inhuman and unjustifiable act", "not representative of the Palestinian people"; 1 Dec 2023: "armed Palestinian factions need to stop using weapons". |
+| 30 | Khatib-Yassin: Nov 2023 remark, retraction, Abbas demanded her resignation | CONFIRMED | [JPost 28 Oct 2026](https://www.jpost.com/israel-news/article-913073) | She is #5 and will be an MK. |
+| 31 | National service: "yes to civic service for Arabs" only if voluntary, community-run, no security link | **CORRECTED / expanded** | [Arab48 12 May 2026](https://www.arab48.com/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/2026/05/12/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AE%D8%AF%D9%85%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D9%8A%D8%B1%D8%A7%D9%87%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%87%D9%8A%D9%88%D9%86%D9%8A-); [Bokra 27 Jul](https://bokra.net/Article-1599938); [INN 31 Jul](https://www.israelnationalnews.com/flashes/690910); [Sama 26 Aug](https://samanews.ps/ar/post/624363/) | There are three phases. **May:** he backed «خدمة للجميع» for all, including Arabs. **Jul:** he backed a national-civil service track. **26 Aug, after the storm:** only a voluntary Arab initiative, not military or security; he opposes national-civil service "in its current form". **26 Oct:** he called the conscription "rumors" «إشاعات وافتراءات». |
+| 32 | ToI 28 Oct: Ra'am "supports universal national service" with a civil option | UNVERIFIED as Abbas's words | [ToI 28 Oct](https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/) | This is ToI's characterization and conflicts with his Aug–Oct clarifications. |
+| 33 | Ra'am voted against the blanket Haredi exemption law | CONFIRMED (secondary only) | [The Petek](https://www.thepetek.com/party/raam) | The Petek also says Ra'am "supports universal drafting". The Knesset vote record was not found (not re-searched). |
+| 34 | 22 Aug 2026 Palestinian-state call; assurance it would not be a coalition demand | CONFIRMED | [Walla 23 Aug](https://www.walla.co.il/news/politics/3862509); [ToI 31 Aug](https://www.timesofisrael.com/jewish-former-mk-yoav-segalovitz-announces-unprecedented-run-with-arab-raam-party/) | Hebrew: "מדינת פלסטין קיימת ומוכרת על ידי רוב העולם, למעט ארצות הברית וישראל". The assurance is reported ("reportedly"). |
+| 35 | 2018 charter is contested | UNVERIFIED (not re-fetched) | JewishPress/JNS (run 1) | Keep as contested. |
+| 36 | "New Way" doctrine (Rayan; Milshtein, Dayan Center 24 Feb 2022) | CONFIRMED | [Dayan Center](https://dayan.org/content/new-way-key-understanding-raams-strategy) | — |
+| 37 | 1 Apr 2021 Nazareth speech quotes | Not re-checked (run-1 URL) | [ToI text](https://www.timesofisrael.com/liveblog_entry/text-of-mansour-abbass-speech-i-seek-coexistence-based-on-mutual-respect-equality/) | Low priority. |
+| 38 | Crime: 252 murders in 2025 (Abraham Initiatives) | CONFIRMED | [CSMonitor 9 Feb 2026](https://csmonitor.com/World/Middle-East/2026/0209/israel-arabs-organized-crime-murder-ben-gvir) | 39 by 9 Feb 2026. "On pace to exceed" for 2026 is UNVERIFIED. |
+| 39 | Smotrich's Aug 2026 "one million Jews in Negev/Galilee" plan | UNVERIFIED (not re-fetched) | — | — |
+| 40 | Format: 2021 was "external support" | CONFIRMED as ECFR's wording | [ECFR](https://ecfr.eu/special/mapping_palestinian_politics/raam/) | In fact Ra'am signed the 2 Jun 2021 coalition agreement as a coalition member without ministers ([en.wiki](https://en.wikipedia.org/wiki/United_Arab_List)). |
+| 41 | No 2026 vow ruling out Likud | CONFIRMED; context **added** | [Mako 14 Feb 2026](https://www.mako.co.il/news-politics/2026_q1/Article-46b8126913d5c91026.htm); [Arab48 12 May](https://www.arab48.com/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/2026/05/12/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AE%D8%AF%D9%85%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D9%8A%D8%B1%D8%A7%D9%87%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%87%D9%8A%D9%88%D9%86%D9%8A-) | «أنا لا أتحدث مع الليكود اليوم» (May 2026). **Run 1 missed this:** Likud petitioned to disqualify Ra'am and on 28 Oct called the election "stolen by Arab parties" ([RTÉ](https://rte.ie/news/world/2026/1028/1597028-israel-election)). |
+| 42 | *(missing from run 1)* CEC disqualified Ra'am 18–5–1 on 23 Sep 2026; Supreme Court unanimously reversed on 2 Oct 2026 | **NEW, CONFIRMED** | [Bokra 23 Sep](https://bokra.net/Article-1604192); [Arab48 2 Oct](https://www.arab48.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/2026/10/02/%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D8%AA%D9%84%D8%BA%D9%8A-%D8%B4%D8%B7%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D9%88%D9%83%D8%B3%D9%8A%D9%81); [ToI](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/) | The petitioners were Likud, Otzma Yehudit and the "Choosing Life" forum. The AG opposed the ban. |
+| 43 | LGBT: wants a free vote and opposes pro-LGBT legislation | CONFIRMED in general terms | [en.wiki Mansour Abbas](https://en.wikipedia.org/wiki/Mansour_Abbas); [he.wiki](https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%A1%D7%95%D7%A8_%D7%A2%D7%91%D7%90%D7%A1) | His conversion-therapy support dates from 2020 (Walla). The ToI 2021 report said officials used the slur "perverts". "In religious matters, I'm right-wing." No specific 2026 statement was found. |
+
+---
+
+## 1. Identity and latest result
+
+- **Leader:** Mansour Abbas (منصور عباس / מנסור עבאס), dentist, from Maghar, chairman since 2019. This is likely his last term ([JPost 6 Mar 2025](https://jpost.com/israel-news/article-845046)).
+- **List 2026:**
+  1. Abbas
+  2. Yoav Segalovitz (Jewish former police major-general and deputy public security minister; technical alliance, not a member)
   3. Waleed Taha
-  4. Waleed Alhwashla (Negev)
+  4. Waleed Alhwashla
   5. Iman Khatib-Yassin
   6. Yasir Hujeirat
-  7. Ibrahim al-Turi (Rahat)
+  7. Ibrahim al-Turi
 
-  Sources: [The Petek](https://www.thepetek.com/party/raam), [ToI 31 Aug 2026](https://www.timesofisrael.com/jewish-former-mk-yoav-segalovitz-announces-unprecedented-run-with-arab-raam-party/), [Al Jazeera 5 Sep 2026](https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count).
-- **Seats:** about 7 (preliminary, 27 Oct 2026). Ra'am ran separately from the Joint List (Hadash–Ta'al–Balad, 12 seats) with a surplus-vote agreement.
-- **Base:** Negev Bedouin (the core), the Triangle, the Galilee, and religious-conservative Muslims. The list reserves slots for the Galilee, the Triangle and the Negev, plus a women's slot ([ynetnews](https://www.ynetnews.com/article/s1xafktsfg)).
-- **Ideology in three lines:**
-  - The party comes from the Southern Branch of the Islamic Movement, which has a Muslim Brotherhood intellectual lineage but a pragmatic, participationist line.
-  - Its doctrine is "integration and influence": join the government, trade votes for budgets, personal security and planning.
-  - It holds a dual identity: Palestinian-Arab national identity together with Israeli civic identity. It is socially conservative.
+  Source: [The Petek](https://www.thepetek.com/party/raam).
+- **Result (latest found):** **7 seats, 6.0%, about 305,000 votes, 97.42% counted at 22:37 on 28 Oct 2026** ([The Petek results](https://www.thepetek.com/results)). This is up from 5 in 2022.
+  - Ynet at 85.6% counted had Ra'am at 6 and the JL at 13 ([Ynet](https://www.ynetnews.com/article/hjnatbkaml)).
+  - Ra'am is strong in the Negev: 83.6% of the vote in Rahat and 86.6% in Kuseife (same Ynet article).
+  - Double envelopes are counted 29 Oct; official results are due 4 Nov.
+- **Map:**
+  - Netanyahu bloc 53.
+  - Change bloc 48 (Yashar 21, Together 12, Democrats 8, Yisrael Beiteinu 7).
+  - Joint List 12, Ra'am 7.
+  - **Change bloc + Ra'am = 55.** It needs the JL to at least abstain.
+  - **Netanyahu bloc + Ra'am = 60**, not 61.
+  - A Likud-without-Netanyahu "unity" option (Likud 26–27 + Yashar + Together + YB ≈ 66) needs **no** Arab party, and is Ra'am's main threat.
+- **Pre-election ordeal:** the CEC voted 18–5–1 on 23 Sep to bar Ra'am. The Supreme Court unanimously reversed on 2 Oct (§0 row 42).
+  - Ra'am's response: [Q] «كل محاولات الليكود وبن غفير شطب الموحدة ونزع الشرعية عنها تعكس خشيتهم من الدور السياسي للموحدة» ([al-Qabas](https://www.qbs.co.il/archives/923236), early Oct 2026).
+- **Base:** the Negev Bedouin core, the Triangle, the Galilee, and religious-conservative Muslims. The list is rotated by region ([ynetnews](https://www.ynetnews.com/article/s1xafktsfg)).
 
-## 1b. Ideological foundations (whole career)
+## 2. Ideological foundations
 
-| Foundation | Content | Source |
+- **Founding and split.**
+  - The Islamic Movement was founded by Sheikh Abdullah Nimr Darwish. In 1996 it split over Knesset participation and Oslo. The Southern Branch founded Ra'am; the Northern Branch boycotts elections ([ECFR](https://ecfr.eu/special/mapping_palestinian_politics/raam/)).
+  - The national Shura Council approved entering the Knesset (ar.wiki: «إقرار مجلس الشورى القطري للحركة الإسلامية … دخول البرلمان الإسرائيلي», [ar.wiki](https://ar.wikipedia.org/wiki/القائمة_العربية_الموحدة)).
+- **"The New Way" (النهج الجديد), the doctrine as set out by Subhi Rayan** ([Dayan Center, 24 Feb 2022](https://dayan.org/content/new-way-key-understanding-raams-strategy)):
+  - stop fighting Israel's Zionist character;
+  - seek recognition as a national minority with equal rights;
+  - integrate into government as the swing bloc, with independent Arab decision-making;
+  - grounded in *fiqh al-aqalliyyat* (minorities jurisprudence) and *maslaha* (communal benefit).
+- **Practice, 2021–22.**
+  - Ra'am signed the coalition agreement on 2 Jun 2021: the first independent Arab party in a coalition, without ministers.
+  - Gains included more than NIS 53bn in plans, protection for homes built without permits, and recognition of Negev villages ([en.wiki](https://en.wikipedia.org/wiki/United_Arab_List)).
+  - Ra'am froze its participation on 17 Apr 2022 over the Temple Mount/al-Aqsa clashes ([ToI](https://www.timesofisrael.com/lapid-and-mansour-abbas-agree-raam-will-end-boycott-return-to-battered-coalition/)). **Al-Aqsa is the proven trigger for suspending participation.**
+- **Shura Council.**
+  - Historically the Shura "exerted influence on the party's votes in parliament" ([en.wiki](https://en.wikipedia.org/wiki/United_Arab_List)).
+  - Dec 2025: [Q] "Ra'am today is moving in the direction of being a completely civic party, with separate institutions" ([ToI](https://www.timesofisrael.com/raam-leader-says-party-will-cut-ties-with-religious-council-become-completely-civic/)). Dahamshe said Shura approval would no longer be needed (en.wiki). The 22 Aug primary was held without the Shura.
+  - [I] Formally, the Shura no longer vetoes coalition decisions. Socially it remains the base's conscience: the Movement's preachers, the mosques and the Negev sheikhs. Its *de facto* red lines are LGBT legislation, al-Aqsa and anything that reads as betraying the Palestinian people.
+  - Abbas personally is socially conservative: he backed conversion therapy (2020) and said "in religious matters, I'm right-wing" ([en.wiki](https://en.wikipedia.org/wiki/Mansour_Abbas)).
+- **Jewish state, then and now.**
+  - 2021: [Q] "מדינת ישראל נולדה כמדינה יהודית, וככה היא תישאר" ([Srugim](https://www.srugim.co.il/629877)).
+  - 26 Aug 2026: [Q] "יהדות המדינה היא עובדה קיימת שנכפתה עלינו, ולא אנחנו בחרנו בה." "המפלגות הערביות נאלצו לקבל את זה מעשית, אחרת היו נפסלות מהתמודדות לכנסת ומהבחירות המקומיות." "זה לא אומר שאני מכחיש את הנכבה, הגירוש או הנרטיב הפלסטיני." ([ynet](https://www.ynet.co.il/news/elections2026/article/rjnwqfhwzg), Hebrew translation of the Arabic post).
+  - Arabic: «حقيقة فُرضت علينا»; «هذا لا يعني أنني أنكر النكبة أو التهجير أو الرواية الفلسطينية» ([Sama](https://samanews.ps/ar/post/624363/)).
+  - [Q] «ثالثا ادعاء انكار النكبة والتهجير والرواية الفلسطينية هو افتراء آخر» ([Panet 26 Aug 2026](https://panet.com/story/4294828)).
+  - Context: the post followed a Channel 12 interview in which critics said he had soft-pedalled 1948 ([INN 24 Aug](https://www.inn.co.il/news/704739)).
+  - **Lesson:** he accepts the Jewish state as an *imposed legal fact*, not as a value. The Ben-Gvir/Likud petitions then used this post to seek his disqualification.
+
+## 3. 2026 platform, red lines and promises about partners
+
+- **Goal: inside the government.**
+  - [Q] «دخول الائتلاف طريقنا لتحقيق المطالب والتأثير»; «بدك تعبّر ولا بدك تغيّر؟»; «الموقف مهم، بس الموقف لحاله ما ببني مدرسة» ([Bokra 26 Oct](https://bokra.net/Article-1606581)).
+  - [Q] «نعدّ مقاعد لأجل هدف واحد: أن نصل إلى الكتلة المكملة» ([Al-Quds al-Arabi 23 Aug](https://www.alquds.co.uk/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%87%D8%A7/)).
+  - By contrast, the JL offers *outside* support only ([JPost 28 Oct](https://www.jpost.com/israel-news/article-913073)).
+- **Stated goals** ([ynetnews](https://www.ynetnews.com/article/s1xafktsfg)): replace the government; join the coalition; fight crime and violence, house demolitions, racism and inequality.
+- **Platform pillars** ([The Petek](https://www.thepetek.com/party/raam)): an emergency anti-crime plan; recognition of the Negev villages; closing budget gaps; schools "within the state system". Its listed positions also include "two states in principle, domestic first".
+- **Crime post.** Ra'am seeks "a focused role overseeing the fight against crime" for Segalovitz. The National Security Ministry could be "a red line" for partners ([JPost 2 Sep](https://www.jpost.com/israel-election-2026/article-907380)).
+- **Netanyahu and Likud.**
+  - Ra'am's aim is to topple "this government": [Q] «مصلحتنا العليا هي استبدال هذه الحكومة العنصرية» (26 Aug, [Sama](https://samanews.ps/ar/post/624363/)); «إسقاط وتغيير هذه الحكومة» ([al-Qabas](https://www.qbs.co.il/archives/923236)).
+  - There is no formal anti-Likud vow, and he says Ra'am "cannot commit to a policy of excluding ourselves" ([ToI 11 May](https://www.timesofisrael.com/liveblog_entry/mansour-abbas-says-bennett-eisenkot-and-liberman-each-fit-to-be-pm-predicts-coalition-deal/)).
+  - Feb 2026: he recounted Netanyahu's courting, and said Qatar pushed him to join Netanyahu ([Mako](https://www.mako.co.il/news-politics/2026_q1/Article-46b8126913d5c91026.htm)).
+- **The partners' red lines against Ra'am:**
+  - Eisenkot: Ra'am is out unless it accepts the four principles ([ToI 26 Sep](https://www.timesofisrael.com/eisenkot-raam-wont-be-in-my-government-pms-approval-of-qatari-funds-between-breach-of-trust-and-treason/)).
+  - Bennett: "will not rely on them" ([ACW](https://arabcenterdc.org/resource/israels-election-and-eisenkots-arab-coalition-dilemma/)).
+  - Liberman: no.
+  - Golan: yes.
+- **Rivalry with the Joint List.**
+  - Ra'am signed the Jan 2026 JL revival framework, then left it, insisting on a "technical alliance only" ([ToI 11 May](https://www.timesofisrael.com/liveblog_entry/mansour-abbas-says-bennett-eisenkot-and-liberman-each-fit-to-be-pm-predicts-coalition-deal/)).
+  - Balad told Abbas to abide by the Follow-Up Committee's rejection of civil service ([Arab48 29 Jul 2026](https://www.arab48.com/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/2026/07/29/%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D8%B9-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A-%D9%84%D9%85%D8%AE%D8%B7%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D9%88%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%B2%D8%AC-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%81%D9%8A%D9%87%D8%A7)).
+  - Kul al-Arab op-eds called his civil-service call a "red line" for the JL ([Kul al-Arab](https://www.kul-alarab.com/Article/1122702)). One opinion headline says he "adopted the Nation-State Law" (Kul al-Arab 1122831, a polemic; seen in a search listing only).
+  - The two sides signed a surplus-vote deal and pledged a clean campaign ([ynetnews](https://www.ynetnews.com/article/cttpu7pfv)).
+  - The JL now has 12 seats to Ra'am's 7. Each will judge the other by who extracts more for Arab society at less symbolic cost.
+
+## 4. Election-night and post-election statements
+
+| Date | Statement | Source |
 |---|---|---|
-| Founding (1970s–1983) | Sheikh Abdullah Nimr Darwish founds the Islamic Movement. In the 1980s he decides it will accept the state's existence and work within it. | [Dayan Center 2022](https://dayan.org/content/new-way-key-understanding-raams-strategy), [Wikipedia](https://en.wikipedia.org/wiki/Islamic_Movement_in_Israel) |
-| 1996 split | The movement splits over Knesset participation and Oslo. Darwish's Southern Branch runs as Ra'am. The Northern Branch (Raed Salah) boycotts elections and was outlawed in 2015. | [ECFR](https://ecfr.eu/special/mapping_palestinian_politics/raam/) |
-| Movement charter (2018, per critics) | Pro-Israel outlets report that the movement's roughly 90-page charter calls Zionism a "racist, occupying project" and backs the right of return. **Abbas has denied that an officially approved charter exists.** Treat as contested. | [JewishPress 2022](https://www.jewishpress.com/news/israel/israeli-arabs/coalition-islamist-partys-hidden-charter-dedicated-to-fighting-zionism/2022/09/16), [JNS](https://www.jns.org/opinion/coalition-deal-with-anti-zionist-raam-islamist-party-is-extremely-dangerous/) |
-| "New Way" doctrine | Subhi Rayan's 2022 Arabic book sets out Abbas's doctrine. (1) Stop contesting Israel's Zionist character and drop "state of all its citizens"; seek recognition as a national minority with equal rights, in return for Arab recognition of Israel as a Jewish state. This draws on *fiqh al-aqalliyyat* (minorities jurisprudence) and *maslaha* (communal benefit). (2) Integrate into power as a swing bloc. (3) Decide independently, with no automatic loyalty to the Left. | [Dayan Center, Milshtein, 24 Feb 2022](https://dayan.org/content/new-way-key-understanding-raams-strategy) |
-| Defining speech, 1 Apr 2021, Nazareth, delivered in Hebrew | [Q] "I, Mansour Abbas, a man of the Islamic Movement, am a proud Arab and Muslim, a citizen of the state of Israel". [Q] "What we have in common is greater than what divides us." [Q] "I don't want to be part of any [political] bloc — right or left." [Q] "My approach is what can we say yes to, and less what we can say no to." The speech did not mention Palestine or the occupation. | [ToI text](https://www.timesofisrael.com/liveblog_entry/text-of-mansour-abbass-speech-i-seek-coexistence-based-on-mutual-respect-equality/), [MEI](https://www.mei.edu/publications/mansour-abbas-islamist-kingmaker-or-good-arab) |
-| Jewish state, Nov–Dec 2021 | Globes conference, 21 Dec 2021: [Q, Heb] "מדינת ישראל נולדה כמדינה יהודית, וככה היא תישאר" ("Israel was born as a Jewish state, and so it will remain"). In English: [Q] "The question is not the about the state's identity... but what the status of Arab citizens will be in it." Kul al-Arab, Nov 2021: [Q] "Israel is a Jewish state. That is its identity, its essence." In the same interview: [Q] "My rights also come from being a member of the Palestinian people." Hadash/Balad accused him of "double talk"; the PA, Fatah and Hamas attacked him. | [Srugim](https://www.srugim.co.il/629877), [ToI 21 Dec 2021](https://www.timesofisrael.com/arabs-should-move-past-contesting-israels-jewish-identity-raam-chief-abbas-says/), [Maariv](https://www.maariv.co.il/news/politics/Article-885702) |
-| 2021 demands (Mar 2021) | (1) Free vote on LGBT issues. (2) Recognition of Negev villages. (3) **Scrap the Nation-State Law.** (4) A plan against crime. (5) Scrap the Kaminitz Law. | [ynetnews](https://www.ynetnews.com/article/Sy8JBCp4d) |
-| 2021 coalition agreement and results | **Kaminitz:** enforcement and fines frozen to 2024; amendment promised within 120 days. **Negev:** three villages to be recognized, plus a plan for the rest. **Budgets:** about NIS 53bn package reported for Arab society, including **Decision 550** (2022–26 five-year plan) and a crime plan. **Electricity Law:** passed Jan 2022, connecting about 130,000 Arabs in unpermitted homes; the bill came from Waleed Taha. **Negev:** NIS 5.2bn Bedouin plan. | [ToI-fr](https://fr.timesofisrael.com/laccord-qua-conclu-le-parti-islamiste-raam-pour-entrer-dans-la-coalition/), [ToI electricity](https://www.timesofisrael.com/in-illegal-homes-without-power-arab-israelis-hope-for-change/), [YorkU/JPost](https://mideastenvironment.apps01.yorku.ca/?p=18361) |
-| Key votes and crises, 2021–22 | **Citizenship (family reunification) Law, Jul 2021:** Ra'am split; Abbas later said he abstained so as not to topple the government ([IsraelHayom](https://www.israelhayom.com/2021/07/05/shin-bet-failure-to-pass-citizenship-law-will-harm-national-security)). **Al-Aqsa clashes, 17 Apr 2022:** the Shura Council froze Ra'am's coalition membership "in protest of the continued assault on Al-Aqsa"; Ra'am later returned ([Media Line](https://themedialine.org/headlines/united-arab-list-raam-party-freezes-knesset-activity-over-jerusalem-clashes), [ToI](https://www.timesofisrael.com/lapid-and-mansour-abbas-agree-raam-will-end-boycott-return-to-battered-coalition/)). **Judea and Samaria emergency regulations, Jun 2022:** Ra'am MK Mazen Ghanaim voted against, calling the measure de facto annexation; Abbas left the room. The vote helped bring the government down ([Heritage FL](https://www.heritagefl.com/story/2022/06/17/news/emergency-bill-fails-judea-samaria-communities-in-crisis/16772.html)). |
-| After Bennett-Lapid | Smotrich froze and cut Decision 550 funds in Aug 2023, calling them "political agreements made with Mansour Abbas"; about NIS 497m was diverted to the police and Shin Bet. **Decision 550 expires at the end of 2026**, so a successor plan is now urgent. | [ToI](https://www.timesofisrael.com/smotrich-reportedly-freezes-millions-earmarked-for-arab-towns/), [ACI Task Force](https://www.acitaskforce.org/resource/challenges-to-gr-550-spark-concerns-for-arab-society/) |
-| Shura separation, Dec 2025 to Jul 2026 | Abbas announced the party would become a "completely civic party," separate from the Southern Branch's Shura Council. On 27 Jul 2026 he said the separation was complete for political decisions and candidate selection. The 22 Aug 2026 primary (1,050 delegates, Tayibe) was the first held without the Shura. Analysts (JNS) called the separation a stunt. The party constitution itself was not changed. | [ToI](https://www.timesofisrael.com/raam-leader-says-party-will-cut-ties-with-religious-council-become-completely-civic/), [JNS](https://www.jns.org/raam-declares-split-from-islamic-movement-analysts-say-its-a-stunt/), [ynetnews](https://www.ynetnews.com/article/s1xafktsfg) |
+| 27 Oct, night (Channel 12) | [Q] "כולם מדברים איתנו, לא רק מגוש השינוי"; "כרגע אין מספרים לממשלה". Signalled willingness to join an Eisenkot government if viable. | [Zman Yisrael 27 Oct 23:40](https://www.zman.co.il/live/737161/); [ToI](https://www.timesofisrael.com/liveblog_entry/raams-abbas-says-figures-from-both-political-blocs-have-approached-him-amid-coalition-deadlock/) |
+| 27–28 Oct | [Q] «سنحول المقاعد التي حصلنا عليها إلى واقع جديد في إسرائيل». [P] Ra'am will take "responsible decisions" in the coming weeks. | [Al Jazeera 27 Oct](https://aljazeera.net/news/2026/10/27/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8) |
+| 28 Oct (Israeli TV, via Reuters) | [Q-tr] "most voters for the (Eisenkot) bloc do want to see (a) government with the Ra'am party". [P] Senior Eisenkot-bloc figures discussed a deal with him before the election. | [ThePrint/Reuters](https://theprint.in/world/for-israels-arabs-record-turnout-may-bring-political-clout/3084535/) |
+| 28 Oct | [P] Whether a viable government exists must be settled before terms are discussed. | [JPost](https://www.jpost.com/israel-news/article-913073) |
+| 28 Oct | Likud: the election was "stolen by Arab parties". Netanyahu had singled out Ra'am on election day. | [RTÉ](https://rte.ie/news/world/2026/1028/1597028-israel-election) |
+| Unverified | A reply to Eisenkot's Hamas condition ("show me first that there is a government") appeared only in a search summary. | Not found at a URL; **do not quote** |
 
-**Where recent statements diverge from long-held positions:**
+## 5. Positions on the framework topics
 
-1. **Shura.** In 2022 the Shura decided the coalition freeze. In 2026 Abbas formally removed it from political decisions. This makes a coalition signature easier [I], although religious-base pressure remains real: Ra'am kept its conservative identity, and some list members are Islamic Movement figures (e.g., #19 Nimr Hussein, #20 Yahya Dahamshe, head of the Movement's political bureau).
-2. **Nation-State Law.** In 2021 Ra'am demanded the law be scrapped. Since late 2021 Abbas accepts the Jewish *identity* ("born as a Jewish state") but still wants equal status. He has not publicly endorsed the Nation-State Law itself; I found no 2026 statement on it.
-3. **Palestinian state.** In 2021 Abbas put the domestic agenda first and kept quiet on Palestine (the Hebrew speech did not mention it). On 22 Aug 2026 he publicly called on Israel to recognize "an independent Palestinian state" and to end "the occupation." He reportedly then assured opposition leaders that this would not be a coalition demand ([ToI](https://www.timesofisrael.com/jewish-former-mk-yoav-segalovitz-announces-unprecedented-run-with-arab-raam-party/)). The message to Arab voters has become more Palestinian-national, while the coalition position is unchanged.
-4. **Hamas.** After Oct 2023 Abbas condemned the 7 Oct crimes and called for the hostages' release. In July 2026 he **refused to say on the radio that Hamas is a terrorist organization that must be destroyed** (see §4b). His position has hardened rhetorically against "loyalty tests," not substantively toward Hamas [I].
-5. **National service.** The old Ra'am line, shared by the whole Arab mainstream, rejected national and civil service. In July–Aug 2026 Abbas said "yes to civic service for Arabs," but only voluntary, run within the community, with no military or security link, and outside the current state framework.
+**Jewish state / Nation-State Law**
+- He accepts it as an imposed legal fact (26 Aug 2026), not as a value. He demanded repeal of the Nation-State Law in 2021 (§0 row 10).
+- [I] He can live with clause 4 as written, a *description* of the Basic Laws plus an explicit reservation on the Nation-State Law.
+- He cannot sign "endorse", "Zionist", "loyalty" or "the exclusive right of the Jewish people to self-determination".
 
-## 2. Platform and core promises (2026)
+**Terrorism, Hamas, 7 Oct, Gaza, hostages**
+- Oct–Dec 2023: he condemned the attack as "inhuman and unjustifiable", called for the hostages' release, and said armed factions must stop using weapons ([en.wiki](https://en.wikipedia.org/wiki/Mansour_Abbas)).
+- Jun 2026, Kochav Yair attack: [Q] "אין שום רקע או נסיבות שיכולים להכשיר מעשי טרור פליליים מסוג זה" ([he.wiki](https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%A1%D7%95%D7%A8_%D7%A2%D7%91%D7%90%D7%A1)).
+- He refuses to call Hamas a terrorist organization to be destroyed, citing his life: "פיקוח נפש" (28 Jul 2026, [Kikar](https://www.kikar.co.il/israel-news/mansour-abbas-hamas-terror-question)). In Nov 2025 he asked: "אולי אני לא רוצה שיתנקשו בי?" ([INN 25 Nov 2025](https://www.inn.co.il/news/683826)).
+- [I] **Signable:** a condemnation of the 7 Oct massacre "by Hamas"; "Hamas will not rule Gaza", as a *government* clause he does not personally recite; humanitarian aid; reconstruction.
+- **Not signable personally:** "destroy/eliminate Hamas" (השמדת/מיגור חמאס). "Disarmament" as government policy can be tolerated with a recorded reservation if Ra'am is not asked to say it.
 
-- Eve of the election, 26 Oct 2026 ([Bokra](https://bokra.net/Article-1606581)):
-  - Headline: [Q, Ar] "دخول الائتلاف طريقنا لتحقيق المطالب والتأثير" ("Entering the coalition is our path to achieving demands and influence").
-  - Priorities: [Q, Ar] "توفير الأمان للأبناء والبيوت" ("security for our children and homes"); "ضمان حصول البلدات العربية على ميزانياتها" ("ensuring Arab towns receive their budgets"); "تحسين ظروف المعيشة ومكانة العرب في السياسة" ("improving living conditions and the standing of Arabs in politics").
-  - [P] He denied making concessions in exchange for coalition gains.
-- Convention, 22–23 Aug 2026 ([Al-Quds al-Arabi](https://www.alquds.co.uk/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%87%D8%A7/), [ToI](https://www.timesofisrael.com/raams-abbas-says-palestinian-state-a-reality-drawing-outrage-from-zionist-parties/)):
-  - [Q, Ar] "أولويتنا معالجة قضايا مجتمعنا العربي" ("Our priority is addressing the issues of our Arab society").
-  - Goal: [Q, Ar] "أن نصل إلى الكتلة المكملة، عدد نستطيع من خلاله أن نفرض أنفسنا شركاء في الائتلاف" ("to become the complementary bloc, a number that lets us impose ourselves as partners in the coalition").
-  - [Q] "The state of Palestine exists… most of the world recognizes it, except for the US and Israel." [Q] "We want them to recognize it, and we'll work to achieve peace, rapprochement and an end to the occupation and conflict." [Q] Arab citizens are "a bridge for achieving peace."
-- Reuters interview, 19 Oct 2026 ([JPost](https://www.jpost.com/israel-election-2026/article-912145)):
-  - [Q] "We can ensure the formation of a new government of change".
-  - He wants a government "to stop the expansion of settlements and to address the failure to stop settler attacks".
-  - [Q] "We also want a government that brings shared security and peace for Palestinians and Israelis."
-  - [P] Differences with Eisenkot over the West Bank "could be bridged."
-- Stated objectives ([ynetnews](https://www.ynetnews.com/article/s1xafktsfg)): replace the government; join the coalition; fight crime and violence, house demolitions, racism and inequality.
-- **Platform pillars** ([The Petek](https://www.thepetek.com/party/raam), editorial summary):
-  - An emergency anti-crime plan.
-  - Legal recognition of the Negev villages.
-  - Closing budget gaps.
-  - Billions for Arab schools "within the state system, not autonomy."
-- **Crime portfolio:** [Q] "Ra'am chose to return to government with the violence and crime portfolio" ([JPost](https://www.jpost.com/israel-election-2026/article-907380)). Ra'am wants a role overseeing the fight against crime, intended for Segalovitz. It is not seeking the National Security Ministry itself, though Abbas said Segalovitz would suit it and answered "we'll see" about himself.
+**Arab citizens**
+- **Crime:** 252 murders in 2025 ([CSMonitor](https://csmonitor.com/World/Middle-East/2026/0209/israel-arabs-organized-crime-murder-ben-gvir)). This is Ra'am's #1 issue; Segalovitz is the crime brand.
+- **Budgets:** a successor to Decision 550, which ends in 2026 (run-1 lead; the end date is not re-verified).
+- **Planning:** Kaminitz.
+- **Negev:** village recognition and no demolitions. Rahat and Kuseife delivered Ra'am's surge.
+- **Representation:** wants ministers or deputy ministers *inside* the coalition.
 
-## 3. Red lines and coalition promises
+**West Bank**
+- [Q] "to stop the expansion of settlements … to address the failure to stop settler attacks" ([JPost 19 Oct](https://www.jpost.com/israel-election-2026/article-912145)).
+- A Palestinian state "exists" (22 Aug). It is reportedly not a coalition demand.
 
-- **No Netanyahu-led government.** Netanyahu is "the greatest danger to Arab society" ([INN](https://www.inn.co.il/news/569983)). Ra'am is a self-declared partner of the "change bloc."
-  - On election night, however, Abbas said [Q] "Everyone is speaking with us, not just from the 'change bloc'" and later said Likud had approached him ([ToI 27–28 Oct 2026](https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/)).
-  - [I] This is leverage signalling, but it keeps an option open. No explicit 2026 vow ruling out Likud as such was found.
-- **Eisenkot-led coalition.** Abbas is willing to join outright if it is viable: [Q] "currently there aren't numbers for a government". Also [Q] "I believe we can overcome the difficulties … most voters for the (Eisenkot) bloc do want to see (a) government with the Ra'am party" ([JPost](https://www.jpost.com/israel-news/article-913073)).
-- **Format.** Ra'am prefers a full coalition seat (the "complementary bloc"). Its 2021 model was a coalition member without ministers, which Wikipedia/ECFR describe as "external support." [I] Outside support only is a fallback, and less valuable to its voters.
-- **The other side's red lines:**
-  - **Eisenkot**, 26 Sep 2026: partners must accept a Jewish and democratic state, the Declaration of Independence, universal service, and Hamas as a terror group to be destroyed. He said Ra'am therefore "won't be part of" his government ([ToI](https://www.timesofisrael.com/eisenkot-raam-wont-be-in-my-government-pms-approval-of-qatari-funds-between-breach-of-trust-and-treason/)).
-  - **Bennett:** "the Arab parties are not Zionist, and therefore we will not rely on them" ([ACW](https://arabcenterdc.org/resource/israels-election-and-eisenkots-arab-coalition-dilemma/)).
-  - **Liberman:** Ra'am "cannot be a coalition partner this time."
-  - **Golan (Democrats)** is the only one in favor.
-  - Abbas said in May 2026 that he was confident he would eventually "reach agreements" with Bennett, Eisenkot and Liberman ([ACW](https://arabcenterdc.org/resource/israels-election-and-eisenkots-arab-coalition-dilemma/)).
-- **Haredim:** no explicit red line. Ra'am voted against the blanket draft-exemption law ([The Petek/N12](https://www.thepetek.com/party/raam)). It is socially conservative and shares some religion-and-state instincts with the Haredim [I].
+**7 Oct commission, Haredi draft, judiciary, religion and state**
+- **Commission:** no statement found. [I] Supports it.
+- **Haredi draft:** voted against the blanket exemption ([The Petek](https://www.thepetek.com/party/raam)).
+- **Judiciary:** protect minority rights.
+- **LGBT:** wants a free vote and opposes pro-LGBT bills.
+- **Service, the key point for run 2.** Ra'am **can vote for a law that ends the Haredi blanket exemption**, consistent with its record and with "שירות לכולם" (May 2026).
+  - It **cannot vote for a text that imposes a duty on Arab citizens or ties benefits to service.** Since the Aug 2026 storm, Abbas's line is a *voluntary* Arab initiative outside the existing national-civil service framework, with no military, security or "national" content. He calls "conscription" talk «إشاعات وافتراءات» (26 Oct).
+  - Run 1's clause 21 binds Ra'am to vote for clause 6a, which says "every citizen serves", "the duty applies to all" and "state benefits are tied to service". It is **not realistic as written.** The JL and Balad would brand it «تجنيد», on the day Ra'am needs the Arab street.
 
-## 4. Positions on the statement topics
+## 6. Terminology
 
-**(a) Jewish state / Nation-State Law**
-- Abbas accepts as a fact that Israel is a Jewish state (Hebrew quote in §1b, 2021).
-- Arab Center DC says he "has publicly accepted Israel as a Jewish and democratic state" ([ACW](https://arabcenterdc.org/resource/israels-election-and-eisenkots-arab-coalition-dilemma/)). The Petek summary: "Equal citizenship, but accepts the Jewish state."
-- He has historically opposed the Nation-State Law, and demanded it be scrapped in 2021.
-- [I] He can sign "Israel is a Jewish and democratic state" as a description of the present, especially if equality and the status of Arab citizens sit in the same sentence. He cannot sign praise for the Nation-State Law or wording that subordinates Arab citizens' rights.
-
-**(b) Terrorism, Hamas, Oct 7, Gaza, hostages**
-- After Oct 7, 2023 Abbas called on Hamas to free the hostages: [Q] "I called on Saturday [October 7] and I'll continue to call on the groups in Gaza to release those held by them" ([ToI](https://www.timesofisrael.com/liveblog_entry/head-of-arab-israeli-party-raam-urges-aid-be-allowed-into-gaza-calls-on-hamas-to-free-hostages/)). He also demanded humanitarian aid for Gaza.
-- He demanded MK Khatib-Yassin's resignation over her Nov 2023 remark minimizing the massacre (she retracted it) ([JPost](https://www.jpost.com/israel-news/article-913073)). Note she is #5 on the 2026 list.
-- Kan Reshet Bet interview, 28 Jul 2026 ([INN](https://www.israelnationalnews.com/news/430885), [JNS](https://www.jns.org/news/israel-news/raam-party-chief-refuses-to-condemn-hamas-as-terror-group)):
-  - [Q] "We condemned every act of terror."
-  - [Q] "We condemned the crimes of October 7, not only from a civilian perspective but also from an Islamic religious perspective".
-  - He said Ra'am did everything possible "to secure the release of the hostages."
-  - Asked whether Hamas is a terrorist organization that should be destroyed: [Q] "I don't want to give you a straight answer… I have a straight answer; I just don't want to say it". He called such questions "loyalty tests," "completely foolish."
-- Gaza ([The Petek](https://www.thepetek.com/party/raam), summary): upholds the ceasefire and favors large-scale reconstruction.
-- [I] He can sign a condemnation of "all terrorism against civilians," including the 7 Oct massacre by Hamas, if it is symmetric (also condemning Jewish terror) and not framed as a test of Arab loyalty. A clause naming Hamas as perpetrator of the 7 Oct massacre is likely acceptable. A clause that Ra'am "commits to the destruction of Hamas" or endorses the war's conduct is very hard; he publicly refused that exact formula.
-
-**(c) Arab citizens.** This is the heart of Ra'am's case.
-- **Crime:** 2025 was a record year with 252 murders (Abraham Initiatives), and 2026 is on pace to exceed it ([CSMonitor](https://csmonitor.com/World/Middle-East/2026/0209/israel-arabs-organized-crime-murder-ben-gvir)). Ra'am wants the crime portfolio for Segalovitz, a national plan, and an end to Ben-Gvir's policy.
-- **Budgets:** a successor to Decision 550 (expires 2026) and restoration of the Smotrich cuts.
-- **Planning and Kaminitz:** stop demolitions, freeze or amend Kaminitz, and approve master plans.
-- **Negev:** recognize the unrecognized villages. Ra'am opposes Smotrich's Aug 2026 plan for "one million additional Jews in the Negev and Galilee" ([Anadolu via search]; [JNS](https://www.jns.org/israel-news/new-plan-for-eastern-negev-practical-zionism-smotrich-says)).
-- **Electricity and infrastructure:** extend the 2022 law.
-- **Representation:** ministers or deputy ministers, coalition membership, and a "standing of Arabs in politics."
-
-**(d) West Bank**
-- Ra'am supports two states and an independent Palestinian state (Aug 2026). It wants an "end to the occupation" (Arabic: إنهاء الاحتلال).
-- It wants settlement expansion stopped and settler attacks addressed (Oct 2026).
-- In 2022 it opposed the emergency regulations as annexation.
-- It puts the domestic agenda first and reportedly will not make a Palestinian state a coalition demand.
-- [I] Acknowledging "territories under military control," settler terrorism and outposts that should be evacuated is a big visible win for Ra'am, not a concession.
-
-**(e) Other issues**
-- **Oct 7 state commission of inquiry:** no specific statement found. [I] Ra'am would support it as part of the change bloc.
-- **Haredi draft:** voted against blanket exemption.
-- **National service:** voluntary civic service only, run by the community (Jul–Aug 2026, [INN](https://www.israelnationalnews.com/flashes/690910), [ynetnews](https://www.ynetnews.com/article/ry67y43dfe)). The ToI 28 Oct article goes further and says Ra'am "supports universal national service" where Arabs could choose civil service; that wording is unverified against Abbas's own words.
-- **Judiciary:** protect minority rights through the courts.
-- **Religion and state:** conservative. Ra'am wants a free vote on LGBT issues and would oppose pro-LGBT legislation.
-- **Al-Aqsa:** status quo. This is a historic trigger (freeze in Apr 2022).
-
-## 5. Terminology sensitivities
-
-| Term | Ra'am stance |
+| Must say / can sign | Cannot sign |
 |---|---|
-| "Jewish and democratic state" / מדינה יהודית ודמוקרטית / دولة يهودية وديمقراطية | **Can sign** as a description of the present ("born as a Jewish state"), ideally alongside "full civic and national equality for Arab citizens." **Avoid:** "Nation-State Law," "Jewish people's exclusive right to self-determination" (wording from Basic Law, §1c), "Zionist" as a required self-description of Ra'am, and "loyalty"/"נאמנות" framing. |
-| Terrorism / טרור / إرهاب | "All terrorism," "attacks on civilians," "the crimes/massacre of 7 October" (جرائم 7 أكتوبر / الطבח). Symmetric naming of Jewish terror (טרור יהודי / إرهاب المستوطنين) is needed. "Hamas" named as perpetrator is likely OK. "Destroy Hamas" / "Hamas must be eliminated" (למגר את חמאס) is **very hard**: he refused it publicly in Jul 2026. Avoid phrasing that makes Arab citizens collectively accountable. |
-| Occupation / כיבוש / الاحتلال | Ra'am uses الاحتلال in Arabic (Aug 2026). In Hebrew Abbas avoids confrontation. "Territories under military control" / שטחים בשליטה צבאית is an acceptable neutral formula. It cannot sign "יהודה ושומרון" as the *sole* name implying sovereignty, and cannot sign "annexation"/"ריבונות" language. |
-| Palestinian people / העם הפלסטיני / الشعب الفلسطيني | Desired. Abbas speaks of "reconciliation between the Palestinian people and the Jewish people." Erasing Palestinian identity ("Israeli Arabs" only) is irritating but tolerated. Ra'am uses المجتمع العربي ("Arab society") and المواطنين العرب ("Arab citizens"). |
-| Palestinian state / מדינה פלסטינית / الدولة الفلسطينية | Not required in a 4-year statement. Ra'am cannot sign an explicit commitment *against* a Palestinian state ever. Silence on end goals is fine. |
-| Nakba / النكبة | Not required. Ra'am cannot sign anything penalizing Nakba commemoration. |
-| Al-Aqsa / المسجد الأقصى / הר הבית | Status quo must be respected. No mention is better than "Temple Mount" alone. |
-| Unrecognized villages / הכפרים הלא מוכרים / القرى غير المعترف بها | Must appear in Ra'am's terms. The Hebrew "פזורה" (dispersion) is acceptable. "Illegal construction" (בנייה לא חוקית) alone, without "planning and permits," is negative. |
-| Outposts / מאחזים / البؤر الاستيطانية | Positive for Ra'am. It would prefer "settler violence/terror" (عنف/إرهاب المستوطنين). |
+| المواطنون العرب / المجتمع العربي; "equal citizens" | "Israeli Arabs" as *the* only identity; "loyalty" / נאמנות / ولاء as a condition |
+| "Jewish and democratic" **as the existing legal definition** («حقيقة فُرضت علينا» in Ra'am's own voice) | "We endorse/accept the Nation-State Law"; "Zionist" as a self-description |
+| جرائم 7 أكتوبر / "the massacre of 7 October committed by Hamas" | "חמאס ארגון טרור שיש להשמידו" as a personal or party pledge |
+| إرهاب المستوطنين / טרור יהודי; البؤر الاستيطانية | "Judea and Samaria" alone; any sovereignty or annexation wording |
+| المسجد الأقصى / الحرم القدسي الشريف; الوضع القائم | "Temple Mount" alone |
+| القرى غير المعترف بها | "Illegal Bedouin construction" without planning/recognition context |
+| «خدمة مدنية تطوعية» run by the community | «تجنيد», «خدمة إلزامية», "duty applies to all", "benefits tied to service" |
+| الشعب الفلسطيني; "peace and reconciliation" | Anything denying the Nakba narrative or a Palestinian state *forever* |
 
-## 6. Negotiation profile
+## 7. Negotiating position for run 2
 
-**MUST-HAVES**
-
-1. **Crime and personal security:** a national emergency plan with budget and police enforcement in Arab towns, and the crime portfolio (or a coordinator role) for Segalovitz or Ra'am.
-2. **Budgets:** a multi-year successor to Decision 550 at or above the previous level, protected from cuts.
-3. **Planning and housing:** halt or amend Kaminitz enforcement, master plans, and expanded town boundaries.
-4. **Negev:** recognition of unrecognized villages on a timetable, and halting forced transfers.
-5. **Political standing:** a formal coalition role (ministers or deputy ministers, committee chairs). A document stating Arab citizens are equal and legitimate partners.
-
-**Nice-to-haves**
-- Electricity and infrastructure connection.
-- Education and employment budgets.
-- Recognition of the Arab-community national service model on Ra'am's terms.
-- Halting settlement expansion and settler violence.
-- A commitment to "peace/reconciliation" language.
-- Status quo at Al-Aqsa.
-
-**Possible concessions**
-- Acknowledging Israel as a Jewish and democratic state "as of now."
-- Silence on a Palestinian state and on the Nation-State Law for 4 years.
-- Free vote or abstention on security and foreign affairs, as in 2021.
-- Condemning all terror including the Hamas 7 Oct massacre.
-- Accepting no Arab minister in security portfolios except a crime-fighting role.
+**Must-haves**
+1. **Coalition membership**, not a mere "parliamentary agreement": Ra'am signs the coalition agreement, as in 2021, and has a seat at the coalition management table.
+2. **Crime:** a dedicated post with real authority for Segalovitz, at least deputy minister with budget and staff, ideally minister-level for crime in Arab society; a protected multi-year budget of at least NIS 1bn/yr.
+3. **A Decision 550 successor** of at least NIS 30bn in real terms, in the first budget, with the Smotrich-era cuts restored.
+4. **Kaminitz freeze plus an amendment; Negev:** recognition on a timetable, and no demolitions of inhabited homes or forced relocation.
+5. **Free vote on LGBT and religion-and-state; al-Aqsa status quo**, with a release clause if the status quo is breached (the 2022 precedent).
 
 **Deal-breakers**
-- A Netanyahu or Ben-Gvir-type partnership. With Likud, only if Ben-Gvir and Smotrich are out [I].
-- Annexation or sovereignty steps.
+- A binding vote for a "service for all" law that applies a duty to Arabs or ties benefits to service.
+- A personal or party pledge to "destroy Hamas".
 - Endorsing the Nation-State Law.
-- A loyalty oath, mandatory or military service for Arabs, or "destroy Hamas" as a personal pledge.
-- Al-Aqsa status-quo changes.
-- Large-scale Negev expulsions.
+- Annexation.
+- A government containing Ben-Gvir or Smotrich.
 
-**What Ra'am must show voters:** concrete numbers (NIS billions, villages recognized, homes connected, murder rate down) and visible representation. It must also show that it gained more than in 2021 without giving up Palestinian identity.
+**BATNA**
+- Opposition with 7 seats and record standing, while the JL also stays out.
+- Collapse into new elections is risky: Ra'am's 7 depends on a mobilized Negev, and Likud is attacking it as a thief.
+- A Netanyahu deal is arithmetically insufficient (60) and politically toxic after the disqualification petition.
+- [I] Ra'am's leverage is real but bounded: the change bloc needs both Ra'am and JL abstention, and the unity-with-Likud scenario cuts Ra'am out entirely.
 
-## 7. Uncertainties
+**Tradeable**
+- No minister in a security portfolio.
+- Silence on a Palestinian state for four years.
+- Accepting clause 4's descriptive wording.
+- Accepting government clauses on Hamas with a recorded Ra'am reservation.
+- Voting *for* a Haredi draft law that ends blanket exemptions and has a separate, voluntary Arab civic track.
+- Not demanding Nation-State Law repeal this term.
 
-- I could not get final results; seat counts are preliminary.
-- I could not find a 2026 statement on the Nation-State Law, the Oct 7 commission, or a formal 2026 platform document.
-- The exact wording of Ra'am's Oct 2023 condemnation is unverified.
-- The 2018 charter's status is disputed; Abbas denies ratification.
-- The NIS 53bn figure for 2021 comes from Ra'am's own claims, and the coalition did not publish full terms.
-- National service: the "universal service" wording (ToI) conflicts with Abbas's "voluntary, non-state" clarification.
-- Some sources (i24) were unreadable. Retirement announcement date is unverified.
+**What rivals and voters will attack**
+- The JL and Balad: "service = تجنيد", "accepting the Jewish state", "deputy minister without power, again".
+- The right and Likud: "Hamas supporter", "stole the election".
+- Bennett and Liberman voters: "relying on the Islamists".
+- The Negev base: zero tolerance for demolitions continuing under "our" government.
+
+**Posture toward the run-1 framework (`final/statement_en.md`): accept with demands; it fails on three clauses.**
+- **6a + 21 (service): REJECT the binding vote.**
+  - Ra'am will vote for the Haredi-draft part.
+  - The Arab track must be explicitly voluntary and run by Arab local authorities and civil society.
+  - Remove "the duty applies to all" as applied to Arab citizens, and "benefits tied to service" for any population Ra'am represents.
+  - Otherwise Ra'am takes a free vote.
+- **Chapter E / clause 22: CHANGE.** Ra'am wants coalition membership, not a parliamentary agreement; a deputy minister *with* budget authority (or a minister); one committee chair plus a deputy Speaker.
+- **Clause 9:** acceptable as a government clause only if Ra'am records a reservation that it is not asked to state it personally.
+- **Clauses 4, 7, 8, 10, 13–19, 15a:** acceptable. Add an al-Aqsa breach trigger to clause 25.
+
+**TV statement (`final/tv_statement.md`):** accept with one change.
+- Abbas can read every line except possibly "ensure Hamas does not rule Gaza". He would prefer "that the war does not return and that no armed group threatens civilians on either side".
+- "I condemn the massacre Hamas committed" is acceptable; he condemned Hamas's attack in 2023.
+
+## 8. Uncertainties
+
+- Final seats: 7 at 97.42% counted (6 at 85.6% per Ynet). Double envelopes are counted 29 Oct; official results 4 Nov.
+- No primary-source text of the 26 Aug Facebook post was found, only Arabic, Hebrew and English press quotations.
+- The Shura's informal post-separation role and any 2026 Shura statement on LGBT or al-Aqsa were not found (search cap).
+- The Haredi-exemption vote record rests on The Petek only.
+- The Decision 550 end date, the Smotrich Negev plan and the Electricity Law passage date were not re-verified.
+- No post-election Ra'am list of demands has been published. The demands above are inferred from campaign statements.
