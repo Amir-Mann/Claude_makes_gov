@@ -12,10 +12,7 @@
 
 **2. Binding vote FOR the whole Service Law, Haredi track included (cl. 21): the hardest point in the text.**
 
-- *Against signing:*
-  - Ra'am is a religious party. Compelling yeshiva students sits badly with parts of our base.
-  - It closes doors to Shas and UTJ, with whom we share conservative positions on religion and family.
-  - The line "the duty applies to all" also covers Arab citizens in principle.
+- *Against signing:* we are a religious party, so compelling yeshiva students sits badly with parts of our base; it closes doors to Shas and UTJ; and "the duty applies to all" covers Arab citizens in principle.
 - *For signing:*
   - Ra'am voted against the blanket exemption law (dossier §3, §4e).
   - Equal burden is not our red line. The Haredi parties sit in Netanyahu's bloc, and in 2021 we governed without them.
@@ -37,19 +34,7 @@ Arabic: «التزام الموحدة بالتصويت مشروط بتضمين �
 
 ## Net ledger
 
-**Gains (unchanged from v2, plus):**
-- Netanyahu, Ben-Gvir and Smotrich out.
-- The crime plan, led by us.
-- A successor to Decision 550 (≈ NIS 30bn).
-- Kaminitz fines and orders cancelled for existing homes.
-- No demolitions or forced relocation in the Negev villages.
-- The al-Aqsa status quo, now with "אל-אקצא" in the Hebrew text as well.
-- A Nation-State Law disclaimer.
-- "The Palestinian people".
-- Mourning for Gaza's civilians.
-- Jewish terror fought with the same tools.
-- No outpost legalization.
-- Deputy Speakers and a committee chair.
+**Gains:** everything in v2 (crime plan led by us, a successor to Decision 550, Kaminitz fines and orders cancelled for existing homes, no demolitions or forced relocation in the Negev villages, al-Aqsa status quo, Nation-State Law disclaimer, "the Palestinian people"), plus "אל-אקצא" in the Hebrew text.
 
 **Concessions:**
 - "Jewish and democratic" as a description of existing law.
