@@ -2,7 +2,7 @@
 
 **Format:** each leader reads the same text in the first person, in turn, on the same stage. Each leader reads in Hebrew or Arabic as they choose; the English text is the reference. About 2 minutes per reading.
 
-**Readers:** Gadi Eisenkot (Yashar) · Naftali Bennett (Together) · Yair Lapid (Yesh Atid) · Avigdor Lieberman (Yisrael Beiteinu) · Yair Golan (The Democrats) · Mansour Abbas (Ra'am) · Yousef Jabareen (Hadash) · Ahmad Tibi (Ta'al) · [Balad leader]
+**Readers:** Gadi Eisenkot (Yashar) · Naftali Bennett (Together) · Yair Lapid (Yesh Atid) · Avigdor Lieberman (Yisrael Beiteinu) · Yair Golan (The Democrats) · Mansour Abbas (Ra'am) · Yousef Jabareen (Hadash) · Ahmad Tibi (Ta'al) · Bakr Awawdeh (Balad faction head; his election is inferred from the preliminary count)
 
 **Drafting rule:** every sentence must be something all nine movements already accepted, in the framework or in Annex 1, in words each leader can say *personally* on camera. Points only some parties signed are left to each leader's own remarks after the joint reading. These include "Jewish and democratic", "disarming Hamas" and the Service Law.
 
@@ -19,18 +19,17 @@
 > Since the seventh of October this country has known terrible pain.
 > I condemn every act of terror and every deliberate harm to innocent people, whoever commits it and whoever suffers it.
 > I condemn the massacre Hamas committed on the seventh of October: the murder, the rape, the kidnapping.
-> And I mourn every innocent life lost since that day, Israelis and Palestinians alike.
+> And I mourn every innocent life lost since that day, Israelis and Palestinians alike, including in Gaza.
 >
 > These are our commitments.
 >
-> - To make sure the war does not return.
 > - To bring home the remaining hostages and our fallen.
-> - To ensure Hamas does not rule Gaza and cannot threaten the citizens of Israel.
+> - To ensure Hamas does not rule Gaza and cannot threaten the citizens of Israel, and so to work to ensure the war does not return.
 > - To set up a state commission of inquiry into the seventh of October.
 > - To stop Jewish terror, the violence of a small extremist minority, with the full force of the law.
 > - To evacuate illegal outposts, and to carry out no annexation in these four years.
 > - To fight the crime that is killing Arab citizens: with real money, real policing, and results you can count.
-> - To stop demolishing families' existing homes, and to recognize the villages in the Negev that have waited for decades.
+> - To stop demolishing families' existing, inhabited homes, and to advance the regularization and recognition of the villages in the Negev that have waited for decades.
 > - To be a government for every citizen of Israel, Jews and Arabs alike: equal citizens, as the Declaration of Independence promised.
 >
 > Some of us will sit in this government. Some will support it from the outside. Some will simply not stand in its way. Each of us chose that role openly, in front of you.
@@ -52,18 +51,17 @@
 > מאז השבעה באוקטובר ידעה המדינה הזאת כאב נורא.
 > אני מגנה כל מעשה טרור וכל פגיעה מכוונת בחפים מפשע, יהא המבצע אשר יהא ויהא הנפגע אשר יהא.
 > אני מגנה את הטבח שביצע חמאס בשבעה באוקטובר: הרצח, האונס, החטיפה.
-> ואני מתאבל/ת על כל חיים חפים מפשע שאבדו מאז אותו יום, ישראלים ופלסטינים כאחד.
+> ואני מתאבל/ת על כל חיים חפים מפשע שאבדו מאז אותו יום, ישראלים ופלסטינים כאחד, לרבות ברצועת עזה.
 >
 > אלה ההתחייבויות שלנו.
 >
-> - לוודא שהמלחמה לא תחזור.
 > - להשיב הביתה את החטופים שנותרו ואת חללינו.
-> - להבטיח שחמאס לא ישלוט בעזה ולא יוכל לאיים על אזרחי ישראל.
+> - להבטיח שחמאס לא ישלוט בעזה ולא יוכל לאיים על אזרחי ישראל, וכך לפעול כדי שהמלחמה לא תחזור.
 > - להקים ועדת חקירה ממלכתית לשבעה באוקטובר.
 > - לעצור את הטרור היהודי, האלימות של מיעוט קיצוני קטן, במלוא כוחו של החוק.
 > - לפנות מאחזים בלתי חוקיים, ולא לבצע שום סיפוח בארבע השנים האלה.
 > - להילחם בפשיעה שהורגת אזרחים ערבים: בכסף אמיתי, בשיטור אמיתי ובתוצאות שאפשר לספור.
-> - להפסיק להרוס בתים קיימים של משפחות, ולהכיר בכפרים בנגב שמחכים כבר עשרות שנים.
+> - להפסיק להרוס בתים קיימים ומאוכלסים של משפחות, ולקדם הסדרה והכרה בכפרים בנגב שמחכים כבר עשרות שנים.
 > - להיות ממשלה של כל אזרחי ישראל, יהודים וערבים כאחד: אזרחים שווים, כפי שהבטיחה מגילת העצמאות.
 >
 > חלק מאיתנו ישבו בממשלה הזאת. חלק יתמכו בה מבחוץ. וחלק פשוט לא יעמדו בדרכה. כל אחד מאיתנו בחר בתפקיד הזה בגלוי, מולכם.
@@ -87,18 +85,17 @@
 > منذ السابع من أكتوبر عرفت هذه البلاد ألمًا رهيبًا.
 > أُدين كل عمل إرهابي وكل مسٍّ متعمَّد بالأبرياء، أيًّا كان الفاعل وأيًّا كانت الضحية.
 > أُدين المجزرة التي ارتكبتها حماس في السابع من أكتوبر: القتل والاغتصاب والاختطاف.
-> وأنعى كل حياة بريئة فُقدت منذ ذلك اليوم، إسرائيليين وفلسطينيين على حد سواء.
+> وأنعى كل حياة بريئة فُقدت منذ ذلك اليوم، إسرائيليين وفلسطينيين على حد سواء، بما في ذلك في غزة.
 >
 > هذه التزاماتنا.
 >
-> - أن نضمن ألّا تعود الحرب.
 > - أن نعيد المخطوفين المتبقين والقتلى إلى بيوتهم.
-> - أن نضمن ألّا تحكم حماس غزة وألّا تستطيع تهديد مواطني إسرائيل.
+> - أن نضمن ألّا تحكم حماس غزة وألّا تستطيع تهديد مواطني إسرائيل، وأن نعمل بذلك لضمان ألّا تعود الحرب.
 > - أن نقيم لجنة تحقيق رسمية في السابع من أكتوبر.
 > - أن نوقف الإرهاب اليهودي، عنف أقلية متطرفة صغيرة، بكامل قوة القانون.
 > - أن نُخلي البؤر الاستيطانية غير القانونية، وألّا يكون أي ضمّ في هذه السنوات الأربع.
 > - أن نحارب الجريمة التي تقتل المواطنين العرب: بأموال حقيقية، وعمل شرطي حقيقي، ونتائج يمكن عدّها.
-> - أن نوقف هدم البيوت القائمة للعائلات، وأن نعترف بالقرى في النقب التي تنتظر منذ عقود.
+> - أن نوقف هدم البيوت القائمة والمأهولة للعائلات، وأن نمضي في تنظيم القرى في النقب التي تنتظر منذ عقود والاعتراف بها.
 > - أن نكون حكومةً لكل مواطني إسرائيل، يهودًا وعربًا على حد سواء: مواطنين متساوين، كما وعدت وثيقة الاستقلال.
 >
 > بعضنا سيجلس في هذه الحكومة. وبعضنا سيدعمها من الخارج. وبعضنا ببساطة لن يقف في طريقها. كلٌّ منا اختار دوره علنًا، أمامكم.
@@ -114,8 +111,8 @@
 | Line | Source in framework | Notes |
 |---|---|---|
 | "we still disagree… none of us has given up" | Clause 3 | The bridge that lets Balad and Bennett share a stage |
-| Condemn all terror, Hamas massacre, mourn Israelis and Palestinians alike | Clauses 7–8 | Hadash, Ta'al and Balad accepted naming the Hamas massacre because the mourning is symmetric |
-| War does not return; hostages and fallen home; Hamas does not rule Gaza or threaten citizens | Clause 9 (partial) | This is Balad's own round-1 wording. "Disarm" and "terror organization" are left out of the joint reading; the Zionist leaders say them in their own remarks |
+| Condemn all terror, Hamas massacre, mourn Israelis and Palestinians alike, including in Gaza | Clauses 7–8 | Hadash, Ta'al and Balad accepted naming the Hamas massacre because the mourning is symmetric |
+| Hostages and fallen home; Hamas does not rule Gaza or threaten citizens, and so we work to ensure the war does not return | Clause 9 (partial) | Balad's round-1 wording, ordered as Yisrael Beiteinu asked and with Yashar's "work to ensure". "Disarm" and "terror organization" are left out of the joint reading; the Zionist leaders say them in their own remarks |
 | State commission | Clause 11 | No party objected |
 | Jewish terror, small extremist minority, outposts, no annexation | Clauses 10, 13, 14 | Lieberman's "small minority" framing; "illegal outposts" uses the Arab parties' own term, in all three languages |
 | Crime, demolitions, Negev villages | Clauses 16, 18, 19 | "Real policing" rather than naming the Shin Bet, which Balad and Hadash object to |
@@ -129,5 +126,7 @@
 - "Palestinian people" and "occupation": Lieberman and Bennett would not say either on camera.
 
 Each leader is free to make these points in their own remarks immediately afterward.
+
+**Round 4 (TV check):** all nine leaders would read this version word for word. The changes from the first draft came from Yashar ("work to ensure"), Yisrael Beiteinu (war line tied to Hamas), Bennett (Negev wording), and Hadash and Balad ("including in Gaza", already in clause 7). See `reviews/round_4/`.
 
 *This document is a simulation exercise based on the parties' public positions. It does not speak for any party.*

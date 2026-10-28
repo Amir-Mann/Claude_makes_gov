@@ -1,0 +1,26 @@
+[
+ {"tier_en": "Government parties: sign the joint public statement and the full Framework",
+  "tier_he": "מפלגות הממשלה: חותמות על ההצהרה הפומבית המשותפת ועל מסגרת העקרונות במלואה",
+  "tier_ar": "أحزاب الحكومة: توقّع على البيان العلني المشترك وعلى إطار المبادئ كاملًا",
+  "signers": [
+   {"name": "Gadi Eisenkot · גדי איזנקוט · غادي آيزنكوت", "party_en": "Yashar", "party_he": "ישר!", "party_ar": "يشار", "scope": "Prime Minister-designate"},
+   {"name": "Naftali Bennett · נפתלי בנט · نفتالي بينيت", "party_en": "Together (Bennett)", "party_he": "ביחד", "party_ar": "معًا", "scope": "With reservation (Annex 2)"},
+   {"name": "Yair Lapid · יאיר לפיד · يائير لبيد", "party_en": "Together (Yesh Atid)", "party_he": "ביחד (יש עתיד)", "party_ar": "معًا (يش عتيد)", "scope": ""},
+   {"name": "Avigdor Lieberman · אביגדור ליברמן · أفيغدور ليبرمان", "party_en": "Yisrael Beiteinu", "party_he": "ישראל ביתנו", "party_ar": "يسرائيل بيتينو", "scope": "With reservation (Annex 2)"},
+   {"name": "Yair Golan · יאיר גולן · يائير غولان", "party_en": "The Democrats", "party_he": "הדמוקרטים", "party_ar": "الديمقراطيون", "scope": "With reservation (Annex 2)"}
+  ]},
+ {"tier_en": "Parliamentary agreement: signs the joint public statement and Chapter E, with the framework clauses it refers to",
+  "tier_he": "הסכם פרלמנטרי: חותמת על ההצהרה הפומבית המשותפת ועל פרק ה', על הסעיפים שאליהם הוא מפנה",
+  "tier_ar": "الاتفاق البرلماني: توقّع على البيان العلني المشترك وعلى الفصل هـ، مع بنود الإطار التي يحيل إليها",
+  "signers": [
+   {"name": "Mansour Abbas · מנסור עבאס · منصور عباس", "party_en": "Ra'am", "party_he": "רע\"מ", "party_ar": "القائمة العربية الموحدة", "scope": "Service Law vote as conditioned in clause 21"}
+  ]},
+ {"tier_en": "Safety-net declaration: sign the joint public statement and Annex 1 only, with their Annex 2 reservations",
+  "tier_he": "הצהרת רשת ביטחון: חותמות על ההצהרה הפומבית המשותפת ועל נספח 1 בלבד, בכפוף להסתייגויותיהן בנספח 2",
+  "tier_ar": "إعلان شبكة الأمان: توقّع على البيان العلني المشترك وعلى الملحق 1 فقط، مع تحفظاتها في الملحق 2",
+  "signers": [
+   {"name": "Yousef Jabareen · יוסף ג'בארין · يوسف جبارين", "party_en": "Hadash", "party_he": "חד\"ש", "party_ar": "الجبهة الديمقراطية للسلام والمساواة", "scope": "Head of the Joint List"},
+   {"name": "Ahmad Tibi · אחמד טיבי · أحمد الطيبي", "party_en": "Ta'al", "party_he": "תע\"ל", "party_ar": "الحركة العربية للتغيير", "scope": ""},
+   {"name": "Bakr Awawdeh · בכר עוואודה · بكر عواودة", "party_en": "Balad", "party_he": "בל\"ד", "party_ar": "التجمع الوطني الديمقراطي", "scope": "Balad Knesset faction head"}
+  ]}
+]

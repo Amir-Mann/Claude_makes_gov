@@ -38,19 +38,53 @@ def tv_section(lang_heading):
 def framework(file):
     text = (ROOT / file).read_text()
     text = text.split("\n---\n*", 1)[0]  # drop simulation footer; restated once in the PDF
-    return md(text)
+    # Clause numbers are not a Markdown list: render "12." / "6a." as bold paragraph labels so numbering never restarts.
+    # Sources indent sub-bullets by 3 or 6 spaces; Python-Markdown nests on 4.
+    lines, out = text.splitlines(), []
+    for i, line in enumerate(lines):
+        indent = len(line) - len(line.lstrip(" "))
+        body = line.strip()
+        m = re.match(r"^(\d+[a-zא-ת؀-ۿ]?)\. (.*)", body) if indent == 0 else None
+        if m:
+            out += ["", f"**{m.group(1)}.** {m.group(2)}"]
+            continue
+        is_item = body.startswith("- ")
+        if is_item and out and out[-1].strip() and not out[-1].lstrip().startswith("- "):
+            out.append("")
+        if not is_item and out and out[-1].lstrip().startswith("- ") and body and indent < 6:
+            out.append("")
+        out.append(("    " if indent >= 6 else "") + body)
+        if body.startswith("**") and i + 1 < len(lines) and lines[i + 1].startswith("**"):
+            out[-1] += "  "
+    return md("\n".join(out))
 
 
-SIGNERS = json.loads((ROOT / "signatories.json").read_text())
+TIERS = json.loads((ROOT / "signatories.json").read_text())
 
-sig_blocks = "".join(f"""
+
+def sig_block(s):
+    return f"""
 <div class="sig">
-  <div class="sig-name">{s['name']}</div>
-  <div class="sig-party">{s['party_en']} · <span dir="rtl">{s['party_he']}</span> · <span dir="rtl">{s['party_ar']}</span></div>
+  <div class="sig-name">{" · ".join(f"<bdi>{n}</bdi>" for n in s['name'].split(" · "))}</div>
+  <div class="sig-party"><bdi>{s['party_en']}</bdi> · <bdi>{s['party_he']}</bdi> · <bdi>{s['party_ar']}</bdi></div>
   <div class="sig-scope">{s['scope']}</div>
   <div class="sig-line"></div>
   <div class="sig-labels"><span>Signature · חתימה · التوقيع</span><span>Date · תאריך · التاريخ</span></div>
-</div>""" for s in SIGNERS)
+</div>"""
+
+
+# One page per tier: Yisrael Beiteinu would not sign on the same page as Balad (round 4).
+sig_pages = "".join(f"""
+<div class="part">
+  <h1>Signatures · חתימות · التوقيعات ({i}/{len(TIERS)})</h1>
+  <h2>{t['tier_en']}</h2>
+  <p class="he">{t['tier_he']}</p>
+  <p class="ar">{t['tier_ar']}</p>
+  <div class="sig-grid">{"".join(sig_block(s) for s in t['signers'])}</div>
+  <div class="note">This document is a simulation exercise based on the parties' public positions. It does not speak for any party.<br>
+  <span class="he">מסמך זה הוא תרגיל סימולציה המבוסס על עמדותיהן הפומביות של המפלגות, ואינו מדבר בשם אף מפלגה.</span><br>
+  <span class="ar">هذه الوثيقة تمرين محاكاة يستند إلى المواقف العلنية للأحزاب، ولا تتحدث باسم أي حزب.</span></div>
+</div>""" for i, t in enumerate(TIERS, 1))
 
 html = f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {font_face('NotoSans','noto-sans-latin-400-normal.woff2',400)}
@@ -61,7 +95,7 @@ html = f"""<!doctype html><html><head><meta charset="utf-8"><style>
 {font_face('NotoAr','noto-naskh-arabic-arabic-700-normal.woff2',700)}
 @page {{ size: A4; margin: 14mm 13mm 16mm; }}
 body {{ font-family: 'NotoSans','NotoHeb','NotoAr',sans-serif; color:#1a1a1a; font-size:9.6pt; line-height:1.38; }}
-h1 {{ font-size:15pt; margin:0 0 4pt; }} h2 {{ font-size:11.5pt; margin:10pt 0 3pt; border-bottom:1px solid #bbb; padding-bottom:2pt; }}
+h1 {{ font-size:15pt; margin:0 0 4pt; }} h2, h3 {{ break-after:avoid; }} h2 {{ font-size:11.5pt; margin:10pt 0 3pt; border-bottom:1px solid #bbb; padding-bottom:2pt; }}
 p {{ margin:3pt 0; }} ul {{ margin:2pt 0; padding-inline-start:16pt; }} li {{ margin:1pt 0; }}
 table {{ border-collapse:collapse; width:100%; font-size:8.6pt; margin:4pt 0; }}
 td,th {{ border:1px solid #ccc; padding:3pt 4pt; vertical-align:top; text-align:start; }}
@@ -98,16 +132,7 @@ td,th {{ border:1px solid #ccc; padding:3pt 4pt; vertical-align:top; text-align:
 <div class="part he">{framework('statement_he.md')}</div>
 <div class="part ar">{framework('statement_ar.md')}</div>
 
-<div class="part">
-  <h1>Signatures · חתימות · التوقيعات</h1>
-  <p>Each leader signs the joint public statement (page 1) and the instrument named under their name. Reservations are recorded in Annex 2.<br>
-  <span class="he">כל מנהיג/ה חותם/ת על ההצהרה הפומבית המשותפת (עמוד 1) ועל המסמך המצוין תחת שמו/ה. ההסתייגויות מפורטות בנספח 2.</span><br>
-  <span class="ar">يوقّع كل قائد على البيان العلني المشترك (الصفحة 1) وعلى الوثيقة المذكورة تحت اسمه. التحفظات مسجلة في الملحق 2.</span></p>
-  <div class="sig-grid">{sig_blocks}</div>
-  <div class="note">This document is a simulation exercise based on the parties' public positions. It does not speak for any party.<br>
-  <span class="he">מסמך זה הוא תרגיל סימולציה המבוסס על עמדותיהן הפומביות של המפלגות, ואינו מדבר בשם אף מפלגה.</span><br>
-  <span class="ar">هذه الوثيقة تمرين محاكاة يستند إلى المواقف العلنية للأحزاب، ولا تتحدث باسم أي حزب.</span></div>
-</div>
+{sig_pages}
 </body></html>"""
 
 out_html = FONTS.parent / "coalition_statement.html"
