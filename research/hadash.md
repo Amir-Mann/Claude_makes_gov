@@ -1,148 +1,296 @@
-# HADASH (חד"ש / الجبهة الديمقراطية للسلام والمساواة) — stage-A dossier
+# HADASH (חד"ש / الجبهة الديمقراطية للسلام والمساواة): stage-A dossier, run 2
 
-Prepared 2026-10-28 by the Hadash agent. Q = verbatim quote; P = paraphrase from the cited outlet. Where the only source is
-general background knowledge (not re-verified online in this session) it is marked **[bg, unverified]**.
+Prepared 28 Oct 2026 by the simulated Hadash negotiating team. This is a simulation and does not speak for the real party.
+
+**Labels used below:**
+- **Q** marks a verbatim quote at the cited URL, in the language shown.
+- **Q-tr** marks a verbatim quote of a published translation, for example an English outlet translating Arabic or Hebrew speech.
+- **P** marks a paraphrase.
+- **[bg]** marks background knowledge that was not re-verified in this session.
+
+The web-search budget for the session ran out partway through stage A. Later checks used WebFetch on known URLs only. Section 8 lists what remains open.
 
 ---
 
-## 1. Identity
+## 0. Verification log of the run-1 file
 
-- **Party:** Hadash, the Democratic Front for Peace and Equality. It is an Arab-Jewish front founded in 1977 around the Israeli Communist Party (Maki/Rakah). In 2026 it runs inside the **Joint List (הרשימה המשותפת / القائمة المشتركة)**: Hadash + Ta'al + Balad. Ra'am runs separately. ([Al Jazeera encyclopedia, 28.10.2026](https://www.aljazeera.net/encyclopedia/2026/10/28/%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D8%AA%D8%AD%D8%A7%D9%84%D9%81); [ToI 8.9.2026](https://www.timesofisrael.com/liveblog_entry/joint-list-submits-knesset-slate-vows-to-fight-racism-and-supremacy/))
-- **Leader:** Prof. **Yousef Jabareen** (b. 1972, Umm al-Fahm; law professor; MK 2015–2021; founder of the Dirasat center). Hadash's National Council elected him chairman on 16 May 2026, succeeding Ayman Odeh. He heads the Joint List. ([Al Jazeera bio, 28.10.2026](https://www.aljazeera.net/encyclopedia/2026/10/28/%D9%8A%D9%88%D8%B3%D9%81-%D8%AC%D8%A8%D8%A7%D8%B1%D9%8A%D9%86-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9); [Wikipedia](https://en.wikipedia.org/wiki/Yousef_Jabareen); [alhourriah](https://alhourriah.org/article/169328))
-- **2026 Joint List slate:** The CEC list as of 14.10.2026, after Balad chair Sami Abu Shehadeh withdrew on 2.10, runs: 1 Jabareen (H), 2 Ahmad Tibi (T), 3 Faten Ghattas (H), 4 Bakr Awawdeh (B), 5 **Ofer Cassif (H)**, 6 Youssef Atawna (H, Negev Bedouin), 7 Maha Karkabi (B), 8 Ahmad Darawshe (T), 9 Nihaya Washahi (H), 10 Hassan Alnasasra (B), 11 Haitham Zahalka (T), 12 Ayas Natour (H), 13 Ghassan Abdallah (T), 14 Orly Noy (B)… The list also carries symbolic slots: **Ayman Odeh is no. 108**, Mohammad Barakeh no. 118, Dov Khenin no. 103, Tamar Gozansky no. 111. Aida Touma-Sliman appears to be on the list only symbolically (no. 109 is transliterated "Salim Toma Aida"), so she is **not** in the incoming Knesset. ([Israel Elects/MEF slate page](https://israelvote.meforum.org/parties/joint-list/)) Hadash therefore probably holds about 6 of the 12 seats: Jabareen, Ghattas, Cassif, Atawna, Washahi, Natour.
-- **Disqualification saga:** The CEC voted 18–5 (23–24.9.2026) to bar the whole Joint List, and separately Cassif, alleging links to terrorism. It did so against the Attorney-General's opinion that the evidence was insufficient. On **2.10.2026 the Supreme Court unanimously overturned** the list ban and overturned Cassif's ban 7–2. At the hearing on 1.10 the justices pressed Balad's Abu Shehadeh over Oct 7/Hamas. He withdrew his candidacy on the court's recommendation. ([ToI](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/); [Al Jazeera 2.10.2026](https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties); [JPost](https://www.jpost.com/israel-news/politics-and-diplomacy/article-910271); [ToI liveblog 1.10.2026](https://www.timesofisrael.com/liveblog-october-01-2026/))
-- **Seats:** The brief's preliminary count gives the Joint List **12**. Al Jazeera (28.10) reports 11, and some Arabic outlets report 12–13 at about 70–78% counted ([eremnews](https://www.eremnews.com/news/world/qx7ymts)). The count is not final.
-- **Base:** Arab citizens (Galilee, Triangle, Negev, mixed cities), a small Jewish radical-left constituency, and the trade-union/communist tradition.
-- **Ideology in three lines:** (1) Peace, meaning an end to the 1967 occupation and a Palestinian state on the 4 June 1967 lines beside Israel. (2) Full civil **and national** equality for Arab citizens as a national minority. (3) Socialism and workers' rights, Arab-Jewish partnership, democracy, women's rights and secularism.
+| # | Run-1 claim | Status | Source | Note |
+|---|---|---|---|---|
+| 1 | Jabareen succeeded Odeh as Hadash chairman on 16 May 2026 | **CONFIRMED** | [Morning Star 17.5.2026](https://morningstaronline.co.uk/node/249544); [JPost](https://www.jpost.com/israel-news/politics-and-diplomacy/article-904480); [en.wiki](https://en.wikipedia.org/wiki/Yousef_Jabareen), which cites Walla 16.5.2026 | The convention was held at Deir Hanna with about 1,000 electors, and he beat Dr Shukri Awawdeh. Sources disagree on his share: ground.news gives 82% and [ashams](https://ashams.com/article/414968) gives 74%. Odeh did not run again; he is outgoing and symbolic at no. 108. |
+| 2 | Jabareen heads the 2026 Joint List | **CONFIRMED** | [ToI 8.9.2026](https://www.timesofisrael.com/liveblog_entry/joint-list-submits-knesset-slate-vows-to-fight-racism-and-supremacy/) | Some Arabic outlets call Tibi "رئيس كتلة القائمة المشتركة" ([aljadeed](https://www.aljadeed.tv/news/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/593737/)). That title probably means the Knesset faction head, a separate role from list chair. **UNVERIFIED** |
+| 3 | The Joint List is Hadash, Ta'al and Balad, with Ra'am running separately | **CONFIRMED** | ToI 8.9.2026 (as above) | Makom LeKulanu withdrew before the filing deadline. The Joint List and Ra'am signed a surplus-vote agreement ([en.wiki election page](https://en.wikipedia.org/wiki/2026_Israeli_legislative_election)). |
+| 4 | Slate order: 1 Jabareen, 2 Tibi, 3 Ghattas, 4 Awawdeh, 5 Cassif, 6 Atawna, 7 Karkabi, 8 Darawshe, 9 Washahi, 10 Alnasasra, 11 Zahalka, 12 Natour, 13 G. Abdallah, 14 Noy | **CONFIRMED** (final order) | [MEF slate page](https://israelvote.meforum.org/parties/joint-list/) | The order as filed on 8.9 was 1 Jabareen, 2 Tibi, 3 Abu Shehadeh, 4 Ghattas, 5 Awawdeh, 6 Cassif, 7 Atawna, 15 Noy (ToI 8.9). Everyone moved up one place after Abu Shehadeh withdrew on 2.10. |
+| 5 | Hadash's internal no. 2 is unresolved between Jafar Farah and Faten Ghattas | **CORRECTED** | [Arab48 7.9.2026](https://www.arab48.com/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/2026/09/07/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AC%D8%A8%D9%87%D8%A9-%D9%8A%D9%86%D8%B9%D9%82%D8%AF-%D9%81%D9%8A-%D8%B4%D9%81%D8%A7%D8%B9%D9%85%D8%B1%D9%88-%D9%84%D8%AD%D8%B3%D9%85-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD-%D8%AC%D8%B9%D9%81%D8%B1-%D9%81%D8%B1%D8%AD) | Farah won the no. 2 slot in May. On 7.9 the Hadash council withdrew his candidacy over sexual-harassment testimonies, which he denies. Q "انتخب مجلس الجبهة فاتن غطاس للموقع الثاني في القائمة". The issue is resolved. |
+| 6 | Hadash holds about 6 of the 12 seats | **CONFIRMED by arithmetic** | MEF slate page plus the seat count | At 12 seats the split is Hadash 6 (Jabareen, Ghattas, Cassif, Atawna, Washahi, Natour), Ta'al 3 and Balad 3. At 13 seats the extra seat goes to Ta'al's Ghassan Abdallah. |
+| 7 | Odeh is no. 108 and Touma-Sliman holds a symbolic slot | **PARTLY CONFIRMED** | MEF; [en.wiki election page](https://en.wikipedia.org/wiki/2026_Israeli_legislative_election) | Odeh at no. 108 is confirmed. Wikipedia says Odeh and Touma-Sliman "did not stand again". The no. 109 entry is unclear. Barakeh at 118 and Khenin at 103 were **NOT FOUND** on the MEF page; their status is UNVERIFIED. |
+| 8 | The CEC voted 18–5 to bar the Joint List and Cassif, and the Supreme Court overturned both on 2.10 | **PARTLY CONFIRMED** | [ToI](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/) | Confirmed: the court ruled 9–0 for the Joint List **and Ra'am**, and 7–2 for Cassif. Abu Shehadeh withdrew after President Amit signalled a majority to bar him. The 18–5 vote count is **UNVERIFIED**. |
+| 9 | Seats: Joint List 12 | **CONFIRMED (preliminary)** | [al-Ittihad 28.10, 19:33](https://alittihad44.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9/news-2026-10-28-6b2ete) | At 88.62% counted the Joint List has 12. Ynet at 85.6% briefly showed 13 ([ynetnews](https://www.ynetnews.com/article/hjnatbkaml)). See section 1. |
+| 10 | 1977 six-point founding programme; site principles quoted | **CONFIRMED** | [en.wiki Hadash](https://en.wikipedia.org/wiki/Hadash); [hadash.org.il](https://hadash.org.il/) | The Hebrew quotes match the site. |
+| 11 | East Jerusalem as capital in the platform | **UNVERIFIED** | Not stated on en.wiki | Standard Hadash position [bg]. |
+| 12 | Meir Vilner signed the Declaration of Independence | **UNVERIFIED this session** | Not re-checked | Historically true [bg]. Do not rely on it in text. |
+| 13 | "Blocking bloc" of 1992–95: Hadash (3) and the ADP (2) kept Rabin's government alive from outside | **CONFIRMED** | [+972](https://972mag.com/rabins-legacy-a-government-inclusive-of-all-citizens-not-only-jews/113375/); [en.wiki 25th govt](https://en.wikipedia.org/wiki/Twenty-fifth_government_of_Israel) | The government was "supported, but not joined, by Hadash and the Arab Democratic Party". The detail that support was exchanged for **separate written Labor commitment letters** is **UNVERIFIED** (the palestine-studies page returned 403). +972 describes the support as conditional on peace and equality. |
+| 14 | In Aug 2019 Odeh offered to **join** a centre-left government, on four sets of conditions | **PARTLY CONFIRMED** | [Al-Monitor](https://al-monitor.com/originals/2019/09/israel-arabs-ayman-odeh-benny-gantz-joint-list-bluewhite.html) | Q-tr "I am ready to join a center-left government" (Yedioth, 30.8.2019). The four condition categories were not in the Al-Monitor text and remain **UNVERIFIED**. |
+| 15 | In Sept 2019, 10 of 13 MKs recommended Gantz and Balad refused | **CONFIRMED** | [JNS 23.9.2019](https://www.jns.org/joint-list-clarifies-only-10-mks-back-blue-and-white-not-13/) | |
+| 16 | In June 2021 Hadash voted against the Bennett–Lapid government | **CONFIRMED (inferred)** | [en.wiki 36th govt](https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel) | Hadash and Balad said they would not support it. The vote was 60–59 and the only abstention was Ra'am's al-Harumi. |
+| 17 | Hadash voted against the Nation-State Law, and Jabareen drafted a counter Basic Law | **CONFIRMED (counter-bill)** | [+972 6.2.2018](https://972mag.com/defying-racist-legislation-new-bill-seeks-to-turn-israel-into-a-true-democracy/132921/) | The bill was "Israel, a Democratic, Egalitarian, and Multi-cultural State", guaranteeing "complete civil, cultural, and national equality". Whether the Knesset rejected it is **UNVERIFIED**. |
+| 18 | The CPI/Hadash statement of 7.10.2023 condemned attacks on civilians and did not name Hamas | **CONFIRMED (Spanish translation only)** | [marxists.org](https://www.marxists.org/espanol/tematica/palestina/documentos/pci/pci-7-oct-2023.htm) | Q-tr (es) "repetimos nuestra condena inequívoca de cualquier ataque contra civiles inocentes". The Arabic or Hebrew original was not located. |
+| 19 | Odeh's impeachment in July 2025 got 73 of the 90 votes needed | **CONFIRMED** | [ToI](https://www.timesofisrael.com/motion-to-expel-odeh-from-knesset-fails-to-pass-amid-heckling-by-coalition-members/); [JNS](https://www.jns.org/israel-news/motion-to-impeach-arab-knesset-lawmaker-fails-to-achieve-supermajority) | The vote was on 14.7.2025: 73 for and 15 against. It was triggered by his Jan 2025 post welcoming the release of "hostages and prisoners" ([JNS](https://www.jns.org/israel-news/arab-mk-welcomes-release-of-hostages-and-prisoners-causing-outrage)). |
+| 20 | The Cassif impeachment attempt in 2024 failed | **UNVERIFIED this session** | | [bg] |
+| 21 | Q (France24, 24.10) "I do not see, in the near future, a government that we could actually be part of" | **UNVERIFIED** | Searched in English and found nothing | The substance (outside support, not joining) is confirmed elsewhere, but **do not use as a quote**. |
+| 22 | N12 11.10: "תעניק רשת ביטחון לכל ממשלה שתחליף את נתניהו", plus the four demands | **CONFIRMED** | [Mako 11.10.2026](https://www.mako.co.il/news-israel-elections/2026/Article-b20b4b0c0da21a1026.htm) | The safety-net line is N12's third-person wording ("[the list] will give"), not Jabareen's own first-person speech. The four demands are confirmed verbatim. |
+| 23 | 103FM, 13.10: quotes on the crime plan, a "Palestinian state within the 67' borders", "not naive", "no automatic support / blank check", and no coercion on national service | **CONFIRMED (English translation)** | [INN](https://www.israelnationalnews.com/news/434541); [JNS 14.10](https://www.jns.org/news/israel-news/joint-list-chief-no-backing-for-next-govt-without-progress-toward-palestinian-state) | The national-service quote is Q-tr "We will not accept any coercion from the authorities into an arrangement related to national service." Per JNS, Jabareen said he would not recommend a PM or back a government without negotiations. |
+| 24 | Slate-launch quotes of 8.9 | **CONFIRMED** | ToI 8.9.2026 (as above) | |
+| 25 | Ynet closing pitch of about 25.10: three Hebrew quotes | **2 CONFIRMED, 1 UNVERIFIED** | [Ynet](https://www.ynet.co.il/news/elections2026/article/h1qbon52fe) | Confirmed: "הצבעה למשותפת…" and "…נגד מלחמות הנצח, ובעד שלום צודק". **Not found** in the text: "באופוזיציה לא מדברים על פתרון מדיני. אנחנו מציעים שלום". It may be a headline paraphrase. |
+| 26 | nasapp, 8.10: "لن نمنح دعمًا سياسيًا دون شروط واضحة" | **UNVERIFIED this session** | Not re-fetched | The substance matches other sources. |
+| 27 | ToI 11.10: "full freedom of action, with no limits…" and "we'll impose our conditions on any political constellation" | **CONFIRMED (translation of Arabic)** | [ToI 11.10](https://www.timesofisrael.com/joint-list-says-it-will-provide-safety-net-for-any-anti-netanyahu-coalition-report/) | |
+| 28 | Al-Quds, 14.10: he "condemned atrocities against civilians from the first day", rejects the right's terminology, and refuses to join a coalition that "perpetuates the occupation, protects settler terrorism" or continues demolitions | **CONFIRMED as P** | [Al-Quds EN 14.10](https://alquds.com/en/posts/262033-jabareen-the-joint-list-is-in-no-one-s-pocket-and-our-conditions-for-change-are) | This is third-person reporting and not usable as a direct quote. |
+| 29 | Kipa, 28.10: "אנחנו מוכנים וערוכים לסלול את הדרך להדחת ממשלת נתניהו" and "מול ממשלת הדמים…" | **CONFIRMED** | [Kipa 28.10, 13:54](https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%A4%D7%95%D7%9C%D7%99%D7%98%D7%99/1234944-0/) | |
+| 30 | Channel 13, 28.10: "Anyone who wants to offer a substantive and genuine alternative…will have to talk to us" | **CONFIRMED (English)** | [ToI 28.10](https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/) | |
+| 31 | Election night: Q "This is a historic day" | **CONFIRMED (Hebrew form)** | [Walla 28.10, 11:17](https://www.walla.co.il/news/breaking-news/383959208) | Q "זה היה יום היסטורי, שבו הציבור הערבי הביע תמיכה מוחלטת ברשימה המשותפת". |
+| 32 | Q "ממשלת נתניהו, בן גביר וסמוטריץ' מיררה את חייו של כל אזרח ערבי…" | **CORRECTED** | Walla does not carry this wording. [Ynetnews](https://www.ynetnews.com/article/hjnatbkaml) has Q-tr "The Netanyahu and Ben-Gvir government has made the lives of every Arab citizen miserable" | The Hebrew original is **UNVERIFIED**. Use the English form. |
+| 33 | Tibi will back a change-bloc Knesset Speaker to replace Ohana | **CONFIRMED as P** | Kipa 28.10 (as above) | |
+| 34 | Eisenkot said he would not ally with Arab-led parties | **CONFIRMED and STRENGTHENED** | [PBS/AP 16.10](https://www.pbs.org/newshour/world/arab-led-parties-could-decide-the-israeli-election-if-anyone-would-partner-with-them); ToI 28.10 | On the morning after the election Eisenkot said Q-tr "I will do my utmost to form a Zionist government" (ToI 28.10). During the campaign he reportedly set coalition conditions: a Jewish and democratic state, mandatory service, and Hamas as a terror group to be dismantled (P, search summaries of JNS/ToI). The exact wording is **UNVERIFIED**. |
+| 35 | Ra'am will join and may seek a National Security deputy post | **CONFIRMED as ToI analysis** | ToI 28.10 (as above) | Ra'am is "likely to seek" such a post. |
+| 36 | Touma-Sliman Berlin remark on Hamas, reported by JNS | **UNVERIFIED this session** | Not re-fetched | She is not in the 26th Knesset in any case. |
+| 37 | 2026 homicide figures: 252 in 2025, 161 by about September 2026 | **UNVERIFIED this session** | Not re-fetched | |
+| 38 | Divergence flag: in 2026 Hadash offers a net to "any government that will replace Netanyahu", softening from 2021 | **CONFIRMED but QUALIFIED** | Mako 11.10; [Joint List statement 28.10](https://www.arab48.com/الأخبار/أخبار-عاجلة/2026/10/28/القائمة-المشتركة-المشتركة-شعبنا-صنع-إنجازا-تاريخيا-مستعدون-للتعاون-لإسقاط-حكومة-نتنياهو) | After the election the offer is conditional on a "real alternative" that "rejects the exclusion" of Arab citizens and commits to their demands. It is not unconditional. |
+| 39 | Two states has been a **consistent** position for 49 years | **QUALIFIED** | [Outlook India 20.10.2026](https://www.outlookindia.com/international/yousef-jabareen-israel-election-two-state-solution) | Jabareen reportedly said the party "does not insist" on two states and that Palestinians could accept a single state with full civil and voting rights. Outlook adds: "His comments do not amount to a formal change in the Joint List's stated policy." His 25.10 Ynet op-ed reaffirms Q "שתי מדינות בגבולות 1967". **New, and rivals will exploit it.** |
+| 40 | Nation-State Law repeal is absent from the 2026 four demands | **CONFIRMED** | Mako 11.10 | |
 
-## 1b. Ideological foundations (long-term positions)
+---
 
-- **Founding charter (1977), six principles:** (1) peace based on total Israeli withdrawal from the territories occupied in 1967, Palestinian self-determination and an independent state alongside Israel, and PLO participation in the peace conference; (2) workers' rights; (3) equality for Arab citizens as a national minority; (4) an end to discrimination against Mizrahi Jews; (5) defense of democratic freedoms against fascism; (6) women's rights and secularism. ([Wikipedia: Hadash](https://en.wikipedia.org/wiki/Hadash)) The current site still lists these principles, e.g. Q: "שלום ישראלי-פלסטיני וישראלי-ערבי צודק, כולל ויציב"; "שוויון האוכלוסייה הערבית בישראל"; "ביטול האפליה העדתית בכל התחומים…"; "הגנת החירויות הדמוקרטיות"; "שוויון זכויות האישה בכל התחומים". ([hadash.org.il](https://hadash.org.il/), accessed 28.10.2026)
-- **Later platform:** evacuation of settlements; full withdrawal to the 1967 lines; a Palestinian state in the West Bank and Gaza with East Jerusalem as its capital **[bg]**; refugees' right of return or compensation per UN resolutions; recognition of Palestinian Arab citizens as a national minority. ([Wikipedia: Hadash](https://en.wikipedia.org/wiki/Hadash))
-- **Communist lineage and recognition of Israel:** Hadash traces to Maki, which accepted the 1947 partition. Meir Vilner signed the Declaration of Independence **[bg, unverified]**. Hadash has always accepted Israel's existence within the 1967 lines (the two-state "Green Line" camp). This separates it from Balad's "state of all its citizens" nationalism, though Hadash also rejects ethnic-national definitions that discriminate.
-- **Precedent of the "blocking bloc" (גוש חוסם / الجسم المانع), 1992–95:** Hadash (3 seats) and the Arab Democratic Party (2) kept Rabin's minority government alive from outside without joining. They blocked no-confidence motions in exchange for separate Labor letters of commitment on peace and equality. The arrangement grew out of a 1990 Alignment–Hadash understanding. ([palestine-studies chronology 12.7.1992](https://chronology.palestine-studies.org/node/9566); [+972](https://972mag.com/rabins-legacy-a-government-inclusive-of-all-citizens-not-only-jews/113375/); [Wikipedia ADP](https://en.wikipedia.org/wiki/Arab_Democratic_Party_(Israel))) **This is Hadash's foundational model, and its 2026 "safety net" offer explicitly mirrors it.** Hadash narrates the Rabin period as its greatest achievement: Oslo, plus the large equality budgets of 1992–95 **[bg]**.
-- **2019–2020 Gantz recommendations:** In August 2019 Ayman Odeh told Yedioth (Nahum Barnea) he was willing to **join** a centre-left coalition under four categories of conditions: planning/housing (repeal of the Kaminitz Law), violence, welfare, and politics (renewing talks with the Palestinians and rolling back the Nation-State Law). Blue and White rebuffed him. ([Al-Monitor Sept 2019](https://al-monitor.com/originals/2019/09/israel-arabs-ayman-odeh-benny-gantz-joint-list-bluewhite.html); [Asharq al-Awsat](https://english.aawsat.com/node/1868841)) In September 2019, 10 of 13 Joint List MKs (Hadash, Ta'al, Ra'am) recommended Gantz and Balad refused ([JNS](https://www.jns.org/joint-list-clarifies-only-10-mks-back-blue-and-white-not-13/); [Al Jazeera 23.9.2019](https://www.aljazeera.com/amp/news/2019/9/23/some-joint-list-members-reject-benny-gantz-endorsement)). After March 2020 the full Joint List recommended Gantz ([Wikipedia Joint List](https://en.wikipedia.org/wiki/Joint_List)).
-- **June 2021:** Hadash's MKs **voted against** the Bennett–Lapid government (with Ra'am inside), citing its right-wing guidelines. ([Wikipedia: 36th government](https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel); [The New Arab, on Odeh not being Bennett's "lifeline"](https://www.newarab.com/news/palestinian-politician-wont-be-israeli-pms-lifeline)) Precedent: **Hadash will not save a government merely for being "not Netanyahu"** if its platform is right-wing on occupation.
-- **Nation-State Law (2018):** Hadash voted against the law and joined the Joint List/Adalah High Court petitions. Jabareen personally drafted a counter Basic Law, "Israel, a Democratic, Egalitarian and Multicultural State", with full civil **and national** equality and recognition of the Arab citizens' collective national identity. The Knesset rejected it. ([+972](https://972mag.com/defying-racist-legislation-new-bill-seeks-to-turn-israel-into-a-true-democracy/132921/); [Jewish Virtual Library](https://jewishvirtuallibrary.org/yousef-jabareen); [al-ain on the petitions](https://al-ain.com/video/high-court-petition-national-law)) Jabareen's academic career centres on minority/national-collective rights for Palestinian citizens.
-- **Oct 7, 2023 (Communist Party of Israel / Hadash line):** The CPI statement of 7.10.2023 expressed "unequivocal condemnation of any attack on innocent civilians", sent condolences to "the families of the victims of the occupation, both Arab and Jewish", blamed "the crimes of the fascist Israeli government" and the occupation, and said "only one solution: end the occupation and recognise the legitimate rights of the Palestinian people". It did **not** name Hamas. (Spanish translation: [marxists.org](https://www.marxists.org/espanol/tematica/palestina/documentos/pci/pci-7-oct-2023.htm); Q in translation) Odeh later moved to unconditional condemnation of attacks on civilians, paired with condemnation of Israel's war in Gaza (critical reading: [ToI blog](https://blogs.timesofisrael.com/ayman-odehs-tweaked-messaging-is-still-awful/)). Touma-Sliman was attacked for saying at a Berlin panel that Hamas is "part of the Palestinian people". She later said "I did not doubt even for a moment the horrors of Oct[ober 7]". ([JNS](https://www.jns.org/israel-news/arab-knesset-member-says-hamas-part-of-palestinian-people))
-- **Impeachment attempts:** Cassif faced impeachment in 2024 after backing South Africa's ICJ case. It failed **[bg; not re-verified this session]**. Odeh faced impeachment in July 2025 over a January 2025 post welcoming the release of "hostages and prisoners". The plenum vote got 73 of the 90 votes needed and failed. ([Yahoo/JPost](https://www.yahoo.com/news/knesset-vote-oust-mk-ayman-173854353.html); [ToI](https://www.timesofisrael.com/liveblog_entry/knesset-committee-votes-to-advance-impeachment-of-arab-mk-ayman-odeh/))
+## 1. Identity and latest result
 
-**Divergence flags (recent vs. long-held):**
-1. *Join vs. support from outside.* Odeh in 2019 offered to **join** a coalition. Jabareen in 2026 offers only an **outside safety net**: Q (France24, 24.10.2026) "I do not see, in the near future, a government that we could actually be part of." This is a return to the 1992 model, not a break.
-2. *Not-Netanyahu as a goal.* In 2021 Hadash refused to back Bennett–Lapid. In 2026 it offers a safety net to "any government that will replace Netanyahu" ([Mako/N12 11.10.2026](https://www.mako.co.il/news-israel-elections/2026/Article-b20b4b0c0da21a1026.htm)). This is a real softening, driven by the "government of blood" framing, but it remains conditioned on four demands.
-3. *Oct 7 vocabulary.* The 2023 line condemned harm to civilians without naming Hamas. In 2026 the Joint List was pressed in court (Abu Shehadeh: Q "I condemn October 7 and all the massacres and atrocities that were committed"). Jabareen says Hadash "condemned atrocities against civilians from the first day" (P) but rejects the right's terminology (P) ([Al-Quds 14.10.2026](https://alquds.com/en/posts/262033-jabareen-the-joint-list-is-in-no-one-s-pocket-and-our-conditions-for-change-are)). There is no sign of a shift toward a "Hamas = terror organization" formula on its own.
-4. *Two states.* This position is **consistent** for 49 years: the 1967 lines and negotiations with the Palestinian leadership.
+- **Hadash** (Democratic Front for Peace and Equality) was founded on 7.3.1977 around Rakah, the Israeli Communist Party, together with Black Panthers, Arab local leaders and others ([en.wiki](https://en.wikipedia.org/wiki/Hadash)). It describes itself as an Arab-Jewish, socialist party.
+- **Leader: Prof. Yousef Jabareen**, born in Umm al-Fahm, a law professor and MK in 2015–21. He was elected Hadash chairman and list head on 16.5.2026, replacing Ayman Odeh after 11 years ([Morning Star](https://morningstaronline.co.uk/node/249544); [JPost](https://www.jpost.com/israel-news/politics-and-diplomacy/article-904480)).
+  - In his farewell, Odeh said: Q-tr "We support the re-establishment of the Joint List in its entirety."
+- **Reconstituted Joint List** (Hadash + Ta'al + Balad, without Ra'am), filed 8.9.2026. The final top 14 after Abu Shehadeh's withdrawal (sources: MEF; ToI):
 
-## 2. Platform / core promises (2026 campaign)
+  | # | Candidate | Party | # | Candidate | Party |
+  |---|---|---|---|---|---|
+  | 1 | Yousef Jabareen | Hadash | 8 | Ahmad Darawshe | Ta'al |
+  | 2 | Ahmad Tibi | Ta'al | 9 | Nihaya Washahi | Hadash |
+  | 3 | Faten Ghattas | Hadash | 10 | Hassan Alnasasra | Balad |
+  | 4 | Bakr Awawdeh | Balad | 11 | Haitham Zahalka | Ta'al |
+  | 5 | Ofer Cassif | Hadash (Jewish) | 12 | Ayas Natour | Hadash |
+  | 6 | Youssef Atawna | Hadash (Negev) | 13 | Ghassan Abdallah | Ta'al |
+  | 7 | Maha Karkabi | Balad | 14 | Orly Noy | Balad (Jewish) |
 
-- **The four post-election demands**, announced 10–11.10.2026 alongside the safety-net offer. N12 wording, Q Hebrew ([Mako 11.10.2026](https://www.mako.co.il/news-israel-elections/2026/Article-b20b4b0c0da21a1026.htm)):
-  1. "תוכנית אמיתית למאבק בארגוני הפשיעה ולשיפור הביטחון האישי." (A real plan to fight crime organizations and improve personal security.)
-  2. "פיתוח היישובים הערביים, קידום תוכניות מתאר למגורים ואזורי תעשייה, הפסקת הריסות הבתים וביטול הסנקציות של חוק קמיניץ." (Develop Arab localities, advance master plans for housing and industry, stop home demolitions, cancel the Kaminitz Law sanctions.)
-  3. "תוכניות ייחודיות לצעירים בתחומי הדיור, החינוך והתעסוקה." (Dedicated programs for youth in housing, education and employment.)
-  4. "אופק מדיני אמיתי ובר קיימה, המבוסס על מו"מ עם ההנהגה הפלסטינית." (A real, sustainable diplomatic horizon based on negotiations with the Palestinian leadership.)
-- **103FM interview, 13.10.2026** ([INN](https://www.israelnationalnews.com/news/434541); [JNS 14.10](https://www.jns.org/news/israel-news/joint-list-chief-no-backing-for-next-govt-without-progress-toward-palestinian-state)):
-  - Q "We demand a comprehensive, funded, and realistic plan to fight the criminal organizations"
-  - Q "Our diplomatic plan is the creation of a Palestinian state within the 67' borders."
-  - Q "I'm not naive enough to say that a Palestinian state will be established tomorrow"
-  - Q "There is no automatic support." / "We are not offering a blank check to anyone, certainly not to the opposition leadership"
-  - The horizon should move "toward recognizing the Palestinian people's right to self-determination" (Q fragment, JNS).
-  - He called the Palestinian-state item the **most important** of the four (P, JNS) and rejected "coercion" on national service for Arab youth (P).
-- **Slate launch, 8.9.2026:** the "only alternative to racism and supremacy"; against "the destruction of Gaza, ethnic cleansing in the West Bank"; "Only the Joint List will fight for equality, peace and genuine partnership". (Q English, [ToI](https://www.timesofisrael.com/liveblog_entry/joint-list-submits-knesset-slate-vows-to-fight-racism-and-supremacy/))
-- **Jabareen's closing pitch, about 25.10.2026** ([Ynet](https://www.ynet.co.il/news/elections2026/article/h1qbon52fe)):
-  - Q "הצבעה למשותפת היא לא רק מחאה על שנים איומות, אלא בחירה ערכית ומוסרית בדרך של שלום, שוויון ושותפות."
-  - Q "הרשימה המשותפת היא היחידה שמציבה עמדה עקבית ונחרצת נגד מלחמות הנצח, ובעד שלום צודק."
-  - Q "באופוזיציה לא מדברים על פתרון מדיני. אנחנו מציעים שלום"
-  - Headline: "החלפת ממשלת נתניהו - הצעד הראשון ההכרחי".
-- **Arabic interview (nasapp, about 8.10.2026):** Q headline "لن نمنح دعمًا سياسيًا دون شروط واضحة". Joining the coalition is not "الطريق الوحيد لتحقيق إنجازات" (Q). The commitments must cover "قضايا العنف والجريمة في المجتمع العربي" (reported). ([nasapp](https://www.nasapp.net/article/byqlmvrofl))
+- **Disqualification battle.** The CEC barred the Joint List, Ra'am, Cassif and Abu Shehadeh in September. On 2.10.2026 the Supreme Court reinstated the lists 9–0 and Cassif 7–2. Balad chair Abu Shehadeh withdrew after the court signalled a majority to bar him over an 8.10.2023 article ([ToI](https://www.timesofisrael.com/supreme-court-unanimously-overturns-election-panels-ban-on-arab-parties/)). This shapes Hadash's mood: the state tried to keep it off the ballot four weeks ago.
+- **Latest result.** At 88.62% counted (28.10.2026, 19:33) the Joint List has **12 seats**, Ra'am 7, Likud 26, Yashar 21 and Together 12. The blocs stand at Netanyahu 53 against an opposition of 67, made up of 48 Zionist opposition seats plus 19 Arab-party seats ([al-Ittihad](https://alittihad44.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9/news-2026-10-28-6b2ete)).
+  - Wikipedia's 14:32 snapshot at 89.8% gives 9.18% of the vote and 12 seats ([en.wiki](https://en.wikipedia.org/wiki/2026_Israeli_legislative_election)).
+  - Turnout among Arab citizens was about 75% ([Al-Quds 28.10](https://alquds.com/ar/posts/266295-joint-list-jabareen-netanyahu-government-election-results)).
+  - Double-envelope ballots were to finish counting on Thursday evening, 29.10 (Arab48), and the official results are due on 4.11.
+- **Hadash share: about 6 MKs.** The Joint List is the largest Arab list, roughly double Ra'am's vote.
 
-## 3. Red lines & promises regarding coalition partners
+## 2. Ideological foundations (lifelong)
 
-- **Safety net, not membership:** Q "תעניק רשת ביטחון לכל ממשלה שתחליף את נתניהו" (N12, 11.10). In the 10.10 Arabic video he spoke of "full freedom of action, with no limits, to replace the Netanyahu government" and said "After the election, we'll impose our conditions on any political constellation in Israel" (Q in ToI translation, [ToI 11.10.2026](https://www.timesofisrael.com/joint-list-says-it-will-provide-safety-net-for-any-anti-netanyahu-coalition-report/)).
-- **No joining a government that perpetuates the occupation:** P, Al-Quds 14.10. Al-Quds also reports opposition to any coalition that "protects settler terrorism" or continues Negev home demolitions (P).
-- **No recommendation to the President without negotiations** (P, INN 13.10).
-- **Netanyahu / Ben-Gvir / Smotrich:** absolute opposition. Q (Kipa 28.10.2026) "אנחנו מוכנים וערוכים לסלול את הדרך להדחת ממשלת נתניהו"; "מול ממשלת הדמים, מול פוליטיקה של עליונות, גזענות והדרה, אנחנו מציעים אלטרנטיבה אחרת לגמרי" ([Kipa](https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%A4%D7%95%D7%9C%D7%99%D7%98%D7%99/1234944-0/)). Q (Channel 13, 28.10) "Anyone who wants to offer a substantive and genuine alternative to Netanyahu's government of bloodshed will have to talk to us" ([ToI 28.10](https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/)).
-- **Election night, 27.10:** Q "This is a historic day" ([ToI](https://www.timesofisrael.com/arab-parties-revel-as-exit-polls-project-historic-gains-but-kingmaker-role-still-in-doubt/)). Next morning: Q "ממשלת נתניהו, בן גביר וסמוטריץ' מיררה את חייו של כל אזרח ערבי, והתשובה של האזרחים הערבים הגיעה אתמול" (via [Walla](https://www.walla.co.il/news/breaking-news/383959208) / [zman](https://www.zman.co.il/live/737380/); text as reported in search snippet, should be re-checked against the original). Tibi signalled support for a change-bloc Knesset speaker to replace Ohana (P, Kipa).
-- **Zionist partners:** Bennett and Liberman pledged not to rely on Arab parties. Eisenkot said he would not ally with Arab-led parties ([PBS 16.10.2026](https://www.pbs.org/newshour/world/arab-led-parties-could-decide-the-israeli-election-if-anyone-would-partner-with-them); [JNS](https://www.jns.org/news/israel-news/arab-joint-list-says-will-offer-outside-support-for-coalition-without-netanyahu)). Golan (Democrats) urged a government with Arab support (ToI 28.10). Hadash has no stated veto on any specific Zionist party except Likud and the far right. Its veto is on **policy**: occupation, settler terror, demolitions.
-- **Haredim:** no explicit 2026 red line found. Historically Hadash is secular but not anti-Haredi in coalition terms **[bg]**.
-- **Ra'am:** a rival. Ra'am is willing to **join** an Eisenkot coalition and may seek a National Security deputy post (ToI 28.10). Hadash must not look like it got less than Ra'am.
+- **The 1977 minimum programme** ([en.wiki](https://en.wikipedia.org/wiki/Hadash)):
+  1. Total withdrawal from the territories occupied in 1967, Palestinian self-determination and an independent state beside Israel, and the PLO at the peace talks.
+  2. Workers' rights.
+  3. Equality for Arab citizens, recognised as a **national minority**.
+  4. An end to discrimination against Mizrahim.
+  5. Defence of democracy against fascism.
+  6. Women's rights and secularism.
+- **Current site principles**, Q (Hebrew), [hadash.org.il](https://hadash.org.il/):
+  - "שלום ישראלי-פלסטיני וישראלי-ערבי צודק, כולל ויציב"
+  - "שוויון האוכלוסייה הערבית בישראל"
+  - "הגנת החירויות הדמוקרטיות"
+- **Later platform:** evacuation of all settlements, a Palestinian state in the West Bank and Gaza, and refugee return or compensation (en.wiki). East Jerusalem as the Palestinian capital is a standard position [bg].
+- **The Rabin precedent, 1992–95.** Labor had 44 seats, Meretz 12, Hadash 3 and the ADP (Mada) 2.
+  - After Shas left in September 1993, the 56-seat minority government survived because "Hadash and Mada would prevent the Right from toppling it" ([+972](https://972mag.com/rabins-legacy-a-government-inclusive-of-all-citizens-not-only-jews/113375/)).
+  - The support was given from outside, with no ministers, in exchange for movement on peace (Oslo, PLO recognition) and on narrowing Arab–Jewish gaps.
+  - **This is Hadash's model.** Arabic press on 28.10 reports that the list proposed a parliamentary شبكة أمان to Eisenkot "on the model of support for Rabin's government" (P, [Al-Quds 28.10](https://alquds.com/ar/posts/266496-arab-parties-condition-eisenkot-support-netanyahu)).
+  - **What made 1992 work:** the government had a peace agenda. Today's partners reject one.
+- **Recommendations in 2019–2020.** In Sept 2019, 10 of 13 Joint List MKs recommended Gantz ([JNS](https://www.jns.org/joint-list-clarifies-only-10-mks-back-blue-and-white-not-13/)). In 2019 Odeh even offered to join ([Al-Monitor](https://al-monitor.com/originals/2019/09/israel-arabs-ayman-odeh-benny-gantz-joint-list-bluewhite.html)).
+  - **The lesson Hadash drew:** Gantz used the recommendation and then went to Netanyahu in 2020. A recommendation is not given for free.
+- **June 2021.** Hadash and Balad would not support Bennett–Lapid. Precedent: Hadash does **not** back a government merely because it is "not Netanyahu" if its guidelines are right-wing ([en.wiki](https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel)).
+- **Nation-State Law (2018).** Hadash opposed it. Jabareen's counter-bill, "Israel, a Democratic, Egalitarian, and Multi-cultural State", demanded "complete civil, cultural, and national equality" ([+972](https://972mag.com/defying-racist-legislation-new-bill-seeks-to-turn-israel-into-a-true-democracy/132921/)). This is Jabareen's life's work as a jurist.
+- **7 Oct 2023.** The CPI statement of 7.10.2023 condemned "cualquier ataque contra civiles inocentes" without naming Hamas, and blamed the "fascist government" and the occupation ([marxists.org](https://www.marxists.org/espanol/tematica/palestina/documentos/pci/pci-7-oct-2023.htm)).
+  - Odeh in Sept 2025 (Mazeej podcast, via [Srugim 11.9.2025](https://www.srugim.co.il/1245362-עודה-שוב-מעורר-סערה-הכיבוש-הוא-הטרוריס)):
+    - Q "יש לי עמדה ברורה נגד הרג חפים מפשע נגד הרג ילד נגד חטיפת קשיש"
+    - Q "צריך להפריד בין פיגועים שבהם נפגעים אזרחים חפים מפשע לבין המערכת שמייצרת את המצב הזה"
+    - Q "הכיבוש הוא הטרוריסט הגדול ביותר"
+  - **The line:** condemn every killing of civilians, refuse to treat Hamas as the sole frame, and put the occupation as the root cause.
+- **Hostages.** Odeh welcomed the January 2025 release of "hostages and prisoners" and said both peoples must be freed from occupation (P, [JNS](https://www.jns.org/israel-news/arab-mk-welcomes-release-of-hostages-and-prisoners-causing-outrage)). The impeachment attempt failed with 73 of the 90 votes needed on 14.7.2025 ([ToI](https://www.timesofisrael.com/motion-to-expel-odeh-from-knesset-fails-to-pass-amid-heckling-by-coalition-members/)).
 
-## 4. Positions on the statement topics
+## 3. 2026 platform, campaign red lines and promises about partners
 
-**(a) Jewish state / Nation-State Law.** Hadash rejects the Nation-State Law outright, demands its repeal, and wants "civil and national equality" written into law (see 1b). It accepts Israel as a state within the 1967 borders. It does **not** endorse "Jewish and democratic" as a value, because it sees that definition as the legal root of discrimination. Recent nuance: Jabareen's demand list (Oct 2026) did **not** include repeal of the Nation-State Law, a notable omission that suggests it is a long-term aim rather than a 4-year condition. Odeh's 2019 conditions did include rolling it back. I found no 2026 quote on the "Jewish state" formula itself.
-- *Implication:* A clause that "Israel is a Jewish state" phrased as **affirmation or endorsement** is very hard for Hadash to sign. A **descriptive** formula is more tolerable, e.g. "the State of Israel, as defined in its Basic Laws, the state of the Jewish people and of all its citizens", or "the national home of the Jewish people with full equality for all its citizens", especially if paired with an equality clause. Mention of the Nation-State Law **by name, positively, is a deal-breaker**. Inference.
+- **Slate launch, 8.9** ([ToI](https://www.timesofisrael.com/liveblog_entry/joint-list-submits-knesset-slate-vows-to-fight-racism-and-supremacy/)):
+  - Q-tr "the only alternative to racism and supremacy"
+  - against "the destruction of Gaza, ethnic cleansing in the West Bank, and the political persecution of the country's Arab citizens"
+  - "Only the Joint List will fight for equality, peace and genuine partnership."
+- **Safety-net offer and the four demands, 10–11.10** ([Mako/N12](https://www.mako.co.il/news-israel-elections/2026/Article-b20b4b0c0da21a1026.htm)). The list "תעניק רשת ביטחון לכל ממשלה שתחליף את נתניהו" (N12 wording). The demands:
+  1. "תוכנית אמיתית למאבק בארגוני הפשיעה ולשיפור הביטחון האישי."
+  2. "פיתוח היישובים הערביים, קידום תוכניות מתאר למגורים ואזורי תעשייה, הפסקת הריסות הבתים וביטול הסנקציות של חוק קמיניץ."
+  3. "תוכניות ייחודיות לצעירים בתחומי הדיור, החינוך והתעסוקה."
+  4. "אופק מדיני אמיתי ובר קיימה, המבוסס על מו"מ עם ההנהגה הפלסטינית."
+- **Arabic video, 10.10** ([ToI 11.10](https://www.timesofisrael.com/joint-list-says-it-will-provide-safety-net-for-any-anti-netanyahu-coalition-report/)), Q-tr:
+  - "We have full freedom of action, with no limits, to replace the Netanyahu government"
+  - "After the election, we'll impose our conditions on any political constellation in Israel"
+- **JNS 12.10** ([JNS](https://www.jns.org/news/israel-news/arab-joint-list-says-will-offer-outside-support-for-coalition-without-netanyahu)):
+  - Q-tr "We're not giving anyone a blank check."
+  - P: no parliamentary support for **war budgets** or for **budgets for Jewish communities in Judea and Samaria**. This matters for budget votes.
+- **103FM, 13.10** ([INN](https://www.israelnationalnews.com/news/434541); [JNS](https://www.jns.org/news/israel-news/joint-list-chief-no-backing-for-next-govt-without-progress-toward-palestinian-state)), Q-tr:
+  - "We demand a comprehensive, funded, and realistic plan to fight the criminal organizations"
+  - "Our diplomatic plan is the creation of a Palestinian state within the 67' borders."
+  - "I'm not naive enough to say that a Palestinian state will be established tomorrow, the day after the elections"
+  - "There is no automatic support. We are not offering a blank check to anyone, certainly not to the opposition leadership"
+  - "We will not accept any coercion from the authorities into an arrangement related to national service."
+  - A replacement government must "offer a diplomatic horizon toward recognizing the Palestinian people's right to self-determination and open negotiations" (JNS).
+  - P: he called the political horizon the **most important** demand, and said there would be no recommendation of a PM without negotiation.
+- **Al-Quds, 14.10** (P): he "completely ruled out joining a coalition that perpetuates the occupation, protects settler terrorism" or continues demolitions and the uprooting of Negev communities ([Al-Quds EN](https://alquds.com/en/posts/262033-jabareen-the-joint-list-is-in-no-one-s-pocket-and-our-conditions-for-change-are)).
+- **AP, 16.10:** Q-tr "We have to use our political power in order to basically block the deterioration of the situation" ([PBS](https://www.pbs.org/newshour/world/arab-led-parties-could-decide-the-israeli-election-if-anyone-would-partner-with-them)).
+- **Outlook India, 20.10** (P): the party "does not insist" on two states and could accept one state with full rights. Outlook notes this is not a formal policy change ([Outlook](https://www.outlookindia.com/international/yousef-jabareen-israel-election-two-state-solution)).
+- **Ynet op-ed, about 25.10** ([Ynet](https://www.ynet.co.il/news/elections2026/article/h1qbon52fe)), Q:
+  - "החלפת ממשלת נתניהו - הצעד הראשון ההכרחי"
+  - "כדי לחולל כאן תיקון אמיתי, צריך להחליף גם את מדיניותו ולהציע אלטרנטיבה מהותית."
+  - "בזמן שמפלגות האופוזיציה האחרות התייצבו שוב ושוב לימין השלטון ותמכו במלחמות בעזה, בלבנון ובאיראן"
+  - "אנו היחידים שמדברים בגלוי על הזוועות בעזה, על טרור המתנחלים והטיהור האתני בגדה המערבית"
+  - "אי אפשר להמשיך לדבר על "הסכנה לדמוקרטיה" ובאותה נשימה להמשיך להתעלם מהכיבוש ומהשליטה הצבאית במיליוני פלסטינים."
+  - "דמוקרטיה גם אינה יכולה להתקיים לצד עליונות יהודית או אפליה ממוסדת."
+  - "שתי מדינות בגבולות 1967, החיות זו לצד זו בשלום ובכבוד."
+- **On partners:**
+  - No join: outside support only. Jabareen criticised Ra'am's 2021 entry, saying government membership means legal responsibility for its decisions (P, search summary of JPost/ToI).
+  - No veto by name on any Zionist party except Likud and the far right. The veto is on **policy**.
+  - No stated Haredi position.
+  - Ra'am is a rival: the two lists signed a surplus-vote agreement but run separately.
 
-**(b) Terrorism, Hamas, Oct 7, Gaza, hostages.**
-- Hadash condemns harm to civilians on all sides (2023 statement; Jabareen 14.10.2026, P). It does not, by itself, use "Hamas terrorist organization" language, and it resists the "do you condemn Hamas" test as delegitimisation (P, Al-Quds).
-- On Gaza, the list frames the war as "the destruction of Gaza" and "wars of eternity" (מלחמות הנצח), and Jabareen criticises silence about crimes against Gaza civilians (P). It supported the hostage–prisoner exchange deals (Odeh's 2025 post).
-- *Implication:* Hadash can sign "condemns all attacks on civilians, including the Hamas massacre of 7 October" if the same text also condemns harm to innocent civilians in Gaza and/or commits to ending the war and to humanitarian aid. A stand-alone "condemns Hamas terror" with no symmetric clause and no Gaza/occupation context would be very hard. Signing language that labels **all** Palestinian resistance "terror" is out. Inference based on sources above.
+## 4. Election-night and post-election statements (27–28 Oct 2026)
 
-**(c) Arab citizens.**
-- Crime is the #1 domestic issue. 2025 saw a record 252 Arab homicide victims, and 2026 is running higher: 161 by about September ([ToI](https://www.timesofisrael.com/four-killed-in-northern-israel-over-weekend-amid-crime-wave-wracking-arab-community/)). The demand is a funded plan against crime organizations (Q above). Hadash criticises the police leadership (P, [MEF](https://israelvote.meforum.org/parties/joint-list/)) and opposes Ben-Gvir's approach and the use of Shin Bet/terror laws against Arab crime networks **[bg]**.
-- Budgets: development of Arab localities (Q demand 2). The specific Decision 550 successor is not named in 2026 sources found, but it is natural to demand **[inference]**.
-- Planning and housing: master plans, industrial zones, ending demolitions, cancelling the Kaminitz sanctions (Q).
-- Negev: Atawna (no. 6) is from the Negev. The list demands an end to the uprooting and demolitions of Negev communities (P, Al-Quds).
-- Youth: housing, education, employment programs. No coerced national service (P).
-- Representation: equality and "genuine partnership" (Q 8.9).
+- **Walla, 28.10, 11:17** ([link](https://www.walla.co.il/news/breaking-news/383959208)), Jabareen, Q:
+  - "זה היה יום היסטורי, שבו הציבור הערבי הביע תמיכה מוחלטת ברשימה המשותפת"
+  - "אנחנו נעשה ככל האפשר כדי לשלוח את ממשלת נתניהו, בן גביר וסמוטריץ' הביתה"
+- **Ynetnews, 28.10** ([link](https://www.ynetnews.com/article/hjnatbkaml)), Q-tr:
+  - "The Netanyahu and Ben-Gvir government has made the lives of every Arab citizen miserable"
+  - "We will know how to leverage our political strength to advance the values we believe in."
+- **Kipa, 28.10, 13:54** ([link](https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%A4%D7%95%D7%9C%D7%99%D7%98%D7%99/1234944-0/)), Q:
+  - "אנחנו מוכנים וערוכים לסלול את הדרך להדחת ממשלת נתניהו"
+  - "מול ממשלת הדמים, מול פוליטיקה של עליונות, גזענות והדרה, אנחנו מציעים אלטרנטיבה אחרת לגמרי"
+- **Channel 13, 28.10** (via [ToI](https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/)), Q-tr: "Anyone who wants to offer a substantive and genuine alternative to Netanyahu's government of bloodshed" will have to talk to us.
+- **Official Joint List statement, 28.10** ([Arab48](https://www.arab48.com/الأخبار/أخبار-عاجلة/2026/10/28/القائمة-المشتركة-المشتركة-شعبنا-صنع-إنجازا-تاريخيا-مستعدون-للتعاون-لإسقاط-حكومة-نتنياهو); [al-Ittihad](https://alittihad44.com/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/news-2026-10-28-ovknsq)), Q:
+  - "ستستخدم القوة التي منحها إياها شعبنا للعمل من أجل إسقاط حكومة نتنياهو ومنع عودتها"
+  - Condition: "إذا وُجد في معسكر المعارضة من يتحلى بالشجاعة السياسية ويطرح بديلًا حقيقيًا لهذه الحكومة ولسياساتها" … "ويرفض إقصاء جماهيرنا وممثليها، والالتزام بمطالب شعبنا وحقوقه"
+  - Vocabulary: "حكومة السفاحين"; "الفاشيين"; "سياسات الهدم والعنصرية وجرائم الحرب"
+- **Al-Quds AR, 28.10, 00:49** (P, reported speech) ([link](https://alquds.com/ar/posts/266295-joint-list-jabareen-netanyahu-government-election-results)):
+  - "أي تعاون محتمل مع معسكر المعارضة بقيادة غادي آيزنكوت لن يكون شيكاً على بياض"
+  - The conditions listed are crime, budgets, land for housing, immediate recognition of the unrecognised Negev villages, youth, and "a real political horizon… negotiations with the Palestinian leadership to end the occupation".
+- **Al-Quds AR, 28.10, 14:04** (P) ([link](https://alquds.com/ar/posts/266496-arab-parties-condition-eisenkot-support-netanyahu)):
+  - The list "لن تمنح دعماً مجانياً لأي طرف، وأن التوصية بأيزنكوت مرتبطة بمدى استجابته للمطالب والشروط العربية"
+  - Tibi: "الكرة الآن في ملعب المعسكر المنافس لنتنياهو لإثبات جديته في الشراكة"
+  - A parliamentary safety net on the Rabin model was reportedly proposed.
+- **Tibi:** "either Bibi or Tibi". Arab parties are ready to support an Eisenkot government but not Netanyahu (P, [The National](https://www.thenationalnews.com/news/mena/2026/10/28/arab-parties-set-sights-on-removing-netanyahu-as-israel-counts-last-votes/)). Eisenkot's camp has made contact (aljadeed headline).
+- **Recommending Eisenkot to the President: NOT DECIDED.** No source shows a decision.
+  - The recommendation is explicitly conditional on Eisenkot's response.
+  - Herzog's consultations begin after certification, about the week of 4.11.
+- **The other side.** Eisenkot: Q-tr "I will do my utmost to form a Zionist government" (ToI 28.10). Likud claims the Arab parties "stole the election", and the Joint List and Ra'am called this incitement (Arab48; en.wiki).
 
-**(d) West Bank.**
-- The occupation must end. Palestinian state on 1967 lines (Q 13.10). Opposition to settlements in general, not only outposts (MEF; long-term platform). The list speaks of "ethnic cleansing in the West Bank" (Q 8.9) and "settler terrorism" (P 14.10, Al-Quds; Arabic usage إرهاب المستوطنين). It opposes annexation.
-- *Implication:* Hadash welcomes the user's items on settler terrorism and outpost evacuation, but these are **minimums** to it, not gains. Calling settlements legal, or saying "Judea and Samaria" without "occupation", is costly.
+## 5. Positions on the framework topics
 
-**(e) Other.**
-- **Oct 7 commission:** Supports a state commission of inquiry, including into the conduct of the war **[bg, unverified for 2026]**.
-- **Haredi draft:** No firm position found. It opposes any draft or national service for Arab citizens (P, INN), so it is wary of "universal service" packages that sweep in Arabs.
-- **Judiciary:** Opposed the 2023 overhaul and defends the Supreme Court, which on 2.10.2026 reinstated the list **[bg + ToI]**.
-- **Economy:** Socialist and pro-worker. Cost of living, welfare.
-- **Religion & state:** Secular, civil marriage **[bg]**.
+**Jewish state and the Nation-State Law.**
+- Rejects "Jewish state" as an endorsed value and wants full civil and **national** equality. Q 25.10: "דמוקרטיה גם אינה יכולה להתקיים לצד עליונות יהודית או אפליה ממוסדת."
+- Repeal of the Nation-State Law is a lifelong aim but **not among the 2026 four demands**.
+- A **descriptive** reference to Basic Law language that Hadash explicitly disclaims is tolerable in a text it does not sign. Hadash will not say it.
 
-## 5. Terminology sensitivities
+**Terrorism, Hamas, 7 Oct, Gaza, hostages.**
+- Condemns killing civilians "from the first day" (P, 14.10).
+- Refuses the "condemn Hamas" loyalty test as delegitimisation (P, 14.10).
+- Frames Gaza as "הזוועות בעזה" and the war as "מלחמות הנצח".
+- Supported the hostage–prisoner deals.
+- No 2026 Hadash text uses "Hamas is a terror organisation", and none calls for "disarming Hamas". Jabareen's statements do not name Hamas at all (Ynet 25.10; JNS; INN).
+- Eisenkot's reported partner condition, Hamas as a terror group to be dismantled, is one Hadash will not adopt.
 
-| Topic | Hadash uses / needs | Hadash cannot sign / avoids |
+**Arab citizens.**
+- Demands 1–3 cover a funded crime plan, development of Arab localities, master plans and industrial zones, a stop to demolitions, cancellation of the Kaminitz sanctions, and youth programmes.
+- Negev: immediate recognition of the unrecognised villages (Al-Quds 28.10).
+- No coercion on national service (INN 13.10).
+- Distrust of the police leadership (Farah; MEF).
+- Opposition to Shin Bet involvement in civilian policing is a long-standing civil-liberties line [bg].
+
+**West Bank.**
+- End the occupation and a Palestinian state on the 1967 lines.
+- "טרור המתנחלים", "הטיהור האתני בגדה המערבית".
+- No budgets for settlements (JNS 12.10).
+- Uses both "כיבוש" and "שליטה צבאית" (25.10). "Military control" alone is therefore *tolerable as a description* but not as a replacement for "occupation" in Hadash's own voice.
+
+**7 Oct commission, Haredi draft, judiciary, religion and state.**
+- No 2026 Hadash statements were found.
+- Hadash defends the Supreme Court, which reinstated it on 2.10 [bg plus ToI].
+- It is secular [bg].
+- Haredi draft: no position. Hadash's concern is that "service for all" will be extended to Arabs.
+
+## 6. Terminology
+
+| Topic | Hadash says (own language) | Hadash cannot sign or say |
 |---|---|---|
-| Territories | כיבוש / الاحتلال / "occupation"; "השטחים הכבושים" / الأراضي المحتلة; "גבולות 67" / حدود الرابع من حزيران 1967 | "יהודה ושומרון" as the sole term; "disputed territories" |
-| Palestinians | "העם הפלסטיני" / الشعب الفلسطيني; "זכות להגדרה עצמית" / حق تقرير المصير; "ההנהגה הפלסטינית" | "Palestinian Arabs" or "residents" in place of "people" |
-| Arab citizens | "האזרחים הערבים" / المواطنون العرب; self-identification "الفلسطينيون في الداخل" / "Palestinian citizens of Israel"; "מיעוט לאומי"; "שוויון אזרחי ולאומי" / المساواة المدنية والقومية | "the Arab sector" (המגזר הערבי) is disliked but tolerable; "minorities" (מיעוטים) erases national identity |
-| State identity | "מדינת כל אזרחיה" (Balad's term, accepted in the Joint List); "דמוקרטית ושוויונית" | Positive endorsement of "Jewish state" / "חוק הלאום"; "Jewish and democratic" as a **value** commitment |
-| Violence | "פגיעה באזרחים חפים מפשע" / المس بالمدنيين الأبرياء; "טרור מתנחלים" / إرهاب المستوطنين; condemnation of violence "against civilians on both sides" | "Terror" applied generically to Palestinian resistance; condemnation of Hamas **without** any reference to Gaza civilians; "חיות אדם" type language |
-| Gaza | "מלחמה" / "הרס עזה" / تدمير غزة; ending the war; humanitarian aid | Endorsing "total victory" or the war's conduct |
-| History | النكبة / "הנכבה" (will not deny it; need not appear in a 4-year text) | Anything that treats the Nakba as illegitimate memory |
-| Government | "ממשלת הדמים" (their term for Netanyahu's government); "רשת ביטחון" / شبكة أمان; "גוש חוסם" | — |
+| Territories | الاحتلال / כיבוש; حدود 1967 / גבולות 1967; שליטה צבאית only *alongside* occupation | "Judea and Samaria" as Hadash's own term; "disputed" |
+| Palestinians | الشعب الفلسطيني / העם הפלסטיני; حق تقرير المصير; ההנהגה הפלסטינית | Replacing "people" with "residents" |
+| Violence | المس بالمدنيين الأبرياء / פגיעה בחפים מפשע; إرهاب المستوطنين / טרור המתנחלים; الزוועות בעזה | A first-person "Hamas is a terrorist organisation"; "disarm Hamas" as Hadash's own commitment; generic "Palestinian terror" |
+| Government | حكومة السفاحين / ממשלת הדמים; شبكة أمان / רשת ביטחון | "Supporting the government" as a coalition partner (it offers a *safety net*, not membership) |
+| State | שוויון מלא; دولة ديمقراطية متساوية; المساواة المدنية والقومية | "Jewish and democratic" as a value in Hadash's voice; any positive reference to חוק הלאום |
+| Arab citizens | المواطنون العرب / الجماهير العربية / شعبنا; "Palestinian citizens" | "Minorities" (מיעוטים) |
+| Service | — | שירות לכולם / "duty applies to all" if it extends to Arab citizens |
 
-Nuance: In Arabic the base expects الاحتلال and الشعب الفلسطيني. Hebrew wording is watched by Jewish partners and Arabic wording by Hadash's base. **Separate Hebrew and Arabic versions with non-identical terms will be exposed**, so Hadash would want a single agreed trilingual text.
+## 7. Negotiating position for run 2
 
-## 6. Negotiation profile
+**What we are:** 6 Hadash MKs inside a 12-seat list. The list is arithmetically indispensable to any non-Netanyahu government: 48 + Ra'am's 7 = 55, and Netanyahu has 53. If the Joint List votes **against**, the government falls 55 to 65. Our *abstention* is the government's majority.
 
-**MUST-HAVES (to justify a safety net):**
-1. A **funded, multi-year national plan against crime organizations** in Arab society, with a budget figure, timelines and measurable homicide-reduction targets. Removal of the Ben-Gvir approach.
-2. **A freeze on home demolitions** (Negev and the Triangle/Galilee), **freezing or cancelling the Kaminitz Law sanctions**, approval of master plans, and steps toward recognition of the unrecognised Negev villages.
-3. A **large development/budget plan** for Arab localities and youth: a Decision 550/1279 successor at a higher scale.
-4. A **diplomatic horizon**: commitment to negotiate with the Palestinian leadership, with no annexation, plus action against settler terror and outposts. Jabareen called this the most important demand. At minimum Hadash needs words like "political horizon", "Palestinian people" and "no annexation".
-5. Visible **standing** for Arab citizens: equality language and representation (e.g. Knesset committee chairs, deputy speaker, a liaison mechanism). Hadash will not take ministries, since it stays outside.
+**Real must-haves (to abstain on investiture and not topple the government):**
+1. A **bilateral, signed document** with the PM-designate, on the Rabin model: a commitment *to us*, not a unilateral declaration in which "the government is not a party".
+   - Run 1's Annex 1 had us bind ourselves while the government bound itself to nothing towards us. We reject that structure.
+2. **Political horizon (demand 4, our "most important").** At least:
+   - a commitment to renew negotiations with the Palestinian leadership (the PA/PLO);
+   - "the Palestinian people" named;
+   - no annexation, and no new settlements or budgets for them.
+   - Run-1 clause 15, "no final-status decision… positions fully reserved", is the *opposite* of a horizon.
+   - Our minimum is "the government will work to renew a diplomatic process with the Palestinian leadership". We are not naive about a state; we want a direction.
+3. **Crime plan with money**, at least NIS 1bn a year, run with Arab local authorities. We do **not** accept Shin Bet in civilian policing or administrative detention as tools against Arab citizens.
+4. **Kaminitz** sanctions cancelled; demolitions of inhabited homes stopped; master plans; recognition of the Negev villages. Run-1 clauses 18–19 come close: keep them, with dates.
+5. **The successor to Decision 550** and youth programmes, with numbers. Run-1 clause 17 is acceptable.
+6. **No coercion on service.** Clause 6a's "duty applies to all" and "every citizen serves" must explicitly **exclude Arab citizens from the duty**, not just from sanctions. Otherwise we are seen to accept national service for our youth.
+7. **Equal standing with Ra'am.** We want full membership of the monitoring committee, not observer status, plus a deputy Speaker and a committee chair for the Joint List.
 
-**Nice-to-haves:** steps toward an end to the Gaza war and humanitarian aid; an Oct 7 state commission; Arabic language status restored or upgraded; amending the Nation-State Law to add equality; opposition to coercive national service; workers' and welfare measures.
+**Real deal-breakers:**
+- Any first-person endorsement by Hadash of "Jewish and democratic", the Nation-State Law, "Hamas, a terror organisation, will be disarmed", or the Service Law.
+- Being required, as in the TV statement, to recite a Hamas-specific condemnation that the Zionist leaders are not required to match with the word "occupation".
+- Settlement or war budgets that we would have to vote **for**. We can abstain on a budget only if it carries no annexation money and funds Chapter D.
+- A coalition guideline that **endorses** "full security freedom of action throughout the area" (clause 15) as something we "note".
+- A government that publicly says it "does not rely" on us while it does: humiliation as policy. Eisenkot's "Zionist government" line on 28.10 is a warning sign.
 
-**Possible concessions:**
-- Stay **outside** the coalition, with no ministers, consistent with 1992.
-- Accept a **4-year text that does not mention end goals**: no "Palestinian state" by name, if "political horizon / negotiations / no annexation / end to settler terror" appear.
-- Tolerate a **descriptive** reference to Israel's existing constitutional definition, paired with full equality, without endorsing the Nation-State Law.
-- Sign a condemnation that names **7 October / Hamas's massacre**, if it sits inside a universal condemnation of harm to civilians that includes Gaza.
+**Our best alternative (BATNA):** We think it is decent.
+- **Opposition.** We are the largest Arab list ever and need not compromise. If Eisenkot goes with Netanyahu into a unity government, his campaign collapses, not ours.
+- **New elections** with 75% Arab turnout may grow our seat count.
+- **Weakness of that alternative:** our voters turned out to remove Netanyahu ("شعبنا صنع إنجازا تاريخيا"). If we are seen to block change over wording, Ra'am wins the argument for pragmatism.
+- **Conclusion:** we are willing to give a safety net, but we will not pay with our identity.
 
-**Deal-breakers:**
-- A text that endorses the Nation-State Law, or makes "Jewish state" a loyalty test.
-- A Hamas condemnation framed to delegitimise Palestinians or Arab MKs, with no Gaza or civilian-symmetry clause.
-- Using "Judea and Samaria" with no "occupation" anywhere, or endorsing settlements or annexation.
-- No budget numbers on crime and demolitions ("words without budgets", the 2021 Ra'am critique).
-- Coerced national service for Arab youth.
-- Gains that look smaller than Ra'am's.
+**What we could trade:**
+- No ministers, and no demand for "occupation" in the government's own Hebrew text, if "the Palestinian people" plus a negotiation commitment appear.
+- Tolerating, without endorsing, descriptive clauses (4, 9) in a document we do not sign.
+- Abstaining rather than voting for the investiture.
+- Not demanding repeal of the Nation-State Law this term.
+- Not recommending anyone to the President, instead of recommending Eisenkot, if he will not negotiate openly. Recommending him is a card we play **only** after a public meeting and written commitments.
 
-**What Hadash must show voters:** that its 12 seats ended Netanyahu's government; a crime plan with money; demolitions stopped; that "occupation" and "the Palestinian people" were named in an Israeli government document; and that it did not sell out on Gaza or dignity, keeping the 1992-model formula "we give security from outside, we did not sign Zionist loyalty oaths".
+**What rivals and voters will attack us for:**
+- **Ra'am:** "Hadash got observer seats; we got a deputy minister and the budgets."
+- **Balad, inside the list:** any Hamas or "Jewish state" wording.
+- **Our base and Al-Ittihad readers:** "propping up the 7 October general's Zionist government while Gaza is in ruins."
+- **The Jewish right:** "terror supporters" (Cassif), and Jabareen's one-state remark of 20.10.
+- **Our Jewish left:** abandoning the occupation for budgets.
 
-## 7. Uncertainties
+## 8. Uncertainties
 
-- Final seat count (11, 12 or 13). The internal Hadash/Ta'al/Balad split is my inference from slate order.
-- Hadash's own number 2 or 3: Ashams reported Jafar Farah winning Hadash's second internal slot ([ashams](https://ashams.com/article/414968)), but the CEC slate has Faten Ghattas at no. 3. MEF mentions "Jihad Farah". This is unresolved.
-- Touma-Sliman's exact slot (the no. 109 transliteration is garbled).
-- I found no 2026 Hadash statement explicitly using "Hamas" plus "terror". The Hadash Arabic statement of 7.10.2023 was found only in Spanish translation.
-- No full 2026 written Joint List platform document (البرنامج الانتخابي) was located; the positions come from interviews.
-- The Cassif 2024 impeachment, the Maki signature on the Declaration of Independence, the East Jerusalem capital clause, and positions on the Oct 7 commission, Haredi draft and judiciary are background knowledge, not re-verified this session.
-- No Hadash response to the Likud "stolen election" claims (28.10) was found.
+- **Final seats.** The count is 12 at 88.6%, and Ynet briefly showed 13. Double envelopes could move a seat. Official results are due 4.11.
+- **The Joint List's decision on a recommendation to the President** has not been reported. Consultations have not started.
+- Whether Tibi or Jabareen chairs the Knesset faction.
+- The exact wording of Eisenkot's coalition conditions, which were seen only in search summaries.
+- **Not re-verified this session** because the search budget was exhausted:
+  - the Cassif 2024 impeachment;
+  - the 18–5 CEC vote;
+  - the 2026 homicide statistics;
+  - the nasapp interview;
+  - the Touma-Sliman remark;
+  - Vilner's signature on the Declaration of Independence;
+  - written Rabin-era commitment letters;
+  - Hadash statements on the 7 Oct commission, the Haredi draft and the judiciary in 2026.
+- No Arabic original of the 7.10.2023 CPI statement was found, and no 2026 Joint List written platform was found.
+- No dedicated Hadash (as opposed to Joint List) post-election statement was found in Arab48 or al-Ittihad on 28.10.
