@@ -32,20 +32,20 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 >
 > אנחנו עומדים כאן יחד. התווכחנו, ונתווכח גם מחר.
 > אבל הלילה ישראל מקבלת ממשלה חדשה.
-> ממשלה ציונית, ממלכתית. של מדינה יהודית ודמוקרטית, ברוח מגילת העצמאות.
-> ממשלה של כל אזרחי ישראל. מאה אחוז. יהודים וערבים כאחד. הקול של כל אזרח שווה.
+> ממשלה ציונית, ממלכתית. מדינה יהודית ודמוקרטית, ברוח מגילת העצמאות.
+> ממשלה של כל אזרחי ישראל. מאה אחוז. יהודים וערבים כאחד. לקול של כל אזרח יש אותו משקל.
 >
-> תוך ארבעה־עשר יום: ועדת חקירה ממלכתית. על השבעה באוקטובר, על השנים שלפניו, ועל המלחמה.
+> תוך 14 יום: ועדת חקירה ממלכתית. על השבעה באוקטובר, על השנים שלפניו, ועל המלחמה.
 > בלי לברוח מאחריות. גם לא מהאחריות שלנו.
 >
 > חמאס הוא ארגון טרור. יכולותיו הצבאיות והשלטוניות יפורקו, והוא לא ישלוט בעזה.
-> ונחזיר הביתה כל חטוף וכל חלל שעוד לא שב.
+> ונחזיר הביתה כל חטוף וכל חלל שעוד לא הוחזר.
 >
-> עידן ההשתמטות נגמר. מי שחייב בשירות – ישרת, בצבא או בשירות אזרחי. מי שמשרת – מתוגמל.
+> עידן ההשתמטות נגמר. מי שחייב בשירות – ישרת, בצבא או בשירות אזרחי. מי שמשרת – יתוגמל.
 >
 > האזרחים הערבים של ישראל הם אזרחים שווים. נילחם בפשיעה שהורגת אותם כמעט כל יום. זו לא הבעיה שלהם. זו הבעיה של המדינה.
 >
-> וביהודה ושומרון יהיה חוק. נילחם בטרור היהודי, בקומץ האלים שפוגע בחפים מפשע ופוגע גם בנו. נפנה מאחזים בלתי חוקיים, ולא נספח.
+> וביהודה ושומרון יהיה חוק. נילחם בטרור היהודי, בקומץ האלים שפוגע בחפים מפשע ופוגע גם בנו. נפנה מאחזים בלתי חוקיים. ולא נספח.
 >
 > אנחנו לא מבקשים שתאמינו לנו. תבדקו אותנו. כל שלושה חודשים, במספרים.
 >
@@ -59,20 +59,20 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 >
 > We are standing here together. We have argued, and we will argue again tomorrow.
 > But tonight Israel gets a new government.
-> A Zionist government, a statist government. The government of a Jewish and democratic state, in the spirit of the Declaration of Independence.
+> A Zionist government, a statist government. A Jewish and democratic state, in the spirit of the Declaration of Independence.
 > A government for all of Israel's citizens. One hundred percent. Jews and Arabs alike. Every citizen's vote counts the same.
 >
 > Within fourteen days: a state commission of inquiry. Into the seventh of October, the years before it, and the war.
 > No running from responsibility. Not even from our own.
 >
 > Hamas is a terrorist organization. Its military and governing capabilities will be dismantled, and it will not rule Gaza.
-> And we will bring home every hostage and every fallen soldier still not returned.
+> And we will bring home every hostage, and every one of the fallen not yet brought back.
 >
-> The era of draft-dodging is over. Whoever is liable to serve will serve, in the army or in civilian service. Whoever serves is rewarded.
+> The era of draft-dodging is over. Whoever is liable to serve will serve, in the army or in civilian service. Whoever serves will be rewarded.
 >
 > Israel's Arab citizens are equal citizens. We will fight the crime that kills them almost every day. It is not their problem. It is the state's problem.
 >
-> And in Judea and Samaria there will be law. We will fight Jewish terror, the violent handful who harm the innocent and harm us too. We will evacuate illegal outposts, and we will not annex.
+> And in Judea and Samaria there will be law. We will fight Jewish terror, the violent handful who harm the innocent and harm us too. We will evacuate illegal outposts. And we will not annex.
 >
 > We are not asking you to believe us. Check us. Every three months, in numbers.
 >
@@ -82,7 +82,28 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 
 <div dir="rtl">
 
-> *[to be completed in the Arabic drafting pass]*
+> مساء الخير.
+>
+> نقف هنا معًا. اختلفنا، وسنختلف غدًا أيضًا.
+> لكن إسرائيل تحصل الليلة على حكومة جديدة.
+> حكومة صهيونية ودولانيّة. حكومة دولة يهودية وديمقراطية، بروح وثيقة الاستقلال.
+> حكومة لكل مواطني إسرائيل. مئة بالمئة. يهودًا وعربًا على حدّ سواء. صوت كل مواطن له الوزن نفسه.
+>
+> خلال أربعة عشر يومًا: لجنة تحقيق رسمية. في السابع من أكتوبر، وفي السنوات التي سبقته، وفي الحرب.
+> لن نتهرّب من المسؤولية. ولا حتى من مسؤوليتنا نحن.
+>
+> حماس منظمة إرهابية. ستُفكَّك قدراتها العسكرية وقدرتها على الحكم، ولن تحكم غزة.
+> وسنعيد إلى البيت كل مخطوف، وكل قتيل لم يُعَد جثمانه بعد.
+>
+> عهد التهرّب من التجنيد انتهى. من هو ملزم بالخدمة سيخدم، في الجيش أو في الخدمة المدنية. ومن يخدم يُكافأ.
+>
+> المواطنون العرب في إسرائيل مواطنون متساوون. سنحارب الجريمة التي تقتلهم كل يوم تقريبًا. هذه ليست مشكلتهم. إنها مشكلة الدولة.
+>
+> وفي يهودا والسامرة (الضفة الغربية) سيسود القانون. سنحارب الإرهاب اليهودي، تلك الحفنة العنيفة التي تؤذي الأبرياء وتؤذينا نحن أيضًا. سنُخلي البؤر الاستيطانية غير القانونية، ولن نُقدم على الضمّ.
+>
+> لا نطلب منكم أن تصدّقونا. اختبرونا. كل ثلاثة أشهر، وبالأرقام.
+>
+> بالتوفيق لنا جميعًا.
 
 </div>
 
@@ -148,7 +169,23 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 
 <div dir="rtl">
 
-> *[to be completed in the Hebrew drafting pass]*
+> בשם אללה הרחמן והרחום.
+>
+> אחיי ואחיותיי היקרים, אמרנו לכם מההתחלה: עמדה זה חשוב, אבל עמדה לבד לא בונה בית ספר.
+>
+> רע"מ תצביע בעד הממשלה החדשה, כי האינטרס העליון שלנו היה ונשאר להחליף את ממשלת ההסתה והגזענות.
+>
+> לא ויתרנו על הזהות שלנו ולא על העקרונות שלנו. מה שהשגנו הן התחייבויות פומביות, עם מספרים ותאריכים: תוכנית חירום נגד הפשיעה והאלימות במיליארד שקל בשנה, הקפאת חוק קמיניץ מיום ההשבעה, הכרה בכפרי הנגב ותוכנית חומש של 30 מיליארד שקל ליישובים שלנו. ואנחנו נעקוב אחרי הביצוע יום-יום.
+>
+> גינינו כל פגיעה באזרחים חפים מפשע, וגינינו את הפשעים של השבעה באוקטובר. ואנחנו כואבים כל נפש חפה מפשע שנהרגה, ערבית ויהודית, פלסטינית וישראלית.
+>
+> מסגד אל-אקצא המבורך הוא קו אדום, וצריך לכבד את הסטטוס קוו שם.
+>
+> התמיכה שלנו היא לא צ'ק פתוח. אם יפגעו באל-אקצא או יפרו את ההתחייבויות, נמשוך אותה.
+>
+> אנחנו מושיטים יד לשותפות אמיתית בין האזרחים הערבים והיהודים, ולשלום ולפיוס בין שני העמים.
+>
+> ואללה יצליח את דרכנו.
 
 </div>
 
@@ -162,11 +199,11 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 
 > يا أبناء شعبنا،
 >
-> قبل أيام خرجتم بنسبة غير مسبوقة، فأسقطتم حكومة الدم، حكومة نتنياهو وبن غفير وسموتريتش. هذا إنجازكم أنتم. حقبة نتنياهو انتهت، وأنتم أنهيتموها.
+> قبل أيام خرجتم إلى صناديق الاقتراع بنسبة غير مسبوقة، فأسقطتم حكومة الدم، حكومة نتنياهو وبن غفير وسموتريتش. هذا إنجازكم أنتم. حقبة نتنياهو انتهت، وأنتم أنهيتموها.
 >
-> لم نصوّت لهذه الحكومة، ولم نوقّع على يهودية الدولة، ولم نمنح أحدًا شيكًا مفتوحًا.
+> لم نصوّت لهذه الحكومة، ولم نوقّع على يهودية الدولة، ولم نمنح أحدًا شيكًا على بياض.
 >
-> ما نقدّمه شبكة أمان لشعبنا لا للحكومة، مقابل التزامات مكتوبة ومعلنة: مليار شيكل سنويًا لمكافحة الجريمة، تجميد قانون كامينيتس، وقف هدم البيوت والاعتراف بقرى النقب، لا ضمّ وإخلاء البؤر الاستيطانية، والحفاظ على الوضع القائم في المسجد الأقصى. يوم تُخرق هذه الالتزامات تسقط شبكة الأمان، وسنحاسب الحكومة كل ثلاثة أشهر أمام شعبنا.
+> ما نقدّمه هو شبكة أمان لشعبنا، لا للحكومة، مقابل التزامات مكتوبة ومعلنة: مليار شيكل سنويًا لمكافحة الجريمة، تجميد قانون كامينيتس، وقف هدم البيوت والاعتراف بقرى النقب، منع الضمّ وإخلاء البؤر الاستيطانية، والحفاظ على الوضع القائم في المسجد الأقصى. يوم تُخرق هذه الالتزامات تسقط شبكة الأمان، وسنحاسب الحكومة كل ثلاثة أشهر أمام شعبنا.
 >
 > نرفض المسّ بالمدنيين الأبرياء من الشعبين منذ بداية الحرب، ونطالب بوقف الحرب على غزة نهائيًا وإعادة إعمارها.
 >
@@ -182,7 +219,7 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 >
 > A few days ago you turned out in unprecedented numbers and brought down the government of blood, the government of Netanyahu, Ben-Gvir and Smotrich. This is your achievement. The Netanyahu era is over, and you are the ones who ended it.
 >
-> We did not vote for this government. We did not sign up to the Jewishness of the state. We gave no one an open cheque.
+> We did not vote for this government. We did not sign up to the Jewishness of the state. We gave no one a blank cheque.
 >
 > What we offer is a safety net for our people, not for the government, in return for written and public commitments:
 > - a billion shekels a year against crime;
@@ -203,7 +240,19 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 
 <div dir="rtl">
 
-> *[to be completed in the Hebrew drafting pass]*
+> בני עמנו,
+>
+> לפני כמה ימים יצאתם להצביע בשיעור שלא היה כמותו והפלתם את ממשלת הדם, ממשלת נתניהו, בן גביר וסמוטריץ'. זה ההישג שלכם, שלכם ולא של אף אחד אחר. עידן נתניהו נגמר, ואתם אלה שגמרו אותו.
+>
+> לא הצבענו בעד הממשלה הזאת, לא חתמנו על יהדות המדינה ולא נתנו לאף אחד צ'ק פתוח.
+>
+> מה שאנחנו מציעים הוא רשת ביטחון לעם שלנו, לא לממשלה, תמורת התחייבויות כתובות ופומביות: מיליארד שקל בשנה נגד הפשיעה, הקפאת חוק קמיניץ, סוף להריסת בתים והכרה בכפרי הנגב, בלי סיפוח ועם פינוי המאחזים, ושמירה על הסטטוס קוו במסגד אל-אקצא. ביום שההתחייבויות האלה יופרו, רשת הביטחון נופלת. וכל שלושה חודשים נדרוש מהממשלה דין וחשבון מול העם שלנו.
+>
+> אנחנו דוחים את הפגיעה באזרחים חפים מפשע משני העמים מאז תחילת המלחמה, ודורשים לשים סוף סופי למלחמה נגד עזה ולשקם אותה.
+>
+> אין דמוקרטיה עם כיבוש. נמשיך להיאבק כדי לסיים אותו, ולמען מדינה פלסטינית עצמאית בגבולות 4 ביוני 1967 שבירתה ירושלים המזרחית, פתרון צודק לבעיית הפליטים לפי החלטות הלגיטימיות הבינלאומית, ושוויון אזרחי ולאומי מלא.
+>
+> לא לפסילת נציגי העם שלנו. לא לשירות צבאי או אזרחי, בשום צורה. אנחנו רוצים שותפות שווה.
 
 </div>
 

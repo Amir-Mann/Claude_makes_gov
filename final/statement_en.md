@@ -58,7 +58,7 @@ It is therefore agreed as follows:
 
 ### Security and the fight against terror
 
-8. The government parties condemn all terror and every deliberate attack on innocent civilians, whoever the perpetrator and whoever the victim. They grieve for every innocent civilian killed since 7 October, Israelis and Palestinians alike, in the Gaza Strip as elsewhere.
+8. The government parties condemn all terror and every deliberate attack on innocent civilians, whoever the perpetrator and whoever the victim. They grieve for every innocent civilian killed since 7 October, Israelis and Palestinians alike, including in the Gaza Strip.
 
 9. The government parties condemn without reservation the massacre that Hamas carried out on 7 October 2023: the murder, rape and abduction of civilians.
 
@@ -90,7 +90,7 @@ It is therefore agreed as follows:
 |---|---|
 | Yashar | Signs no agreement, letter or annex with any faction that has not accepted its four principles. How other factions vote is a matter for them. |
 | Together (Yesh Atid) | The coalition agreement must provide for civil marriage and equal rights for every couple within 100 days. Will not serve in a government in which Benjamin Netanyahu holds any office. |
-| The Democrats | Clause 13c means no expansion beyond approved plans and no regularization of outposts on state land. Requires the Public Security portfolio in the coalition agreement. |
+| The Democrats | Clause 13c means no expansion beyond approved plans and no regularization of outposts on state land. Requires the ministry responsible for the police in the coalition agreement. |
 
 ---
 
@@ -103,7 +103,7 @@ The government I am forming will act for all citizens of Israel. I am setting ou
 1. Crime and violence.
    - A national plan of at least NIS 1 billion a year, written into the budget baseline for four years.
    - It covers policing, prevention and enforcement against criminal organizations. This includes the Shin Bet, acting under law and judicial review and against those organizations only.
-   - It will be run by a government coordinator for the fight against crime and violence in Arab society, appointed by government decision for the full term. The coordinator will hold written powers over the plan's budget, delegated by the Minister of Public Security, and may be removed only by the government.
+   - It will be run by a government coordinator for the fight against crime and violence in Arab society, appointed by government decision for the full term. The coordinator will hold written powers over the plan's budget, delegated by the minister responsible for the police, and may be removed only by the government.
    - The government intends to appoint Yoav Segalovitz to the post. Before taking it up he will resign from the Knesset and state publicly that he accepts the principles of the basic guidelines.
    - Every year the government will publish the number of homicides and the share of cases solved and brought to indictment.
 
