@@ -59,3 +59,36 @@ Run 2 started from the branch `claude/israeli-coalition-statement-zz7csh` (run 1
 - To build: `python3 final/build_pdf.py <fonts_dir>`.
 
 *Simulation exercise. It does not speak for any party.*
+
+## 5. Verification and how each finding was resolved
+`drafts/verification_report.md` is a blind back-translation of the Hebrew and Arabic texts, compared against the English. It found 7 HIGH, 10 MEDIUM and 24 LOW items. No cell in any status table differed between the three languages.
+
+**Fixed**
+
+| Item | Problem | Change |
+|---|---|---|
+| H2 | English Part B, clause 7 dropped the Temple Mount | Now reads "including on the Temple Mount (al-Aqsa)", as in the Hebrew and in clause 16 |
+| H3 | Arabic clause 13c rendered "communities" as «مستوطنات» | «بلدات» |
+| H4 | Arabic Part A said "illegal" and "legalize" | «غير المرخّصة» and «تسوية» in the government's text. «غير القانونية» stays in the Arab factions' own replies (Part D) and in the spoken TV texts, where the speakers themselves say "illegal". |
+| H5 | Clause 12 | Aligned to the Hebrew: the government will *decide*, under the Commissions of Inquiry Law, 1968, to establish the commission |
+| H6 | English Part D | "1967 borders", and Hadash's "right to" self-determination restored |
+| M1 | The Arabic status note said "Arabs' votes" | Now "the Arab parties' votes" |
+| M3 | Quarterly reporting | The report is now *published* in all versions |
+| M4 | The English and Arabic letters lacked the addressee, salutation and signature | Added, matching the Hebrew |
+| M6 and M7 | TV statement (c) | "a halt to house demolitions" in English and Hebrew, and "international legitimacy" in English, both faithful to the Arabic original |
+| L5 | Clause 6 said the government "will pass a law" | "Will bring about the enactment of a law": a government cannot pass laws |
+| L9 | "Any remaining hostages" | "The remaining hostages", as in the Hebrew |
+
+**Kept deliberately (flagged, not changed)**
+- **H1: the Arabic names al-Aqsa / al-Haram al-Sharif without "Temple Mount".**
+  - The Hebrew original says "הר הבית (אל-אקצא)", and it is the binding text. The Arabic refers to the same place by its Arabic name, as Arab-Israeli drafters do.
+  - Hadash, Ta'al and Balad all locked this form, and Hadash said "never «جبل الهيكل»".
+  - A government that actually signed would have to decide whether its official Arabic version adds "(جبل الهيكل)". The Zionist parties checked only the Hebrew.
+- **H7: the safety net is for "Arab society" in Hebrew and English, but «لشعبنا» ("for our people") in the Arabic.**
+  - Each wording was chosen by the parties themselves: Hadash proposed the Hebrew, and Balad locked the Arabic.
+  - Both refer to the same community.
+- **M9: the TV statements (b) and (c) say "the Kaminitz Law frozen".** Part B freezes only enforcement against existing inhabited homes. These are the parties' own spoken lines, so this is a consistency flag rather than a translation error.
+- **M10: Ta'al's «عدم شرعية المستوطنات» ("illegitimacy") versus Hadash's «عدم قانونية» ("illegality").** Each party's own Arabic is kept.
+- **The verifier's caveats:**
+  - The Hebrew "original" was drafted from the English master, so "original" describes its legal status, not the order it was written in.
+  - Statement (a) was not translated fully blind.

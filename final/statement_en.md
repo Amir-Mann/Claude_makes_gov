@@ -50,7 +50,7 @@ It is therefore agreed as follows:
 
 5. The government will not initiate legislation that harms the civil equality of any group of citizens, and will not make civil rights conditional on political views. Government services will be fully available in Arabic.
 
-6. Service for all. Within its first year the government will pass a law based on equal sharing of the burden:
+6. Service for all. Within its first year the government will bring about the enactment of a law based on equal sharing of the burden:
    - a. Every young person liable under the Security Service Law will serve, in the IDF or in national-civil service. There will be no exemption quotas and no blanket exemptions. Personal economic sanctions will apply to evaders from the dates set in the law. State funding of educational institutions will depend on teaching the core curriculum.
    - b. Benefits linked to service will go to those who serve, whoever they are. No existing universal right or allowance will be made conditional on service.
    - c. For citizens not liable under the Security Service Law, national-civil service in this term will be voluntary, civilian and in their own communities, and will be run with the local authorities. The law will not change existing call-up arrangements.
@@ -64,11 +64,11 @@ It is therefore agreed as follows:
 
 9. The government parties condemn without reservation the massacre that Hamas carried out on 7 October 2023: the murder, rape and abduction of civilians.
 
-10. Hamas is a terrorist organization. Its military and governing capabilities will be dismantled. It will not rule the Gaza Strip and will not threaten the citizens of Israel. Israel keeps its freedom of security action, in coordination with the international framework for Gaza. The government will act to entrench the end of the war, to bring home any remaining hostages and the bodies of the fallen, and to allow humanitarian aid and reconstruction for the civilian population.
+10. Hamas is a terrorist organization. Its military and governing capabilities will be dismantled. It will not rule the Gaza Strip and will not threaten the citizens of Israel. Israel keeps its freedom of security action, in coordination with the international framework for Gaza. The government will act to entrench the end of the war, to bring home the remaining hostages and the bodies of the fallen, and to allow humanitarian aid and reconstruction for the civilian population.
 
 11. Jewish terror. The government will fight Jewish terror and nationalist violence against Palestinians and their property with the same determination with which the state fights all terror. Its tools will include administrative detention under law and judicial review, a joint Shin Bet and police unit, the re-establishment of the Judea and Samaria police district, the dismantling of violent hubs set up without permission, and prosecution. This violence is the work of a small, violent minority. It harms Palestinians, the residents of the area and the State of Israel itself.
 
-12. Within 14 days of being sworn in, the government will establish a state commission of inquiry into the events of 7 October, the decade that preceded them and the conduct of the war.
+12. Within 14 days of being sworn in, the government will decide, under the Commissions of Inquiry Law, 5729–1968, to establish a state commission of inquiry into the events of 7 October, the decade that preceded them and the conduct of the war.
 
 ### Judea and Samaria (the West Bank)
 
@@ -78,7 +78,7 @@ It is therefore agreed as follows:
    - c. No new communities will be established. Construction in existing communities will take place within their approved plans and by government decision.
    - d. The state budget will include no allocation to unauthorized outposts and no coalition money for them.
 
-14. Outposts and "farms" established without a government decision and without legal authorization will be evacuated, beginning with those on private Palestinian land. A timetable will be published within 90 days, and progress will be reported every quarter. No unauthorized outpost will be regularized during the term, apart from regularization steps decided by the government before 27 October 2026. Those steps will proceed under law and judicial review, and none of them on private Palestinian land.
+14. Outposts and "farms" established without a government decision and without legal authorization will be evacuated, beginning with those on private Palestinian land. A timetable will be published within 90 days, and a progress report will be published every quarter. No unauthorized outpost will be regularized during the term, apart from regularization steps decided by the government before 27 October 2026. Those steps will proceed under law and judicial review, and none of them on private Palestinian land.
 
 15. Israel keeps full security responsibility and full freedom of security action throughout the area. The government will maintain security and civil coordination with the Palestinian Authority and will work with regional and international partners for stability. In accordance with clause 2, no decision on a permanent settlement will be taken during the term, and the parties' positions on such a settlement are fully reserved.
 
@@ -98,7 +98,13 @@ It is therefore agreed as follows:
 
 ## Part B. Open letter of the Prime Minister-designate to the National Committee of Arab Local Authority Heads
 
-*Copied to the chair of the High Follow-Up Committee. To be published before the investiture vote and annexed to the basic guidelines.*
+*To be published before the investiture vote and annexed to the basic guidelines.*
+
+To the Chair of the National Committee of Arab Local Authority Heads
+
+Copy: the Chair of the High Follow-Up Committee
+
+Dear Sir,
 
 The government I am forming will act for all citizens of Israel. I am setting out here, publicly, what it will do for Arab society over the next four years. These are commitments to citizens and to the local leaders they elected, not a price paid for votes, and I ask you to hold us to them every quarter.
 
@@ -134,8 +140,10 @@ The government I am forming will act for all citizens of Israel. I am setting ou
    - Each Knesset faction that publicly answers this letter will name one MK to the committee. **[Not agreed. One option: "as a member with equal standing", demanded by Ra'am, Hadash and Ta'al and accepted by Yesh Atid and the Democrats. The other: "who will receive its reports and may put questions to it", demanded by Yashar and Yisrael Beiteinu.]**
 
 7. The holy places and the way ahead.
-   - The government will preserve the historic status quo at the holy places in Jerusalem, including al-Aqsa.
+   - The government will preserve the historic status quo at the holy places in Jerusalem, including on the Temple Mount (al-Aqsa).
    - It will maintain coordination with the Palestinian Authority, will take no step that precludes a future settlement between Israel and the Palestinians, and will respond to regional and international efforts toward stability and a settlement.
+
+Yours sincerely,<br>Gadi Eisenkot, MK<br>Prime Minister-designate
 
 ---
 
@@ -167,8 +175,8 @@ The government I am forming will act for all citizens of Israel. I am setting ou
 - The safety net lapses if a breach of Part B, or of the status quo at al-Aqsa, is not remedied within 60 days.
 - Balad will be absent from budget votes only if the budget contains no money for annexation or outposts and funds Part B; otherwise its MKs vote against.
 - Each component keeps its own positions:
-  - Hadash on the occupation, the illegality of the settlements, self-determination for the Palestinian people and an independent state on the 1967 lines;
-  - Ta'al on the occupation, the illegality of the settlements, the right of the Palestinian people to an independent state on the 1967 lines with East Jerusalem as its capital, and its rejection of administrative detention;
+  - Hadash on the occupation, the illegality of the settlements, the right of the Palestinian people to self-determination and to an independent state on the 1967 borders;
+  - Ta'al on the occupation, the illegality of the settlements, the right of the Palestinian people to an independent state on the 1967 borders with East Jerusalem as its capital, and its rejection of administrative detention;
   - Balad on the occupation and the settlements;
   - all three in rejecting military and civil service in any form.
 

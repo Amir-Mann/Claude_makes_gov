@@ -224,7 +224,7 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 > What we offer is a safety net for our people, not for the government, in return for written and public commitments:
 > - a billion shekels a year against crime;
 > - the Kaminitz Law frozen;
-> - an end to house demolitions, and recognition of the Negev villages;
+> - a halt to house demolitions, and recognition of the Negev villages;
 > - no annexation, and the outposts evacuated;
 > - the status quo at al-Aqsa preserved.
 >
@@ -232,7 +232,7 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 >
 > We reject harm to innocent civilians of both peoples since the war began, and we demand a final end to the war on Gaza and its reconstruction.
 >
-> There is no democracy with occupation. We will keep up the struggle to end it, and for an independent Palestinian state on the borders of 4 June 1967 with East Jerusalem as its capital, a just solution to the refugee question in line with international resolutions, and full civil and national equality.
+> There is no democracy with occupation. We will keep up the struggle to end it, and for an independent Palestinian state on the borders of 4 June 1967 with East Jerusalem as its capital, a just solution to the refugee question in line with the resolutions of international legitimacy, and full civil and national equality.
 >
 > No to disqualifying our people's representatives. No to military or civilian service in any form. We want an equal partnership.
 
@@ -246,7 +246,7 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 >
 > לא הצבענו בעד הממשלה הזאת, לא חתמנו על יהדות המדינה ולא נתנו לאף אחד צ'ק פתוח.
 >
-> מה שאנחנו מציעים הוא רשת ביטחון לעם שלנו, לא לממשלה, תמורת התחייבויות כתובות ופומביות: מיליארד שקל בשנה נגד הפשיעה, הקפאת חוק קמיניץ, סוף להריסת בתים והכרה בכפרי הנגב, בלי סיפוח ועם פינוי המאחזים, ושמירה על הסטטוס קוו במסגד אל-אקצא. ביום שההתחייבויות האלה יופרו, רשת הביטחון נופלת. וכל שלושה חודשים נדרוש מהממשלה דין וחשבון מול העם שלנו.
+> מה שאנחנו מציעים הוא רשת ביטחון לעם שלנו, לא לממשלה, תמורת התחייבויות כתובות ופומביות: מיליארד שקל בשנה נגד הפשיעה, הקפאת חוק קמיניץ, הפסקת הריסת בתים והכרה בכפרי הנגב, בלי סיפוח ועם פינוי המאחזים, ושמירה על הסטטוס קוו במסגד אל-אקצא. ביום שההתחייבויות האלה יופרו, רשת הביטחון נופלת. וכל שלושה חודשים נדרוש מהממשלה דין וחשבון מול העם שלנו.
 >
 > אנחנו דוחים את הפגיעה באזרחים חפים מפשע משני העמים מאז תחילת המלחמה, ודורשים לשים סוף סופי למלחמה נגד עזה ולשקם אותה.
 >

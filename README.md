@@ -18,7 +18,17 @@ speaks for any real party.
 | taal | Ta'al (Ahmad Tibi) | Joint List |
 | balad | Balad | Joint List |
 
-## Process
+## Run 2 (adversarial re-run): start here
+- `final/assessment.md`: honest bottom line. No government can be formed; three Knesset bills are agreed by all nine.
+- `CHANGES_run2.md`: what changed from run 1 and why, and how the verification findings were resolved.
+- `research/<slug>.md`: re-verified dossiers. Section 0 of each is a claim-by-claim log of run 1's dossier.
+- `research/RESULTS_2026.md`: the fact base (seats, blocs, statements).
+- `research/STYLE_GUIDE.md`: verbatim models of real drafting.
+- `drafts/statement_v4–v6.md` and `reviews/run2/round_1–3/`: the negotiation rounds.
+- `reviews/run2/lock_check/`: the parties' final wording checks.
+- `final/`: the framework in Hebrew (the original), English and Arabic; the TV statements; the PDF.
+
+## Process (run 1)
 - A: `research/<slug>.md` — per-movement dossiers (quotes kept in original language)
 - B: `drafts/statement_vN.md` — consolidated statement + reasoning
 - C/D: `reviews/round_N/<slug>.md` — per-movement reviews, `reviews/round_N/consolidation.md`

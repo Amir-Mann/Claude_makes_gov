@@ -5,6 +5,8 @@ Literal where possible; bracketed notes [ ] give the Arabic term where it matter
 
 Blindness caveat: see `backtranslation_he.md`; the English block of (a) was printed once by a heading grep before translation. `statement_en.md` and the English of (b) and (c) were not opened until both files were saved.
 
+Updated for commit 89e8134 (06:42), which changed the clause 1 footnote, the reservations table, Part B §1 (Segalovitz) and Part D.
+
 ---
 
 ## A. statement_ar.md
@@ -47,6 +49,8 @@ And whereas the signatories wish to form a government for one Knesset term, that
 Therefore the following was agreed:
 
 1. A government shall be formed headed by MK Gadi Eisenkot, in which the blocs Yashar, Together, Yisrael Beiteinu and the Democrats take part. It is a Zionist and statist [دولانيّة] government, serving all citizens of Israel, Jews and Arabs alike. And every citizen's vote has the same weight.
+
+   *The Bennett party and Yisrael Beiteinu reject Part A (see the status statement at the head of the document).*
 
 2. These broad guidelines do not decide any question of principle, and no party waives its position on them. And the government will not take during its term any irreversible step on these questions. As for the matters not regulated here, among them matters of religion and state, they will be regulated in the coalition agreements.
 
@@ -98,8 +102,8 @@ Therefore the following was agreed:
 
 | Party | Reservation |
 |---|---|
-| Yashar | Does not sign any agreement, letter or annex with a bloc that has not accepted its four principles. As for how the other blocs vote, that is their affair. |
-| Together (Yesh Atid) | The coalition agreement must stipulate civil marriage and equal rights for every couple within 100 days. And it will not take part in a government in which Benjamin Netanyahu holds any position. |
+| Yashar | Does not sign any agreement, letter or annex with a bloc that has not accepted its four principles. As for how the other blocs vote, that is their affair. And any return to the arrangements that preceded the judicial-system laws (clause 7) shall be by legislation, after the committee submits its report. |
+| Together (Yesh Atid) | Yesh Atid's signature is conditional on the coalition agreement including legislation for civil marriage and for equal rights for every couple within 100 days. And it will not take part in a government in which Benjamin Netanyahu holds any position. |
 | The Democrats | Clause 13c means no expansion outside the approved plans, and no legalization of settlement outposts built on state land. And they demand in the coalition agreement the ministry responsible for the police. |
 
 ### Part B. Open letter from the Prime Minister-designate to the National Committee of Heads of Arab Local Authorities
@@ -114,7 +118,7 @@ The government that I am working to form will work for all citizens of Israel. A
    - A national plan of no less than one billion shekels annually, entered into the budget base for four years.
    - The plan includes police work, prevention and law enforcement on crime organizations. And this includes the Shabak, provided that it works according to law and under judicial supervision, and against these organizations alone.
    - The plan is run by a government coordinator for combating crime and violence in Arab society, appointed by government decision for the whole term. The minister responsible for the police delegates to him written powers over the plan's budget, and only the government has the power to dismiss him.
-   - The government intends to appoint Yoav Segalovitz to this post. And before he takes it up he will resign from the Knesset and declare publicly his acceptance of the principles of the government's broad guidelines.
+   - The government intends to appoint Yoav Segalovitz to this post. And before he takes it up he will resign from the Knesset and declare publicly, in his own name, his acceptance of the principles of the government's broad guidelines, among them clauses 3 and 10.
    - And the government publishes every year the number of murders, and the proportion of cases solved and in which indictments were filed.
 
 2. The economic plan.
@@ -164,16 +168,18 @@ The government that I am working to form will work for all citizens of Israel. A
 **The United Arab List**
 - The United [List] votes in favour of granting confidence to the government, and in favour of the budgets that fund the commitments of Part B toward Arab society.
 - It withdraws its support if the status quo in the Blessed al-Aqsa Mosque is touched, or if Part B is breached and the breach is not remedied within 60 days.
-- It retains freedom of vote on questions of religion and conscience, and does not adopt clauses 3 and 10 of Part A.
+- It retains freedom of vote on questions of religion and state, conscience and security, and does not adopt clauses 3 and 10 of Part A.
+- And it considers not appointing the coordinator, or dismissing him without cause [دون سبب], a material breach of Part B.
 
 **The Joint List (Hadash, Ta'al, Balad)**
 - "We did not vote for this government." Hadash and Ta'al abstain on the confidence vote, and Balad's MKs absent themselves.
 - As long as Part B is being implemented, the List remains a safety net for our people, and does not support no-confidence motions or bills to dissolve the Knesset.
 - The safety net falls if Part B is breached, or the status quo in the Blessed al-Aqsa Mosque is breached, and the breach is not remedied within 60 days.
-- Balad will not absent itself from the budget vote unless it is free of any money for annexation or for illegal settlement outposts [للبؤر الاستيطانية غير القانونية], and funds Part B.
+- Balad will not absent itself from the budget vote unless it is free of any money for annexation or for illegal settlement outposts [للبؤر الاستيطانية غير القانونية], and funds Part B; otherwise its MKs vote against it.
 - Each component of the List holds to its positions:
-  - Hadash to its positions on the occupation, the illegality of the settlements, and the right of the Palestinian people to self-determination;
-  - Ta'al and Balad to their position on the occupation and the settlements;
+  - Hadash to its positions on the occupation, the illegality of the settlements, and the right of the Palestinian people to self-determination and an independent state on the 1967 borders;
+  - Ta'al to its position on the occupation, the illegitimacy [عدم شرعية] of the settlements, the right of the Palestinian people to an independent state on the 1967 borders with East Jerusalem as its capital, and rejection of administrative detention;
+  - Balad to its position on the occupation and the settlements;
   - and the three components to their rejection of military and civil service in all its forms.
 
 *This document is a simulation exercise based on the public positions of the parties, and does not speak in the name of any party.*
