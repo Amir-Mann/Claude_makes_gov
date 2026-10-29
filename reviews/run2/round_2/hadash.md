@@ -4,12 +4,12 @@
 
 ## 1. P1, "Knesset first": how we vote on the four bills
 
-| Bill | Hadash vote | Why |
-|---|---|---|
-| 1. Replace the Speaker | **For** | This is a must-have shared with Ta'al. The Joint List's votes are counted openly. |
-| 2. State commission law (7 Oct) | **For**, if its mandate covers the conduct of the war, including the humanitarian policy in Gaza. **Abstain** if the mandate stops at 7 Oct. | We want accountability for the "government of blood", not just a review of military failures. |
-| 3. "Defendant law" | **For** | See below. |
-| 4. Service for All | **Against** | Jabareen: "We will not accept any coercion… related to national service." |
+| Bill | Hadash vote |
+|---|---|
+| 1. Replace the Speaker | **For** |
+| 2. State commission law | **For**, if its mandate covers the conduct of the war, including Gaza humanitarian policy; otherwise **abstain** |
+| 3. Defendant law | **For** |
+| 4. Service for All | **Against** ("no coercion") |
 
 **Bill 3, even if it produces a unity government without us: yes, we still vote for it.**
 - We promised to end Netanyahu's rule, not to preserve our own leverage.
@@ -28,14 +28,10 @@ We drop the demand that the letter name the Joint List. A public letter to Arab 
    >
    > «…ولن تتخذ أي خطوة تحول دون تسوية مستقبلية بين إسرائيل والشعب الفلسطيني، وستتجاوب إيجابيًا مع الجهود الإقليمية والدولية للتوصل إلى تسوية سياسية».
 
-   - We give up "renew a diplomatic process with the Palestinian leadership".
-   - We do **not** give up "the Palestinian people". It costs Yashar four words, and Yesh Atid and Ra'am already accept it.
+   - We give up "renew a diplomatic process". We do **not** give up "the Palestinian people", which Yesh Atid and Ra'am already accept.
 3. **Content.** The letter carries:
-   - Chapter D with dates;
-   - Kaminitz frozen on the day of swearing-in;
-   - no forced relocation in the Negev without the residents' agreement;
-   - clauses 13[A] or [C] and 14;
-   - the al-Aqsa trigger;
+   - Chapter D with dates, including the Kaminitz freeze from swearing-in and no Negev relocation without the residents' agreement;
+   - clauses 13[A] or [C] and 14, and the al-Aqsa trigger;
    - a monitoring committee in which the Joint List sits as an equal member.
 
 **How Hadash votes under S2+ if the conditions are met:**
