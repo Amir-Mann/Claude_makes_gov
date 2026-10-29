@@ -1,8 +1,9 @@
 """Build final/coalition_statement.pdf from the final/*.md sources.
 
 Usage: python3 final/build_pdf.py <fonts_dir>
-Page 1: the joint public statement in English, Hebrew and Arabic.
-Then: the full framework in each language. Last: signature page.
+First pages: the three television statements (government leaders, Ra'am, Joint List),
+each in its original language with the other two versions beside it.
+Then: the full framework in each language. Last: one signature page per tier, recording who declined.
 """
 import base64
 import json
@@ -25,14 +26,30 @@ def font_face(family, file, weight):
 
 def md(text):
     text = re.sub(r"</?div[^>]*>", "", text)
+    # Python-Markdown needs a blank line before a list that follows a paragraph line.
+    text = re.sub(r"(?m)^((?![ \t]*(?:[-*] |\d+\. |\|)).+)\n(?=[ \t]*[-*] )", r"\1\n\n", text)
     return markdown.markdown(text, extensions=["tables"])
 
 
-def tv_section(lang_heading):
+def tv_section(statement, lang_heading):
+    """Text of one statement ("(a)", "(b)", "(c)") in one language from tv_statement.md."""
     src = (ROOT / "tv_statement.md").read_text()
-    block = src.split(f"## {lang_heading}", 1)[1].split("\n---", 1)[0]
+    part = src.split(f"## {statement}", 1)[1].split("\n## ", 1)[0].split("\n---", 1)[0]
+    title = part.split("\n", 1)[0].strip()
+    block = part.split(f"### {lang_heading}", 1)[1]
+    label = block.split("\n", 1)[0].strip()
+    block = block.split("\n", 1)[1].split("\n### ", 1)[0].split("\n**", 1)[0]
     block = "\n".join(l[2:] if l.startswith("> ") else l.lstrip(">") for l in block.splitlines())
-    return md(block)
+    return title, f"{lang_heading} {label}".strip(), md(block)
+
+
+def tv_page(statement, order):
+    cols = []
+    for lang in order:
+        title, label, body = tv_section(statement, lang)
+        cls = {"עברית": "col he", "العربية": "col ar", "English": "col"}[lang]
+        cols.append(f'<div class="{cls}"><h3>{label}</h3>{body}</div>')
+    return f'<h2>{statement} {title}</h2><div class="cols">{"".join(cols)}</div>'
 
 
 def framework(file):
@@ -59,6 +76,7 @@ def framework(file):
     return md("\n".join(out))
 
 
+STATUS = md((ROOT / "tv_statement.md").read_text().split("## Status", 1)[1].split("\n---", 1)[0])
 TIERS = json.loads((ROOT / "signatories.json").read_text())
 
 
@@ -68,12 +86,11 @@ def sig_block(s):
   <div class="sig-name">{" · ".join(f"<bdi>{n}</bdi>" for n in s['name'].split(" · "))}</div>
   <div class="sig-party"><bdi>{s['party_en']}</bdi> · <bdi>{s['party_he']}</bdi> · <bdi>{s['party_ar']}</bdi></div>
   <div class="sig-scope">{s['scope']}</div>
-  <div class="sig-line"></div>
-  <div class="sig-labels"><span>Signature · חתימה · التوقيع</span><span>Date · תאריך · التاريخ</span></div>
+  {'<div class="sig-declined">Declined to sign · סירב לחתום · رفض التوقيع</div>' if s.get('declined') else '<div class="sig-line"></div><div class="sig-labels"><span>Signature · חתימה · التوقيع</span><span>Date · תאריך · التاريخ</span></div>'}
 </div>"""
 
 
-# One page per tier: Yisrael Beiteinu would not sign on the same page as Balad (round 4).
+# One page per tier: the government parties will not sign on the same page as the Arab factions' replies.
 sig_pages = "".join(f"""
 <div class="part">
   <h1>Signatures · חתימות · التوقيعات ({i}/{len(TIERS)})</h1>
@@ -113,20 +130,21 @@ td,th {{ border:1px solid #ccc; padding:3pt 4pt; vertical-align:top; text-align:
 .sig {{ border:1px solid #ccc; border-radius:4pt; padding:7pt 9pt; break-inside:avoid; }}
 .sig-name {{ font-weight:700; font-size:10.5pt; }} .sig-party {{ font-size:8.5pt; color:#444; }}
 .sig-scope {{ font-size:7.8pt; color:#555; margin-top:3pt; min-height:22pt; }}
+.status {{ font-size:8.3pt; border:1px solid #c9a; background:#fbf6f2; padding:5pt 8pt; margin:4pt 0 8pt; }}
 .sig-line {{ border-bottom:1px solid #333; height:30pt; }}
 .sig-labels {{ display:flex; justify-content:space-between; font-size:7.5pt; color:#666; margin-top:2pt; }}
+.sig-declined {{ font-weight:700; color:#8a1c1c; font-size:9pt; padding:12pt 0 6pt; }}
 .note {{ font-size:7.6pt; color:#666; text-align:center; margin-top:8pt; }}
 </style></head><body>
 
 <div class="cover-title">
   <h1>Four Years of Repair · ארבע שנים של תיקון · أربع سنوات من الإصلاح</h1>
-  <div class="sub">Joint public statement of nine political movements · הצהרה פומבית משותפת · بيان علني مشترك</div>
+  <div class="sub">Television statements for the evening the government is presented · הצהרות לטלוויזיה · بيانات متلفزة</div>
 </div>
-<div class="cols">
-  <div class="col"><h3>English</h3>{tv_section('English')}</div>
-  <div class="col he"><h3>עברית</h3>{tv_section('עברית')}</div>
-  <div class="col ar"><h3>العربية</h3>{tv_section('العربية')}</div>
-</div>
+<div class="status">{STATUS}</div>
+<div class="part">{tv_page("(a)", ["עברית", "English", "العربية"])}</div>
+<div class="part">{tv_page("(b)", ["العربية", "English", "עברית"])}</div>
+<div class="part">{tv_page("(c)", ["العربية", "English", "עברית"])}</div>
 
 <div class="part">{framework('statement_en.md')}</div>
 <div class="part he">{framework('statement_he.md')}</div>

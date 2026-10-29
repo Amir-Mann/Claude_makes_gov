@@ -3,7 +3,7 @@
 ## Status
 
 **No single nine-leader statement was agreed.** Run 1 had all nine leaders read one text, in turn, on one stage. In run 2 no movement accepted that format:
-- Yashar, Bennett and Yisrael Beiteinu will not share a stage with Balad, whose chairman they voted to disqualify three weeks before the election.
+- Yashar, Bennett and Yisrael Beiteinu will not share a stage with Balad, whose chairman they voted to disqualify on 23 September.
 - Yisrael Beiteinu will read nothing alongside the Arab parties.
 - Hadash, Ta'al and Balad will not say "the massacre Hamas committed", "Hamas will not rule Gaza", "our fallen" or "Jewish and democratic" in the first person.
 - Balad will not say "a small extremist minority" or "as the Declaration of Independence promised".
