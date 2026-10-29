@@ -17,24 +17,22 @@
 **Bill 2, 7 October state commission: FOR.**
 
 **Bill 3, the defendant law: FOR, even knowing it may open S4a without us.**
-- Abbas set the line on 26 Aug: «مصلحتنا العليا هي استبدال هذه الحكومة العنصرية», even at a personal cost.
+- Abbas, 26 Aug: «مصلحتنا العليا هي استبدال هذه الحكومة العنصرية».
 - A Likud government without Netanyahu, Ben-Gvir and Smotrich is better for Arab society than Netanyahu as caretaker until 2027 or later.
-- We are not afraid of opposition with 7 seats. We will demand that any S4a adopt clauses 16–19 as policy. Yisrael Beiteinu already says it would.
-- We say this openly: Ra'am does not boycott and is not boycotted. "We brought down Netanyahu in 2021 and we will help do it again."
+- In opposition we will demand that any S4a adopt clauses 16–19; Yisrael Beiteinu says it would.
 
 **Bill 4, Service for All: conditional FOR,** on two fixes we raised in round 1:
 1. 6a(a) adds: *"This applies to those called up under the call-up practice in force on 27 Oct 2026; it does not change that practice for Arab citizens."*
 2. 6a(c) becomes *"a voluntary civic-community track (مسار مدني-مجتمعي تطوعي), run with Arab local authorities and civil society, with incentives and no quotas or targets."*
 
-Without both fixes, Ra'am MKs have a free vote, and most will abstain. We vote to end the Haredi blanket exemption; we do not vote for «تجنيد» of our youth.
+Without both fixes: free vote, most abstain. We end the Haredi exemption; we do not vote for «تجنيد» of our youth.
 
 **Reciprocity, unsigned on both sides.** "Knesset first" cannot mean we vote for four Zionist-agenda bills and get nothing. We table **bill 5**, the Kaminitz enforcement freeze, which is the 2021 model: administrative fines and demolition orders against existing inhabited homes are suspended until plans are approved.
-- We vote for their four bills, and they vote for our one.
-- If Bennett and Lieberman want to show that "voting alongside Ra'am" is normal, this is where they show it.
+- We vote for their four bills; they vote for our one.
 
 ## 2. P2, "S2+": does the open letter meet our demand?
 
-Yes, if five conditions are met. We drop the demand that the letter be addressed to Ra'am. A public commitment to all Arab citizens, through the elected local authority heads, is stronger in front of our voters than a private side-letter.
+Yes, if five conditions are met. We drop the demand that the letter be addressed to Ra'am; a public commitment to all Arab citizens is stronger before our voters.
 
 1. **Binding status.** The letter is published **before** the investiture vote and annexed verbatim to the basic guidelines, so it is a government commitment, not a press release.
 2. **Numbers and dates:**
@@ -56,9 +54,7 @@ Yes, if five conditions are met. We drop the demand that the letter be addressed
    - the coordinator, as chair;
    - one representative of **each** Arab faction, as equal members. We accept the Joint List as an equal member.
 
-**Clause 2.** We tolerate "ממשלה ציונית ממלכתית" as the government parties' description of themselves. We back the Democrats' addition: *"…and regards the votes of all citizens as equal and their representatives as legitimate partners."* We will not vote yes for a government that ranks our votes as second-class in its own founding text.
-
-**The horizon sentence** belongs to the Joint List. Ra'am does not need it and will not block it.
+**Clause 2.** We tolerate "ממשלה ציונית ממלכתית" as the parties' self-description, with the Democrats' addition: *"…and regards the votes of all citizens as equal and their representatives as legitimate partners."*
 
 **Votes:**
 
@@ -72,18 +68,7 @@ Yes, if five conditions are met. We drop the demand that the letter be addressed
 
 **T2 confirmed.** Ra'am speaks separately, on the same evening, in Arabic and Hebrew.
 
-**We will say:**
-- the crimes of 7 October;
-- pain for every innocent life, Jewish and Arab;
-- al-Aqsa;
-- partnership;
-- peace and reconciliation between the two peoples.
-
-**We will not say:**
-- "destroy Hamas";
-- "Zionist government" in the first person;
-- "Jewish state" as a creed;
-- anything implying service is a duty for Arab youth.
+**We will not say:** "destroy Hamas"; "Zionist government" in the first person; "Jewish state" as a creed; service as a duty for Arab youth.
 
 ### T2(b): Ra'am statement (Arabic, Abbas's register)
 
@@ -98,13 +83,6 @@ Yes, if five conditions are met. We drop the demand that the letter be addressed
 
 (134 words. The first line reuses Abbas's own 26 Oct Bokra phrase.)
 
-## 4. Attacks and answers
+## 4. Attacks
 
-**Joint List: "Ra'am gave up its own deputy minister for a coordinator."**
-Answer: "The coordinator is ours, the money is in writing, and the freeze starts on day one. Who got more?"
-
-**Likud: "Thieves."**
-Answer: "The Supreme Court cleared us unanimously; 300,000 citizens voted for us."
-
-**Negev base: any demolition.**
-Answer: the al-Aqsa clause and the monitoring committee give us an exit, and we will use it.
+**Joint List: "a coordinator, not a minister."** Answer: "The coordinator is ours, the money is in writing, the freeze starts on day one."

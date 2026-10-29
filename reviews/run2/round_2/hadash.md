@@ -13,15 +13,13 @@
 
 **Bill 3, even if it produces a unity government without us: yes, we still vote for it.**
 - We promised to end Netanyahu's rule, not to preserve our own leverage.
-- A unity government without Netanyahu and probably without Ben-Gvir is worse than a change government. It is still better than Netanyahu as caretaker until 2027.
-- In that case we lead the opposition with clean hands and the largest Arab faction ever.
-- Our voters will forgive opposition. They would not forgive us for keeping Netanyahu in office to protect our bargaining position.
+- A unity government without Netanyahu is worse than a change government, but better than Netanyahu as caretaker until 2027. We would lead the opposition with clean hands.
 
 ## 2. P2, "S2+": does an open letter to the National Committee of Arab Local Authority Heads meet our demand?
 
 **Partly. We move, on three conditions.**
 
-We drop the demand that the letter be addressed to the Joint List by name. A public letter to Arab society's own elected bodies is closer to "a safety net for our society, not for the government" than a deal between factions. Our counterpart instrument becomes **our own published reply**, which sets out our conditions and when our commitment lapses.
+We drop the demand that the letter name the Joint List. A public letter to Arab society's own elected bodies fits "a safety net for our society, not for the government". Our counterpart becomes **our own published reply**, which sets out our conditions and when our commitment lapses.
 
 **Conditions:**
 1. **Addressees.** The letter is also addressed to the High Follow-Up Committee (لجنة المتابعة العليا). The Local Authority Heads alone do not represent the political public.
@@ -52,20 +50,13 @@ We drop the demand that the letter be addressed to the Joint List by name. A pub
 - his budget is in the letter;
 - no Shin Bet role in civilian policing.
 
-We record our objection on the Shin Bet. We prefer him to a Ra'am deputy minister.
+We prefer this to a Ra'am deputy minister.
 
 ## 3. Joint List coordination
-
-| Item | Hadash | Ta'al | Balad | Joint List position |
-|---|---|---|---|---|
-| Speaker, bill 1 | For | For | For | United |
-| Defendant law, bill 3 | For | For [inferred] | Likely for | United |
-| Service law, bill 4 | Against | Against | Against | United |
-| Investiture under S2+ | Abstain | Abstain | **Absent** | **One decision, "we did not vote for the government", with each faction free to abstain or be absent** |
-| Clause 5, no disqualification petitions | Support | Support | **Condition** | A Joint List condition |
-| Struck boycott line (Yisrael Beiteinu) | Support | Demand | **Deal-breaker** | A Joint List condition |
-
-**Risk.** Balad votes against if the government advertises itself as a "Zionist government that does not rely on Arabs". Hadash cannot prevent that, and 55 to 56 kills the government. We ask Yashar to choose: "ממלכתית" yes, a public boycott line no.
+- **Shared positions:** for bill 1, against bill 4, and bill 3 likely united.
+- **Investiture:** one Joint List decision, "we did not vote for the government". Hadash and Ta'al abstain; Balad is absent.
+- **Shared Joint List conditions:** clause 5 (no disqualification petitions) and striking Yisrael Beiteinu's boycott line.
+- **Risk:** Balad votes against a government that advertises itself as "Zionist, not relying on Arabs", and 55 to 56 kills it. We ask Yashar to choose: "ממלכתית" yes, a public boycott line no.
 
 ## 4. TV statement: T2 confirmed
 
@@ -81,11 +72,12 @@ We confirm **T2(b)**: a separate Joint List statement on the same evening, read 
 > لا ديمقراطية مع الاحتلال. سنواصل النضال لإنهائه، ومن أجل أفق سياسي حقيقي وسلام عادل **[B?] بدولتين على حدود 1967**، ومساواة مدنية وقومية كاملة.
 > **[B?] الشراكة العربية اليهودية الحقيقية** هي طريق التغيير.
 
-**Notes on the marks:**
-- **"منذ السابع من أكتوبر" (since 7 October).** Balad will not name 7 Oct. Hadash's fallback is «منذ بداية الحرب» ("since the war began"). Jabareen says the 7 Oct line in his own remarks.
-- **"بدولتين على حدود 1967" (two states on the 1967 lines).** This is a Hadash line. Balad's fallback is «سلام عادل يضمن حق تقرير المصير» ("a just peace that guarantees the right to self-determination").
-- **"الشراكة العربية اليهودية" (Arab-Jewish partnership).** This is a Hadash trademark. Balad may accept «شراكة متساوية» ("an equal partnership") instead.
-- **Ta'al:** no line is expected to be refused. Tibi will add «حقبة نتنياهو انتهت» ("the Netanyahu era is over").
+**Fallbacks for the marked lines:**
+- Instead of "since 7 October": «منذ بداية الحرب» ("since the war began").
+- Instead of "two states on the 1967 lines": «سلام عادل يضمن حق تقرير المصير» ("a just peace that guarantees the right to self-determination").
+- Instead of "Arab-Jewish partnership": «شراكة متساوية» ("an equal partnership").
+
+Ta'al is not expected to refuse any line. Tibi adds «حقبة نتنياهو انتهت» ("the Netanyahu era is over").
 
 Hadash's own Hebrew remarks (Jabareen) add: "גינינו מהיום הראשון את הפגיעה באזרחים ב-7 באוקטובר, כפי שאנו מגנים את הרג עשרות אלפי האזרחים בעזה." He will not say "Hamas is a terror organization", "Jewish and democratic", "our fallen" or "Zionist government".
 
