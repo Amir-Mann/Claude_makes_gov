@@ -38,6 +38,8 @@ It is therefore agreed as follows:
 
 1. A government will be formed under MK Gadi Eisenkot, with the factions Yashar, Together, Yisrael Beiteinu and the Democrats as its members. It will be a Zionist, statist government and will serve all citizens of Israel, Jews and Arabs alike. Every citizen's vote carries equal weight.
 
+   *Bennett's party and Yisrael Beiteinu reject Part A (see the status note above).*
+
 2. These guidelines decide no question of principle, and no party waives its position on any such question. The government will take no irreversible step on these questions during its term. Matters not settled here, religion and state among them, will be settled in the coalition agreements.
 
 ### The state and its citizens
@@ -88,8 +90,8 @@ It is therefore agreed as follows:
 
 | Party | Reservation |
 |---|---|
-| Yashar | Signs no agreement, letter or annex with any faction that has not accepted its four principles. How other factions vote is a matter for them. |
-| Together (Yesh Atid) | The coalition agreement must provide for civil marriage and equal rights for every couple within 100 days. Will not serve in a government in which Benjamin Netanyahu holds any office. |
+| Yashar | Signs no agreement, letter or annex with any faction that has not accepted its four principles. How other factions vote is a matter for them. Any return to the arrangements that preceded the judicial laws (clause 7) will be made by legislation after the committee reports. |
+| Together (Yesh Atid) | Its signature is conditional on the coalition agreement including legislation for civil marriage and equal rights for every couple within 100 days. Will not serve in a government in which Benjamin Netanyahu holds any office. |
 | The Democrats | Clause 13c means no expansion beyond approved plans and no regularization of outposts on state land. Requires the ministry responsible for the police in the coalition agreement. |
 
 ---
@@ -104,7 +106,7 @@ The government I am forming will act for all citizens of Israel. I am setting ou
    - A national plan of at least NIS 1 billion a year, written into the budget baseline for four years.
    - It covers policing, prevention and enforcement against criminal organizations. This includes the Shin Bet, acting under law and judicial review and against those organizations only.
    - It will be run by a government coordinator for the fight against crime and violence in Arab society, appointed by government decision for the full term. The coordinator will hold written powers over the plan's budget, delegated by the minister responsible for the police, and may be removed only by the government.
-   - The government intends to appoint Yoav Segalovitz to the post. Before taking it up he will resign from the Knesset and state publicly that he accepts the principles of the basic guidelines.
+   - The government intends to appoint Yoav Segalovitz to the post. Before taking it up he will resign from the Knesset and state publicly, in his own name, that he accepts the principles of the basic guidelines, among them clauses 3 and 10.
    - Every year the government will publish the number of homicides and the share of cases solved and brought to indictment.
 
 2. Economic plan.
@@ -156,16 +158,18 @@ The government I am forming will act for all citizens of Israel. I am setting ou
 **Ra'am**
 - Will vote for the investiture of the government and for budgets that fund Part B.
 - Withdraws its support if the status quo at al-Aqsa is breached, or if a breach of Part B is not remedied within 60 days.
-- Keeps a free vote on matters of religion and conscience, and does not adopt clauses 3 and 10 of Part A.
+- Keeps a free vote on matters of religion and state, conscience and security, and does not adopt clauses 3 and 10 of Part A.
+- Regards a failure to appoint the coordinator, or the coordinator's removal without cause, as a material breach of Part B.
 
 **The Joint List (Hadash, Ta'al, Balad)**
 - "We did not vote for this government." Hadash and Ta'al will abstain on investiture; Balad's MKs will be absent.
-- While Part B is being implemented, the list will not support motions of no confidence or bills to dissolve the Knesset.
+- While Part B is being implemented, the list will be a safety net for Arab society and will not support motions of no confidence or bills to dissolve the Knesset.
 - The safety net lapses if a breach of Part B, or of the status quo at al-Aqsa, is not remedied within 60 days.
-- Balad will be absent from budget votes only if the budget contains no money for annexation or outposts and funds Part B.
+- Balad will be absent from budget votes only if the budget contains no money for annexation or outposts and funds Part B; otherwise its MKs vote against.
 - Each component keeps its own positions:
-  - Hadash on the occupation, the illegality of the settlements and self-determination for the Palestinian people;
-  - Ta'al and Balad on the occupation and the settlements;
+  - Hadash on the occupation, the illegality of the settlements, self-determination for the Palestinian people and an independent state on the 1967 lines;
+  - Ta'al on the occupation, the illegality of the settlements, the right of the Palestinian people to an independent state on the 1967 lines with East Jerusalem as its capital, and its rejection of administrative detention;
+  - Balad on the occupation and the settlements;
   - all three in rejecting military and civil service in any form.
 
 ---

@@ -110,7 +110,7 @@ The Hebrew text of (a) and the Arabic texts of (b) and (c) are the originals. Th
 **Lines Bennett and Lieberman would add, and only in a government with Likud without Netanyahu:**
 - Bennett:
   - "וישראל תחזיק בקו הצהוב עד שיפורק" (and Israel will hold the yellow line until it is disarmed);
-  - "נגד הקומץ האלים ונגד כל בנייה בלתי חוקית" (against the violent handful and against all illegal construction);
+  - after "נפנה מאחזים בלתי חוקיים": "ונאכוף את החוק נגד כל בנייה בלתי חוקית, יהודית ופלסטינית" (and we will enforce the law against all illegal construction, Jewish and Palestinian), with "ולא נספח בקדנציה הזאת" (and we will not annex in this term);
   - "לא תקום מדינה פלסטינית" (no Palestinian state will be established).
 - Lieberman:
   - "100% למשרתים, 0% למשתמטים" (100% for those who serve, 0% for draft-dodgers);
