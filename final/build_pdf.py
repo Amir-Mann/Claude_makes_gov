@@ -134,6 +134,8 @@ td,th {{ border:1px solid #ccc; padding:3pt 4pt; vertical-align:top; text-align:
 .sig-line {{ border-bottom:1px solid #333; height:30pt; }}
 .sig-labels {{ display:flex; justify-content:space-between; font-size:7.5pt; color:#666; margin-top:2pt; }}
 .sig-declined {{ font-weight:700; color:#8a1c1c; font-size:9pt; padding:12pt 0 6pt; }}
+.div table {{ font-size:7.4pt; }} .div td {{ padding:2.5pt 3pt; }} .div td:nth-child(1) {{ width:10pt; }}
+mark {{ background:#ffe36e; padding:0 1pt; }}
 .note {{ font-size:7.6pt; color:#666; text-align:center; margin-top:8pt; }}
 </style></head><body>
 
@@ -142,6 +144,7 @@ td,th {{ border:1px solid #ccc; padding:3pt 4pt; vertical-align:top; text-align:
   <div class="sub">Television statements for the evening the government is presented · הצהרות לטלוויזיה · بيانات متلفزة</div>
 </div>
 <div class="status">{STATUS}</div>
+<div class="part div">{md((ROOT / "divergences.md").read_text().split("\n---\n*", 1)[0].replace("\n*This document", "\n\n*This document"))}</div>
 <div class="part">{tv_page("(a)", ["עברית", "English", "العربية"])}</div>
 <div class="part">{tv_page("(b)", ["العربية", "English", "עברית"])}</div>
 <div class="part">{tv_page("(c)", ["العربية", "English", "עברית"])}</div>
